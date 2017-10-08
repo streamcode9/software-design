@@ -1,7 +1,7 @@
 --------------------------------------
 -- Header
 
-module SomeModuleName(someMethodDefinition, SomeTypeDefinition) where
+module SomeModuleName(someMethodDefinition, OutputTypeName) where
 
 import SomeImportedModuleName0
 import SomeImportedModuleName1(someImportedMethodName)
@@ -9,6 +9,15 @@ import SomeImportedModuleName1(someImportedMethodName)
 ---------------------------------------
 -- Definitions (types, values, type classes, type class instances) 
 
-SomeTypeDefinition = Up | Down
+data OutputTypeName = Up | Down
 
-someMethodDefinition x = x * x 
+data [a] = [] | a : [a]
+
+someMethodDefinition :: InputTypeName -> OutputTypeName
+someMethodDefinition x = Up 
+
+data Day = Day Int
+
+data Date = Date Year Month Day
+
+
