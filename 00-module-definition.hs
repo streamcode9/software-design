@@ -20,6 +20,23 @@ data Day = Day Int
 
 data Date = Date Year Month Day
 
+class Group a where
+    e   :: a
+    (+) :: a -> a -> a
+    inv :: a -> a
+
+twice :: Group a => a -> a
+twice a = a + a
+
+-- (Group a, Eq a) is type definition/decclaration context
+isE :: (Group a, Eq a) => a -> Bool
+isE x = (x == e)
+
+-- 'a' is a type class context
+class IsPerson a
+-- IsPerson is super class for HasName
+class IsPerson a => HasName a where
+    name :: a -> String
 
 --------------------------------------
 -- Control.Monad.Except
