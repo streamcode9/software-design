@@ -86,7 +86,9 @@ do { foo <- bar ; baz } = bar >>= \foo -> baz
 -- 1) Use (>=>), (<=<) and (.) to build one-directional stream
 
 
-
-
+--------------------------------------
+-- Partial application = currying
+fun :: a1 -> a2 -> a3 -> a4 -> res = fun :: a1 -> (a2 -> (a3 -> (a4 -> res)))
+fun a b c d                        = (((fun a) b) c) d
 
 
