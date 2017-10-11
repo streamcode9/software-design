@@ -87,6 +87,13 @@ do { foo <- bar ; baz } = bar >>= \foo -> baz
 
 
 --------------------------------------
+-- Anti-patterns
+
+-- If you know that there are Right values only use specific function like mapMaybe instead of manual map
+map (\(Right x) -> x) xs
+
+
+--------------------------------------
 -- Partial application = currying
 fun :: a1 -> a2 -> a3 -> a4 -> res = fun :: a1 -> (a2 -> (a3 -> (a4 -> res)))
 fun a b c d                        = (((fun a) b) c) d
