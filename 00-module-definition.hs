@@ -100,4 +100,7 @@ map (\(Right x) -> x) xs
 fun :: a1 -> a2 -> a3 -> a4 -> res = fun :: a1 -> (a2 -> (a3 -> (a4 -> res)))
 fun a b c d                        = (((fun a) b) c) d
 
-
+-- Partial application for infix style functions
+let minus = (-)
+(2 `minus` ) 1 =  1 -- right section
+( `minus` 2) 1 = -1 -- left  section
