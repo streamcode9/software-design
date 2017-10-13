@@ -104,3 +104,9 @@ fun a b c d                        = (((fun a) b) c) d
 let minus = (-)
 (2 `minus` ) 1 =  1 -- right section
 ( `minus` 2) 1 = -1 -- left  section
+
+-- Recursive types
+data Nat = Zero | Succ Nat
+
+
+
