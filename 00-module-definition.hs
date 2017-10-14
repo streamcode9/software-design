@@ -108,5 +108,5 @@ let minus = (-)
 -- Recursive types
 data Nat = Zero | Succ Nat
 
-
+data [a] = [] | a : [a]
 
