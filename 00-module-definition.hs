@@ -116,7 +116,7 @@ data [a] = [] | a : [a]
 
 either :: (a -> c) -> (b -> c) -> Either a b -> c
 
-maybe
+maybe :: b -> (a -> b) -> Maybe a -> b
 
 foldr
 
