@@ -118,8 +118,13 @@ either :: (a -> c) -> (b -> c) -> Either a b -> c
 
 maybe :: b -> (a -> b) -> Maybe a -> b
 
-foldr
+foldr :: (a -> b -> b) -> b -> [a] -> b
+foldr f z []     = z 
+foldr f z (x:xs) = f x (foldr f z xs)
 
+foldl :: (a -> b -> b) -> b -> [a] -> b
+foldl f z []     = z                  
+foldl f z (x:xs) = foldl f (f z x) xs
 
 
 
