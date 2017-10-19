@@ -88,6 +88,7 @@ do { foo <- bar ; baz } = bar >>= \foo -> baz
 -- 3) не лепить одну большую непонятную операцию там, где можно сделать композицию двух маленьких понятных
 -- 4) если левая и правая половина (например списка таплов) обрабатывеются единообразно, то из кода этого должно быть видно (не смешивать единообразную часть с отличающейся)
 
+
 --------------------------------------
 -- Anti-patterns
 
@@ -126,15 +127,20 @@ foldl :: (a -> b -> b) -> b -> [a] -> b
 foldl f z []     = z                  
 foldl f z (x:xs) = foldl f (f z x) xs
 
+
 --------------------------------------
---  Равенства
+-- Равенства
 
 fmap == (<$>) == map
 foo >>= return . bar == bar <$> foo
 
 
-
-
+--------------------------------------
+-- Project structure
+-- Stack creates next folders struture:
+-- app 
+-- src - the idea of the library is that it's the code which is tested (and thus shared between exe and test suite)
+-- test
 
 
 
