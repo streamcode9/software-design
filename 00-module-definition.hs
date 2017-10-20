@@ -143,6 +143,14 @@ foo >>= return . bar == bar <$> foo
 -- test
 
 
+--------------------------------------
+-- Functions composition
+
+(.) :: (b -> c) -> (a -> b) -> (a -> c)
+f . g = \x -> f (g x)
+
+(>>) :: (a -> b) -> (b -> c) -> (a -> c)
+f >> g = \x -> g (f x)
 
 
 
