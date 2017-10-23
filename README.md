@@ -26,9 +26,15 @@ If a change in one module results in many changes in another module then they ar
 
 ### SoC - Separation of Concerns
 
+[wiki](https://en.wikipedia.org/wiki/Separation_of_concerns)
+
 Улучшает Loose Coupling and High Cohesion.
 
 - "модуль парсинга не должен заниматься отчётами, а модуль отчётов - парсингом"
+
+### Отделение интерфейса от реализации
+
+### Узкие интерфейсы
 
 ### Information Hiding
 
@@ -37,15 +43,19 @@ If a change in one module results in many changes in another module then they ar
 
 ## Антипаттерны
 
+### Всё захардкожено и Всё параметризовано всем
+
+Слишком плохой или слишком хороший coupling соответственно
+
 ### God Object
 
 Антипаттерн High cohesion - много несвязанного функционала намешано в кучу
 
 [wiki](https://en.wikipedia.org/wiki/God_object) [c2](http://wiki.c2.com/?GodClass)
 
-### Overengineering and Overengineering
+### Overengineering and Underengineering
 
-При андеинжиниринге все принципы нарушены. При оверинжиниринги все принципы доведены до абсурда.
+При андеинжиниринге все принципы нарушены. При оверинжиниринге все принципы доведены до абсурда.
 
 ### Spaghetti and Ravioli Code
 
@@ -61,6 +71,20 @@ If a change in one module results in many changes in another module then they ar
 - повторная реализация функциональности, уже имеющейся в проекте
 - использование плохого наколенного алгоритма вместо имеющегося хорошего
 
+### Duplicate Code vs Compressed Code
+
+[wiki](https://en.wikipedia.org/wiki/Duplicate_code)
+
+### Code Rot
+
+[wiki](https://en.wikipedia.org/wiki/Software_rot)
+
+### Technical Debt
+
+### Data Clump
+
+[wiki](https://en.wikipedia.org/wiki/Data_Clump_(Code_Smell))
+
 ## Поведенческие и методологические антипаттерны
 
 ### Программирование по аналогии
@@ -69,4 +93,18 @@ If a change in one module results in many changes in another module then they ar
 - скопировать аналогичный кусок из другого  места текущего проекта и поправить
 
 ### Беспомощный котёнок
+
+## Принципы тестирования
+
+### Black box vs white box testing
+
+### Интеграционные тесты
+
+### Регрессионные тесты
+
+### TDD и Tests First
+
+### Stubs and Mock Objects
+
+### Randomized Property Testing
 
