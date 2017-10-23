@@ -83,11 +83,12 @@ do { foo <- bar ; baz } = bar >>= \foo -> baz
 --------------------------------------
 -- Code style
 
--- Use (>=>), (<=<) and (.) to build one-directional stream (produce eta reduction). It assumes using compositional style instead of applicative.
+-- Use (>=>), (<=<) and (.) to build one-directional stream (produce eta reduction). 
+-- It assumes using compositional style instead of applicative.
 -- более модульно писать = именовать промежуточные операции (вместо именования промежуточных значений)
 -- не лепить одну большую непонятную операцию там, где можно сделать композицию двух маленьких понятных
 -- если левая и правая половина (например списка таплов) обрабатывеются единообразно, то из кода этого должно быть видно (не смешивать единообразную часть с отличающейся)
-
+-- Get rid of the parentheses where it is possible.
 
 --------------------------------------
 -- Anti-patterns
