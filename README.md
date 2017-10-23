@@ -36,10 +36,28 @@ If a change in one module results in many changes in another module then they ar
 
 ### Узкие интерфейсы
 
+[deviq](http://deviq.com/interface-segregation-principle/)
+
 ### Information Hiding
 
 - "Модуль парсинга не должен знать о том, что существует модуль отчётов"
 - "Модуль отчётов не должен знать о используемой модулем парсинга библиотеке парсинга"
+
+### Single Responsibility
+
+A component should have only one reason to change
+
+## Избегание оверинжиниринга
+
+### YAGNI - You Ain’t Gonna Need It
+
+[deviq](You Ain’t Gonna Need It)
+
+### Не чини то, что не поломано
+
+[c2](http://wiki.c2.com/?IfItIsWorkingDontChange)
+
+### Выращиваение программ
 
 ## Антипаттерны
 
@@ -61,9 +79,6 @@ If a change in one module results in many changes in another module then they ar
 
 ### Оно же работает
 
-### Не чини то, что не поломано
-
-[c2](http://wiki.c2.com/?IfItIsWorkingDontChange)
 
 ### NIH - Not Invented Here
 
