@@ -1,3 +1,5 @@
+
+
 # haskell-cheatsheet
 
 ## Принципы пользования принципами
@@ -21,6 +23,17 @@ If a change in one module results in many changes in another module then they ar
 [SO](https://stackoverflow.com/q/14000762/805266)
 
 ## Производные принципы
+
+### SoC - Separation of Concerns
+
+Улучшает Loose Coupling and High Cohesion.
+
+- "модуль парсинга не должен заниматься отчётами, а модуль отчётов - парсингом"
+
+### Information Hiding
+
+- "Модуль парсинга не должен знать о том, что существует модуль отчётов"
+- "Модуль отчётов не должен знать о используемой модулем парсинга библиотеке парсинга"
 
 ## Антипаттерны
 
