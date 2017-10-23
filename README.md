@@ -32,6 +32,10 @@ If a change in one module results in many changes in another module then they ar
 
 - "модуль парсинга не должен заниматься отчётами, а модуль отчётов - парсингом"
 
+### Stable Dependencies
+
+[deviq](http://deviq.com/stable-dependencies/)
+
 ### Отделение интерфейса от реализации
 
 ### Узкие интерфейсы
