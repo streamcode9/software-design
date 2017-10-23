@@ -64,16 +64,6 @@ catchError foo throwError = foo
 
 
 --------------------------------------
--- Desugar 'do notation'
-do { foo <- bar ; baz } = bar >>= \foo -> baz
-
-
---------------------------------------
--- Eta-reduce
-\foo -> bar foo = bar
-
-
---------------------------------------
 -- Control.Monad
 
 (>=>) :: Monad m => (a -> m b) -> (b -> m c) -> a -> m c
@@ -83,18 +73,31 @@ do { foo <- bar ; baz } = bar >>= \foo -> baz
 --------------------------------------
 -- Code style
 
--- Use (>=>), (<=<) and (.) to build one-directional stream (produce eta reduction). 
--- It assumes using compositional style instead of applicative.
+-- Use (>=>), (<=<) and (.) to build one-directional stream (produce eta reduction)
+-- It assumes using compositional style instead of applicative
 -- более модульно писать = именовать промежуточные операции (вместо именования промежуточных значений)
 -- не лепить одну большую непонятную операцию там, где можно сделать композицию двух маленьких понятных
 -- если левая и правая половина (например списка таплов) обрабатывеются единообразно, то из кода этого должно быть видно (не смешивать единообразную часть с отличающейся)
--- Get rid of the parentheses where it is possible.
+-- Get rid of the parentheses where it is possible
+-- The equation style sometimes is better than case..of
+-- Try to avoid recursion it it is possible to use map or other functions
+-- Use monoids for accumulation
+-- Use MonadError to report errors
+-- Keep abstract parts of program in the library (src folder)
 
 --------------------------------------
 -- Anti-patterns
 
 -- If you know that there are Right values only use specific function like mapMaybe instead of manual map
 map (\(Right x) -> x) xs
+
+
+--------------------------------------
+-- Patterns
+
+-- Go pattern for the cycles
+foo bar baz quux = go where
+    go = ... >> go
 
 
 --------------------------------------
@@ -134,7 +137,13 @@ foldl f z (x:xs) = foldl f (f z x) xs
 
 fmap == (<$>) == map
 foo >>= return . bar == bar <$> foo
+\bar -> foo bar >>= baz = foo >=> baz
 
+-- Desugar 'do notation'
+do { foo <- bar ; baz } = bar >>= \foo -> baz 
+
+-- Eta-reduce
+\foo -> bar foo = bar 
 
 --------------------------------------
 -- Project structure
