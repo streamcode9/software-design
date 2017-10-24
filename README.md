@@ -57,7 +57,7 @@ A component should have only one reason to change
 
 ### YAGNI - You Ain’t Gonna Need It
 
-[deviq](You Ain’t Gonna Need It)
+[deviq](http://deviq.com/yagni/)
 
 ### Не чини то, что не поломано
 
