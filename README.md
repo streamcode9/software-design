@@ -42,6 +42,8 @@ If a change in one module results in many changes in another module then they ar
 
 [deviq](http://deviq.com/interface-segregation-principle/)
 
+
+
 ### Information Hiding
 
 - "Модуль парсинга не должен знать о том, что существует модуль отчётов"
@@ -83,6 +85,15 @@ A component should have only one reason to change
 
 ### Оно же работает
 
+### Pyramid of Doom
+
+Вложенные коллбеки. В стиле
+
+```js
+f.foreach(function (g) {
+   g.foreach(function (h) {
+      h.filter(...
+```
 
 ### NIH - Not Invented Here
 
