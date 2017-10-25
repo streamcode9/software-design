@@ -163,4 +163,18 @@ f . g = \x -> f (g x)
 f >> g = \x -> g (f x)
 
 
+--------------------------------------
+-- To generalize the function definition
+
+class Category cat where
+    id   :: cat a a
+    (>>) :: cat a b -> cat b c -> cat a c
+
+-- Kleisli category
+class Kleisli m where
+    idK  :: a -> m a
+    (*>) :: (a -> m b) -> (b -> m c) -> (a -> m c) 
+
+(+>) :: Kleisli m => (a -> m b) -> (b -> c) -> (a -> m c)
+f +> g = f *> (g >> idK)
 
