@@ -162,7 +162,7 @@ f . g = \x -> f (g x)
 (>>) :: (a -> b) -> (b -> c) -> (a -> c)
 f >> g = \x -> g (f x)
 
--- To generalize the function definition
+-- To generalize the function definition like (a -> b)
 class Category cat where
     id   :: cat a a
     (>>) :: cat a b -> cat b c -> cat a c
@@ -171,7 +171,7 @@ instance Category (->) where
     id      = \x -> x
     f >> g  = \x -> g (f x)
 
--- Kleisli category
+-- Kleisli category for special functions like (a -> m b)
 class Kleisli m where
     idK  :: a -> m a
     (*>) :: (a -> m b) -> (b -> m c) -> (a -> m c) 
@@ -179,6 +179,10 @@ class Kleisli m where
 instance Kleisli Maybe where
     idK    = Just
     f *> g = f >> maybe Nothing g
+
+instance Kleisli [] where
+    idK     = \a -> [a]
+    f *> g  = f >> map g >> concat
 
 (+>) :: Kleisli m => (a -> m b) -> (b -> c) -> (a -> m c)
 f +> g = f *> (g >> idK)
