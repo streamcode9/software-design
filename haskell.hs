@@ -178,9 +178,7 @@ class Kleisli m where
 
 instance Kleisli Maybe where
     idK    = Just
-    f *> g = \a -> case f a of
-                        Nothing -> Nothing
-                        Just b  -> g b
+    f *> g = f >> maybe Nothing g
 
 (+>) :: Kleisli m => (a -> m b) -> (b -> c) -> (a -> m c)
 f +> g = f *> (g >> idK)
