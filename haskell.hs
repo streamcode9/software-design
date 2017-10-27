@@ -176,6 +176,12 @@ class Kleisli m where
     idK  :: a -> m a
     (*>) :: (a -> m b) -> (b -> m c) -> (a -> m c) 
 
+instance Kleisli Maybe where
+    idK    = Just
+    f *> g = \a -> case f a of
+                        Nothing -> Nothing
+                        Just b  -> g b
+
 (+>) :: Kleisli m => (a -> m b) -> (b -> c) -> (a -> m c)
 f +> g = f *> (g >> idK)
 
