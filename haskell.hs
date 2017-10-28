@@ -187,3 +187,23 @@ instance Kleisli [] where
 (+>) :: Kleisli m => (a -> m b) -> (b -> c) -> (a -> m c)
 f +> g = f *> (g >> idK)
 
+
+--------------------------------------
+-- Functions apptrlication
+
+($)  :: (a ->   b) ->   a ->   b
+(*$) :: (a -> m b) -> m a -> m b
+(+$) :: (a ->   b) -> m a -> m b
+(+$) = lift1
+
+($$) :: Kleisli m => m (a -> b) -> m a -> m b
+mf $$ ma = ( +$ ma) *$ mf
+
+lift2 :: Kleisli m => (a -> b -> c) -> m a -> m b -> m c
+lift2 f a b = lift1 f a $$ b
+
+
+
+
+
+
