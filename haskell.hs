@@ -202,7 +202,8 @@ mf $$ ma = ( +$ ma) *$ mf
 lift2 :: Kleisli m => (a -> b -> c) -> m a -> m b -> m c
 lift2 f a b = lift1 f a $$ b
 
-
+class Functor f where
+    fmap :: (a -> b) -> f a -> f b
 
 
 
