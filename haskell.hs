@@ -214,3 +214,17 @@ class Monad m where
   (>>=)  :: m a -> (a -> m b) -> m b
 
 
+--------------------------------------
+-- ContT sample
+
+createContT :: ContT String IO Int
+createContT = liftIO $ do
+  x <- getLine
+  return $ length x
+ 
+runMyContT :: (Int -> IO String) -> IO String
+runMyContT = runContT createContT
+
+main = do
+  some <- runMyContT (\x -> return $ "length of entered line: " ++ show x)
+  putStrLn $ some
