@@ -189,7 +189,7 @@ f +> g = f *> (g >> idK)
 
 
 --------------------------------------
--- Functions apptrlication
+-- Functions application
 
 ($)  :: (a ->   b) ->   a ->   b
 (*$) :: (a -> m b) -> m a -> m b
