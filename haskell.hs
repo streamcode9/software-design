@@ -228,3 +228,12 @@ runMyContT = runContT createContT
 main = do
   some <- runMyContT (\x -> return $ "length of entered line: " ++ show x)
   putStrLn $ some
+
+
+--------------------------------------
+-- Build tools
+
+-- make -j быстрее встроенного параллельного билда. А ещё есть вариант с Cabal но без cabal-install
+-- В порядке убывания скорости: make+ghc -> ghc --make -> Setup build -> cabal build -> stack build
+-- ещё есть ghci :r и :l и некоторые умельцы отключают кодогенерацию 
+-- shake/hadrian
