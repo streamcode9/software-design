@@ -8,25 +8,25 @@
 * #### lang
 * c#
 * js
- * localstorage
- * geolocation
+  * localstorage
+  * geolocation
 * jscript
 * vbscript
 * vb6
 * #### framework
 * .net
- * asp.net
- * asp.net mvc
- * web api + odata
- * ef
- * signalr
- * wpf
- * xamarin
+  * asp.net
+  * asp.net mvc
+  * web api + odata
+  * ef
+  * signalr
+  * wpf
+  * xamarin
 * js
- * angular
- * react + redux
- * cordova + ionic
- * node
+  * angular
+  * react + redux
+  * cordova + ionic
+  * node
 * #### web
 * asp classic
 * WebSockets, WebRTC, IceLink
