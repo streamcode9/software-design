@@ -1,8 +1,6 @@
 [Development process](https://github.com/streamcode9/software-design/blob/master/development-process.md)
 
-[Architecture VM](https://streamcode9.github.io/architecture-vm.html)
-
-[Architecture Azure](https://streamcode9.github.io/architecture-azure.html)
+[Architecture VM](https://streamcode9.github.io/code/architecture.html)
 
 [Solution structure](https://google.com)
 
