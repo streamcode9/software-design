@@ -40,13 +40,15 @@
 * tools
   * vcs (git), issue tracker (jira), ide (vs), editor (vs code, notepad++)
   * git flow
+  * fiddler, wireshark
+  * chrome dev tools
 * format
   * exel, pdf, xml, json, csv
 * #### design common
   * cache
   * authentication, authorization
   * integration with 3rd-party system
-  * testing (nunit, xunit, specflow), mocking (nsubstitute, moq)
+  * testing (nunit, xunit, specflow, selenium), mocking (nsubstitute, moq)
   * ci/cd, performance, optimization, refactoring, scale
   * logging, monitoring (azure app insights, sentry.io, log4net, nlog)
   * push/pull, real-time, bidirectional, long-polling, server-sent-events, comet 
