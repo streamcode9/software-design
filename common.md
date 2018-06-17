@@ -4,6 +4,7 @@
   * mysql  
   * olap: mdx
   * solr
+  * azure (sql, blob)
 * compiler
 * #### lang
 * c#
@@ -22,28 +23,44 @@
   * signalr
   * wpf
   * xamarin
+  * ado.net
 * js
   * angular
   * react + redux
   * cordova + ionic
   * node
+* haskell
 * #### web
 * asp classic
 * WebSockets, WebRTC, IceLink
+* rest
+* azure (azure app service, vm, web worker)
 * #### lib
 * jquery, jquery plugins, jquery ui, different js libs and ui components, kendo, d3
 * tools
   * vcs (git), issue tracker (jira), ide (vs), editor (vs code, notepad++)
+  * git flow
 * format
   * exel, pdf, xml, json, csv
 * #### design common
   * cache
   * authentication, authorization
   * integration with 3rd-party system
-  * logging, monitoring, testing, ci/cd, performance, optimization, refactoring, scale
+  * testing (nunit, xunit, specflow), mocking (nsubstitute, moq)
+  * ci/cd, performance, optimization, refactoring, scale
+  * logging, monitoring (azure app insights, sentry.io, log4net, nlog)
   * push/pull, real-time, bidirectional, long-polling, server-sent-events, comet 
   * cdn, social netrworks (google maps, facebook)
+  * message queue (azure service bus, rabbitmq)
+  * documentation (swagger)
+  * di (Autofac)
+  * mapper (Automapper)
 * #### design web
   * 3 layer architecture, soa
+  * cloud
+  * miscroservices
 * algo
 * abstract-math-logic
+* ## Development process
+* Kanban
+* Scrum
