@@ -1,6 +1,6 @@
 [Development process](https://github.com/streamcode9/software-design/blob/master/development-process.md)
 
-[Architecture](https://github.com/streamcode9/software-design/blob/master/architecture.md)
+[Architecture](https://streamcode9.github.io/architecture.html)
 
 * os
  * ubuntu, debian, centos
