@@ -1,4 +1,6 @@
 * os
+ * ubuntu, debian, centos
+ * windows (server, nano, arm)
 * db
   * mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler
   * mysql  
