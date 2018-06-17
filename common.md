@@ -2,6 +2,8 @@
 
 [Architecture](https://streamcode9.github.io/architecture.html)
 
+[Solution structure](https://google.com)
+
 * os
  * ubuntu, debian, centos
  * windows (server, nano, arm)
