@@ -65,4 +65,5 @@
   * miscroservices
 * algo
 * abstract-math-logic
-* ## [Development process] (https://github.com/streamcode9/software-design/blob/master/development-process.md)
+
+[Development process](https://github.com/streamcode9/software-design/blob/master/development-process.md)
