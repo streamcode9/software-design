@@ -65,7 +65,4 @@
   * miscroservices
 * algo
 * abstract-math-logic
-* ## Development process
-* kanban
-* scrum (daily meeting, grooming, estimate, demo)
-* code review
+* ## [Development process] (https://github.com/streamcode9/software-design/blob/master/development-process.md)
