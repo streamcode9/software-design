@@ -66,5 +66,6 @@
 * algo
 * abstract-math-logic
 * ## Development process
-* Kanban
-* Scrum
+* kanban
+* scrum (daily meeting, grooming, estimate, demo)
+* code review
