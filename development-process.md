@@ -13,6 +13,9 @@
   * history for more precise estimation
 * demo
 
+business stakeholders ---> ba        -> business requirements ----> devs ---> qa
+                      \--> architect -> tech reuirements -------/ 
+   
 ## code
 * git flow
 * code review
