@@ -66,7 +66,9 @@
   * di (Autofac)
   * mapper (Automapper)
 * #### design web
-  * 3 layer architecture, soa
+  * 3 layer architecture
+  * soa
+  * cqrs
   * cloud
   * miscroservices
 * algo
