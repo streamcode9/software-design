@@ -10,8 +10,11 @@
 * code
 * grooming
 * estimate
+  * history for more precise estimation
 * demo
 
 ## code
 * git flow
 * code review
+* code style guide
+  * conigure ide (vs, resharper) or static code analysis tool (sonar cube, linter)
