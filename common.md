@@ -6,8 +6,8 @@
 
 #### os (windows)
 #### db
-* mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid
-  * azure (sql, blob)
+* mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling
+* azure (sql, blob)
 #### hosting
 * azure app service, vm, web worker
 #### compiler
