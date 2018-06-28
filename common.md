@@ -40,5 +40,5 @@
 * rest
 * soa
 * miscroservices
-#### algo
+#### algo theory, turing machine, lambda calculus, unlim register machine, theory вычислимлсти, теор рекур ф-ций, теор Гёделя, теор сложности
 #### abstract-math-logic
