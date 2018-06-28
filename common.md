@@ -10,12 +10,8 @@
 * azure (sql, blob)
 #### hosting
 * azure app service, vm, web worker
-#### compiler
-#### lang
-#### c#
-#### .net
+#### compiler, lang (c#, .net)
 #### asp.net mvc + web api + odata
-* rest
 #### ado.net, ef
 #### js
 * promises
@@ -29,21 +25,20 @@
 * git flow
 * fiddler, wireshark
 * chrome dev tools
-#### design common
+#### design
 * oop, fp, ddd
-* cache, authentication, authorization
+* cache, authentication, authorization, validation
 * integration with 3rd-party system
-* testing (nunit, xunit, specflow, selenium), mocking (nsubstitute, moq)
+* testing pyramid, mock, stub
 * ci/cd, performance, optimization, refactoring, scale
-* logging, monitoring (azure app insights, sentry.io, log4net, nlog)
-* message queue (azure service bus, rabbitmq)
+* logging, monitoring
+* message queue
 * documentation (swagger)
-* di (Autofac)
-* mapper (Automapper)
-#### design web
-* 3 layer architecture
+* di, mapper
+* cqrs, 3 layer architecture
+#### web
+* rest
 * soa
-* cqrs
 * miscroservices
 #### algo
 #### abstract-math-logic
