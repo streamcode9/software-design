@@ -13,6 +13,8 @@
 #### compiler, lang (c#, .net), paradigma
 #### asp.net mvc + web api + odata
 #### ado.net, ef
+#### testing
+* pyramid, mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
 #### js
 * svg
 * promises
@@ -30,7 +32,6 @@
 * oop, fp, ddd
 * cache, authentication, authorization, validation
 * integration with 3rd-party system
-* testing pyramid, mock, stub
 * ci/cd, performance, optimization, refactoring, scale
 * logging, monitoring
 * message queue
