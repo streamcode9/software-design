@@ -9,7 +9,7 @@
 * mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling
 * azure (sql, blob)
 #### hosting
-* azure app service, vm, web worker
+* azure app service, vm, web worker, web job, function
 #### compiler, lang (c#, .net), paradigma
 #### asp.net mvc + web api + odata
 #### ado.net, ef
