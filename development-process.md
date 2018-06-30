@@ -15,12 +15,19 @@
 * grooming
 * estimate
   * history for more precise estimation
+  * create estimate -> planning poker -> add assumption -> discuss with BA and architect
 * demo
-
+* devs
+  * designer -> UI/UX mock
+  * front-end
+  * back-end
+  
 ```
-business stakeholders ---> ba        -> business requirements ----> devs ---> qa
+business stakeholders ---> ba        -> business requirements ----> devs ---> qa manual ---> devops ---> release ---> qa automate
                       \--> architect -> tech reuirements -------/ 
 ```
 
 ## CI/CD
-* teamcity, octopus, jenkins
+* build tool (msbuild)
+* teamcity, jenkins
+* octopus
