@@ -6,24 +6,25 @@
 
 #### os (windows) + network
 #### db
-* mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling
+* mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling, relationships (Robert Vieira, Ross Mistry and Stacia Misner)
 * azure (sql, blob)
 #### hosting
 * azure app service, vm, web worker, web job, function
 #### compiler, lang (c#, .net), paradigma
+* reflection
+* remote debugging, analyzing crash dumps, SOS.dll, WinDbg
 #### asp.net mvc + web api + odata
+* iis, ?wcf
 #### ado.net, ef
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
-#### js
-* svg
-* promises
-* localstorage, geolocation
-* d3, kendo
+#### html, css, js
+* promises, typescript, template engine, scss, web components
+* localstorage, geolocation, cookies
+* d3, svg, kendo
+* WebRTC, WebSockets, webworker
 #### other
-* WebRTC
-* WebSockets
-* cache, authentication, authorization, validation
+* cache, authentication, authorization, validation, localization, configuration, password storage (vault), security
 * integration with 3rd-party system
 * ci/cd, performance, optimization, refactoring, scale
 * logging, monitoring
