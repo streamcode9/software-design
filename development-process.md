@@ -9,7 +9,7 @@
 * daily meeting
 * code
   * conventions/styles/standards/review
-  * conigure ide (vs, resharper) or static code analysis tool (sonar cube, linter)
+  * configure ide (vs, resharper) or static code analysis tool (sonar cube, linter)
 * test local
 * git flow -> deploy -> test env
 * grooming
@@ -31,3 +31,8 @@ business stakeholders ---> ba        -> business requirements ----> devs ---> qa
 * build tool (msbuild)
 * teamcity, jenkins
 * octopus
+
+## testing
+* pyramid
+* code coverage
+* ui/functional/performance
