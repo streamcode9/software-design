@@ -14,7 +14,7 @@
 #### asp.net mvc + web api + odata
 #### ado.net, ef
 #### testing
-* pyramid, mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
+* mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
 #### js
 * svg
 * promises
