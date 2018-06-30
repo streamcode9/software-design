@@ -36,3 +36,13 @@ business stakeholders ---> ba        -> business requirements ----> devs ---> qa
 * pyramid
 * code coverage
 * ui/functional/performance
+
+## monitoring
+* monitoring (sentry.io, azure app insights, metrics)
+* logs
+* health check
+* troubleshoot
+* trace
+* debug
+* profiling
+* google analytics
