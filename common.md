@@ -23,13 +23,6 @@
 #### other
 * WebRTC
 * WebSockets
-#### tools
-* jira, vs+resharper, vs code, notepad++
-* git flow
-* fiddler, wireshark
-* chrome dev tools
-#### design
-* oop, fp, ddd
 * cache, authentication, authorization, validation
 * integration with 3rd-party system
 * ci/cd, performance, optimization, refactoring, scale
@@ -37,11 +30,16 @@
 * message queue
 * documentation (swagger)
 * di, mapper
-* cqrs, 3 layer architecture
-#### web
 * rest
-* soa
-* miscroservices
+#### tools
+* jira, vs+resharper, vs code, notepad++
+* git flow
+* fiddler, wireshark
+* chrome dev tools
+#### design
+* oop, fp, ddd, aspect oriented, metaprogramming
+* soa, miscroservices
+* cqrs, 3 layer architecture, uml
 #### haskell
 #### data structures, algo theory, turing machine, lambda calculus, unlim register machine, theory вычислимлсти, теор рекур ф-ций, теор Гёделя, теор сложности
 #### discreate math, common algebra, math-logic, abstract math, computer science
