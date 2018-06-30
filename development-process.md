@@ -46,3 +46,6 @@ business stakeholders ---> ba        -> business requirements ----> devs ---> qa
 * debug
 * profiling
 * google analytics
+
+## automation
+* cmd, powershell, bash
