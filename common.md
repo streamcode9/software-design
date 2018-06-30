@@ -4,13 +4,13 @@
 
 [Solution](https://streamcode9.github.io/code/solution.html)
 
-#### os (windows)
+#### os (windows) + network
 #### db
 * mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling
 * azure (sql, blob)
 #### hosting
 * azure app service, vm, web worker
-#### compiler, lang (c#, .net)
+#### compiler, lang (c#, .net), paradigma
 #### asp.net mvc + web api + odata
 #### ado.net, ef
 #### js
@@ -42,5 +42,5 @@
 * soa
 * miscroservices
 #### haskell
-#### algo theory, turing machine, lambda calculus, unlim register machine, theory вычислимлсти, теор рекур ф-ций, теор Гёделя, теор сложности
-#### abstract-math-logic
+#### data structures, algo theory, turing machine, lambda calculus, unlim register machine, theory вычислимлсти, теор рекур ф-ций, теор Гёделя, теор сложности
+#### discreate math, common algebra, math-logic, abstract math, computer science
