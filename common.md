@@ -14,6 +14,7 @@
 #### asp.net mvc + web api + odata
 #### ado.net, ef
 #### js
+* svg
 * promises
 * localstorage, geolocation
 * d3, kendo
@@ -40,5 +41,6 @@
 * rest
 * soa
 * miscroservices
+#### haskell
 #### algo theory, turing machine, lambda calculus, unlim register machine, theory вычислимлсти, теор рекур ф-ций, теор Гёделя, теор сложности
 #### abstract-math-logic
