@@ -8,6 +8,9 @@
 
 * daily meeting
 * code
+  * conventions/styles/standards/review
+* test local
+* git flow -> deploy -> test env
 * grooming
 * estimate
   * history for more precise estimation
