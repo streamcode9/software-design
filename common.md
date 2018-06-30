@@ -14,7 +14,7 @@
 * reflection
 * remote debugging, analyzing crash dumps, SOS.dll, WinDbg
 #### asp.net mvc + web api + odata
-* iis, ?wcf
+* iis
 #### ado.net, ef
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
