@@ -10,7 +10,7 @@
 * azure (sql, blob)
 #### hosting
 * azure app service, vm, web worker, web job, function
-#### compiler, lang (c#, .net), paradigma
+#### compiler, lang (c#, .net), paradigma (prolog, scheme/clojure/cl, apl, forth, erl, sml, asm, sql, c/rust/d)
 * reflection
 * remote debugging, analyzing crash dumps, SOS.dll, WinDbg
 #### asp.net mvc + web api + odata
