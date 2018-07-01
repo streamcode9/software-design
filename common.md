@@ -13,8 +13,9 @@
 #### hosting
 * azure app service, vm, web worker, web job, function
 #### compiler, lang (c#, .net), paradigma (prolog, scheme/clojure/cl, apl, forth, erl, sml, asm, sql, c/rust/d)
-* reflection, thread, collections, ienumerable vs iquerable, exceptions, idisposable
-* string/stringBuilder
+* recursion, thread, collections, exceptions, gc, gac
+* reflection, IEnumerable vs IQuerable, IDisposable
+* string/stringBuilder, generics, IEqualityComparer, IComparable, operators, Object.methods, IClonable
 * remote debugging, analyzing crash dumps, SOS.dll, WinDbg
 #### asp.net mvc + web api + odata
 * iis, di, mapper, documentation (swagger)
