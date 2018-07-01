@@ -14,7 +14,7 @@
 * reflection
 * remote debugging, analyzing crash dumps, SOS.dll, WinDbg
 #### asp.net mvc + web api + odata
-* iis
+* iis, di, mapper
 #### ado.net, ef
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
@@ -26,12 +26,9 @@
 #### other
 * cache, authentication, authorization, validation, localization, configuration, password storage (vault), security
 * integration with 3rd-party system
-* ci/cd, performance, optimization, refactoring, scale
-* logging, monitoring
+* performance, scale
 * message queue
 * documentation (swagger)
-* di, mapper
-* rest
 * dry, kiss, yagni, grasp, gof/enterprise patterns, solid
 #### tools
 * jira, vs+resharper, vs code, notepad++
@@ -42,7 +39,7 @@
 #### design
 * oop, fp, ddd, aspect oriented, metaprogramming
 * soa, miscroservices
-* cqrs, 3 layer architecture, uml
+* cqrs, 3 layer architecture, uml, rest
 #### haskell
 #### data structures, algo theory, turing machine, lambda calculus, unlim register machine, theory вычислимлсти, теор рекур ф-ций, теор Гёделя, теор сложности
 #### discreate math, common algebra, math-logic, abstract math, computer science
