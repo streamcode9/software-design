@@ -27,7 +27,7 @@ business stakeholders ---> ba        -> business requirements ----> devs ---> qa
                       \--> architect -> tech reuirements -------/ 
 ```
 
-## CI/CD
+## ci/cd
 * build tool (msbuild)
 * teamcity, jenkins
 * octopus
