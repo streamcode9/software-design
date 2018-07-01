@@ -32,6 +32,7 @@
 * documentation (swagger)
 * di, mapper
 * rest
+* dry, kiss, yagni, grasp, gof/enterprise patterns, solid
 #### tools
 * jira, vs+resharper, vs code, notepad++
 * git flow
