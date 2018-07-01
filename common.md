@@ -6,23 +6,25 @@
 
 #### os + network
 #### storage
-* mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling, relationships (Robert Vieira, Ross Mistry and Stacia Misner)
+* mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling (partitioning), relationships (Robert Vieira, Ross Mistry and Stacia Misner), injection, normalization
 * azure (sql, blob)
 * password storage (vault)
+* nosql
 #### hosting
 * azure app service, vm, web worker, web job, function
 #### compiler, lang (c#, .net), paradigma (prolog, scheme/clojure/cl, apl, forth, erl, sml, asm, sql, c/rust/d)
-* reflection
+* reflection, thread, collections, ienumerable vs iquerable, exceptions, idisposable
+* string/stringBuilder
 * remote debugging, analyzing crash dumps, SOS.dll, WinDbg
 #### asp.net mvc + web api + odata
 * iis, di, mapper, documentation (swagger)
-* cache, authentication, authorization, validation, localization, configuration, security, integration with 3rd-party system, performance, scale
+* cache, authentication, authorization, validation, localization, configuration, security, integration with 3rd-party system, performance, scale, serialization, model binding, routing, request pipeline, session, filter, http handler/module, 
 * dry, kiss, yagni, grasp, gof/enterprise patterns, solid, oop, fp
 #### ado.net, ef
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
 #### html, css, js
-* promises, typescript, template engine, scss, web components
+* promises, typescript, template engine, scss, web components, use strict
 * localstorage, geolocation, cookies
 * d3, svg, kendo
 * WebRTC, WebSockets, webworker
@@ -33,6 +35,7 @@
 * chrome dev tools
 * modulecounts.com
 #### architecture
+* mvc, mvvm, mvp, singleton = antipattern
 * ddd, aspect oriented, metaprogramming
 * message queue
 * soa, miscroservices
