@@ -4,7 +4,7 @@
 
 [Solution](https://streamcode9.github.io/code/solution.html)
 
-#### os (windows) + network
+#### os + network
 #### db
 * mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling, relationships (Robert Vieira, Ross Mistry and Stacia Misner)
 * azure (sql, blob)
