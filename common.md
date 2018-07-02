@@ -19,7 +19,7 @@
 * remote debugging, analyzing crash dumps, SOS.dll, WinDbg
 #### asp.net mvc + web api + odata
 * iis, di, mapper, documentation (swagger)
-* cache, authentication, authorization, validation, localization, configuration, security, integration with 3rd-party system, performance, scale, serialization, model binding, routing, request pipeline, session, filter, http handler/module, 
+* cache, authentication, authorization, validation, localization, configuration, security, integration with 3rd-party system, performance, scale, serialization, model binding, routing, request pipeline, session, filter, http handler/module 
 * dry, kiss, yagni, grasp, gof/enterprise patterns, solid, oop, fp
 #### ado.net, ef
 #### testing
@@ -32,15 +32,12 @@
 #### tools
 * jira, vs+resharper, vs code, notepad++
 * git flow
-* fiddler, wireshark
-* chrome dev tools
+* fiddler, wireshark, chrome dev tools
 * modulecounts.com
 #### architecture
 * mvc, mvvm, mvp, singleton = antipattern
 * ddd, aspect oriented, metaprogramming
-* message queue
-* soa, miscroservices
+* message queue, soa, miscroservices
 * cqrs, 3 layer architecture, uml, rest
 #### haskell
-#### data structures, algo theory, turing machine, lambda calculus, unlim register machine, theory вычислимлсти, теор рекур ф-ций, теор Гёделя, теор сложности
-#### discreate math, common algebra, math-logic, abstract math, computer science
+#### data structures, algo
