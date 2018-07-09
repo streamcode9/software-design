@@ -39,5 +39,4 @@
 * ddd, aspect oriented, metaprogramming
 * message queue, soa, miscroservices
 * cqrs, 3 layer architecture, uml, rest
-#### haskell
-#### data structures, algo
+#### haskell, data structures, algo, groups, lambda, types, category, hott
