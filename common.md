@@ -39,4 +39,4 @@
 * ddd, aspect oriented, metaprogramming
 * message queue, soa, miscroservices
 * cqrs, 3 layer architecture, uml, rest
-#### haskell, data structures, algo, groups, lambda, types, category, hott
+#### haskell, data structures, algo, lambda, dependent types, category, hott, pi calculus, Erik Meijer, Bartosz Milewski, petri nets
