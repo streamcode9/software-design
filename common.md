@@ -39,4 +39,5 @@
 * ddd, aspect oriented, metaprogramming
 * message queue, soa, miscroservices
 * cqrs, 3 layer architecture, uml, rest
-#### haskell, data structures, algo, lambda, dependent types, category, hott, pi calculus, Erik Meijer, Bartosz Milewski, petri nets, deniok.dreamwidth.org, youtube.com/user/bravit111
+#### data structures, algo
+#### pi calculus, Erik Meijer, Bartosz Milewski, petri nets, deniok.dreamwidth.org, youtube.com/user/bravit111
