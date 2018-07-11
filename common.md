@@ -40,4 +40,4 @@
 * message queue, soa, miscroservices
 * cqrs, 3 layer architecture, uml, rest
 #### data structures, algo
-#### pi calculus, petri nets, deniok.dreamwidth.org, youtube.com/user/bravit111, Валерий Исаев, automath, http://www.cs.ru.nl/~freek/100/index.html, Robin Milner, Robert Harper, Calculus_of_constructions, mltt, Categorical_abstract_machine, F-algebra, Coq, Воеводский, github.com/mortberg, https://home.sandiego.edu/~shulman/papers/index.html, github.com/felixwellen
+#### pi calculus, petri nets, deniok.dreamwidth.org, youtube.com/user/bravit111, Валерий Исаев, automath, http://www.cs.ru.nl/~freek/100/index.html, Robin Milner, Robert Harper, Calculus_of_constructions, mltt, Categorical_abstract_machine, F-algebra, Coq, Воеводский, github.com/mortberg, https://home.sandiego.edu/~shulman/papers/index.html, github.com/felixwellen, semantic.vision
