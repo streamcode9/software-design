@@ -16,7 +16,7 @@
 * test local
 * git flow -> deploy -> test env
 * uat with product owner
-* grooming with ba
+* grooming with ba (backlog -> sprint)
 * kick-off
 * estimate
   * history for more precise estimation
