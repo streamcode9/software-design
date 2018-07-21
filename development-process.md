@@ -57,7 +57,7 @@ business stakeholders ---> ba        -> business requirements ----> devs ---> qa
 
 <hr/>
 
-## investigate
+## management
 * kpi
 * retras
 * software metric
@@ -67,3 +67,4 @@ business stakeholders ---> ba        -> business requirements ----> devs ---> qa
 * milestones and deadlines, expected results
 * controling assignments (reports, daily meetings, asking questions)
 * emotional intelligence (recognize -> react -> manage)
+* mentoring (feedback, individual approach)
