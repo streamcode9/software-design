@@ -54,3 +54,16 @@ business stakeholders ---> ba        -> business requirements ----> devs ---> qa
 
 ## automation
 * cmd, powershell, bash
+
+<hr/>
+
+## investigate
+* kpi
+* retras
+* software metric
+* prioritizing of activities
+* breaking assignment requirements down into concrete tasks
+* task delegation
+* milestones and deadlines, expected results
+* controling assignments (reports, daily meetings, asking questions)
+* emotional intelligence (recognize -> react -> manage)
