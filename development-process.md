@@ -9,10 +9,9 @@
 * last/next quarter overview 
 * daily meeting
 * code
-  * conventions/styles/standards/review
+  * conventions/styles/standards
   * configure ide (vs, resharper) or static code analysis tool (sonar cube, linter)
-  * peer code review
-  * architect code review
+  * peer/architect code review
 * test local
 * git flow -> deploy -> test env
 * uat with product owner
