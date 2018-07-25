@@ -30,7 +30,7 @@
 * d3, svg, kendo
 * WebRTC, WebSockets, webworker
 #### tools
-* jira, vs+resharper, vs code, notepad++
+* vs+resharper, vs code, notepad++
 * git flow
 * fiddler, wireshark, chrome dev tools
 * modulecounts.com
