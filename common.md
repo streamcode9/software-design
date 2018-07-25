@@ -12,7 +12,7 @@
 * nosql
 #### hosting
 * azure app service, vm, web worker, web job, function
-#### compiler, lang (c#, .net), paradigma (prolog, scheme/clojure/cl, apl, forth, erl, sml, asm, sql, c/rust/d)
+#### compiler, lang (c#, .net), paradigma (prolog, scheme, k, forth, erl, sml, asm, sql, c/rust)
 * recursion, thread, collections, exceptions, gc, gac
 * reflection, IEnumerable vs IQuerable, IDisposable
 * string/stringBuilder, generics, IEqualityComparer, IComparable, operators, Object.methods, IClonable
