@@ -10,7 +10,7 @@
 * mssql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling (partitioning), relationships, injection, normalization
 * azure (sql, blob)
 #### hosting
-* azure app service, vm, web worker, web job, function
+* azure app service, vm, web worker, web job, function, cdn
 #### compiler, lang (c#, .net)
 * thread, collections, exceptions, gc, gac
 * reflection, IEnumerable vs IQuerable, IDisposable
