@@ -15,9 +15,10 @@
 * thread, collections, exceptions, gc, gac
 * reflection, IEnumerable vs IQuerable, IDisposable
 * string/stringBuilder, generics, IEqualityComparer, IComparable, operators, Object.methods, IClonable
-#### asp.net mvc + web api + odata
+#### asp.net mvc + web api
 * iis, di, mapper, documentation (swagger)
 * cache, authentication, authorization, validation, localization, configuration, security, integration with 3rd-party system, performance, scale, serialization, model binding, routing, request pipeline, session, filter, http handler/module 
+#### design
 * dry, kiss, yagni, grasp, gof/enterprise patterns, solid, oop, fp
 #### ado.net, ef
 * code first, fluent api, data annotations
@@ -25,15 +26,13 @@
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
 #### html, css, js
-* promises, typescript, template engine, scss, web components, use strict
+* promises, typescript, scss, use strict
 * localstorage, geolocation, cookies
 * d3, svg, kendo
 * WebRTC, WebSockets, webworker
 #### tools
-* vs+resharper, vs code, notepad++
-* git flow
-* fiddler, wireshark, chrome dev tools
-* modulecounts.com
+* vs+resharper, notepad++, git
+* fiddler, chrome dev tools, virtualBox
 #### architecture
 * mvc, mvvm, mvp, singleton = antipattern
 * ddd, aspect oriented, metaprogramming
