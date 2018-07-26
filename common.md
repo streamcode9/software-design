@@ -4,24 +4,24 @@
 
 [Solution](https://streamcode9.github.io/code/solution.html)
 
-#### os + network
+#### os
+#### network
 #### storage
-* mssql + t-sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling (partitioning), relationships (Robert Vieira, Ross Mistry and Stacia Misner), injection, normalization
+* mssql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling (partitioning), relationships, injection, normalization
 * azure (sql, blob)
-* password storage (vault)
-* nosql
 #### hosting
 * azure app service, vm, web worker, web job, function
-#### compiler, lang (c#, .net), paradigma (prolog, scheme, k, forth, erl, sml, asm, sql, c/rust)
-* recursion, thread, collections, exceptions, gc, gac
+#### compiler, lang (c#, .net)
+* thread, collections, exceptions, gc, gac
 * reflection, IEnumerable vs IQuerable, IDisposable
 * string/stringBuilder, generics, IEqualityComparer, IComparable, operators, Object.methods, IClonable
-* remote debugging, analyzing crash dumps, SOS.dll, WinDbg
 #### asp.net mvc + web api + odata
 * iis, di, mapper, documentation (swagger)
 * cache, authentication, authorization, validation, localization, configuration, security, integration with 3rd-party system, performance, scale, serialization, model binding, routing, request pipeline, session, filter, http handler/module 
 * dry, kiss, yagni, grasp, gof/enterprise patterns, solid, oop, fp
 #### ado.net, ef
+* code first, fluent api, data annotations
+* migrations (fluent migrator)
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
 #### html, css, js
@@ -40,4 +40,5 @@
 * message queue, soa, miscroservices
 * cqrs, 3 layer architecture, uml, rest
 #### data structures, algo
+* recursion
 #### petri nets, deniok.dreamwidth.org, youtube.com/user/bravit111, Валерий Исаев, automath, http://www.cs.ru.nl/~freek/100/index.html, Robin Milner, Robert Harper, Calculus_of_constructions, mltt, Categorical_abstract_machine, F-algebra, Coq, Воеводский, github.com/mortberg, https://home.sandiego.edu/~shulman/papers/index.html, github.com/felixwellen, semantic.vision
