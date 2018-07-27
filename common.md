@@ -14,21 +14,24 @@ os  | network | cloud hosting
 ----|---------|---------------------------------------------------------
 win | http    | azure app service, vm, web worker, web job, function, cdn
 
-#### storage
-* sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling (partitioning), relationships, injection, normalization
-* blob
+
+
+storage                                | ado.net, ef      | mvc + web api
+---------------------------------------|------------------|----------------------
+sql table, keys, indexes, sp, function | code first,      | iis, di, mapper, documentation (swagger)
+trigger, view, relationships           | fluent api       | cache, authentication, authorization, validation
+transaction, isolation, acid           | data annotations | localization, configuration, security
+execution plan, profiler, optimization | migrations       | integration with 3rd-party system, performance
+scaling (partitioning), normalization  |                  | scale, serialization, model binding
+injection                              |                  | routing, request pipeline, session
+blob                                   |                  | filter, http handler/module
+
 #### compiler, lang
 * thread, collections, exceptions, gc, gac
 * reflection, IEnumerable vs IQuerable, IDisposable
 * string/stringBuilder, generics, IEqualityComparer, IComparable, operators, Object.methods, IClonable
-#### mvc + web api
-* iis, di, mapper, documentation (swagger)
-* cache, authentication, authorization, validation, localization, configuration, security, integration with 3rd-party system, performance, scale, serialization, model binding, routing, request pipeline, session, filter, http handler/module 
 #### design
 * dry, kiss, yagni, grasp, gof/enterprise patterns, solid, oop, fp
-#### ado.net, ef
-* code first, fluent api, data annotations
-* migrations
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
 * pyramid
