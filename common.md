@@ -8,10 +8,6 @@
 * build tool (msbuild)
 * teamcity, jenkins
 * octopus
-#### testing
-* pyramid
-* code coverage
-* ui/functional/performance
 #### monitoring
 * monitoring, logs, health check
 * debug
@@ -38,6 +34,9 @@
 * migrations
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
+* pyramid
+* code coverage
+* ui/functional/performance
 #### html, css, js
 * promises, typescript, scss, use strict
 * localstorage, geolocation, cookies
