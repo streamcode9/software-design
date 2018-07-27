@@ -4,22 +4,19 @@
 
 [Solution](https://streamcode9.github.io/code/solution.html)
 
-#### ci/cd
-* build tool (msbuild)
-* teamcity, jenkins
-* octopus
-#### monitoring
-* monitoring, logs, health check
-* debug
-#### automation
-* cmd, powershell, bash
-#### os
-#### network
+ci/cd               |   monitoring                   |   automation
+--------------------|--------------------------------|-------------
+build tool (msbuild)| monitoring, logs, health check | cmd, powershell, bash
+teamcity, jenkins   | debug                          | ?
+octopus             | ?                              | ?
+
+os | network | cloud hosting
+---|---------|--------------
+ ? | ?       | azure app service, vm, web worker, web job, function, cdn
+
 #### storage
 * sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling (partitioning), relationships, injection, normalization
 * blob
-#### cloud hosting
-* azure app service, vm, web worker, web job, function, cdn
 #### compiler, lang
 * thread, collections, exceptions, gc, gac
 * reflection, IEnumerable vs IQuerable, IDisposable
