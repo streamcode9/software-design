@@ -4,15 +4,15 @@
 
 [Solution](https://streamcode9.github.io/code/solution.html)
 
-ci/cd               |   monitoring                   |   automation
---------------------|--------------------------------|-------------
-build tool (msbuild)| monitoring, logs, health check | cmd, powershell, bash
-teamcity, jenkins   | debug                          | ?
-octopus             | ?                              | ?
+ci/cd               | monitoring                     | automation  | tools
+--------------------|--------------------------------|-------------|----------------------------
+build tool (msbuild)| monitoring, health check       | cmd         | vs+resharper, notepad++ 
+teamcity, jenkins   | debug                          | powershell  | fiddler, chrome dev tools, virtualBox
+octopus             | logs                           | bash        | git
 
-os | network | cloud hosting
----|---------|--------------
- ? | ?       | azure app service, vm, web worker, web job, function, cdn
+os  | network | cloud hosting
+----|---------|---------------------------------------------------------
+win | http    | azure app service, vm, web worker, web job, function, cdn
 
 #### storage
 * sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling (partitioning), relationships, injection, normalization
@@ -39,9 +39,6 @@ os | network | cloud hosting
 * localstorage, geolocation, cookies
 * d3, svg, kendo
 * WebRTC, WebSockets, webworker
-#### tools
-* vs+resharper, notepad++, git
-* fiddler, chrome dev tools, virtualBox
 #### architecture
 * mvc, mvvm, mvp, singleton = antipattern
 * ddd, aspect oriented, metaprogramming
