@@ -9,13 +9,13 @@ ci/cd                                  | monitoring                     | automa
 build tool (msbuild)                   | monitoring, health check       | cmd                                              | vs+resharper, notepad++ 
 teamcity, jenkins                      | debug                          | powershell                                       | fiddler, chrome dev tools, virtualBox
 octopus                                | logs                           | bash                                             | git
-_                                      | _                              | _                                                | _
+______________________________________ | ______________________________ | ________________________________________________ | _____________________________________
 **os**                                 | **network**                    | **cloud hosting**                                | _
 win                                    | http                           | azure app service, vm                            | _
 _                                      | _                              | web worker, web job, function                    | _
 _                                      | _                              | cdn                                              | _
-_                                      | _                              | _                                                | _
-**storage                              | **ado.net, ef**                | **mvc + web api**                                | _
+______________________________________ | ______________________________ | ________________________________________________ | _____________________________________
+**storage**                            | **ado.net, ef**                | **mvc + web api**                                | _
 sql table, keys, indexes, sp, function | code first,                    | iis, di, mapper, documentation (swagger)         | _
 trigger, view, relationships           | fluent api                     | cache, authentication, authorization, validation | _
 transaction, isolation, acid           | data annotations               | localization, configuration, security            | _
