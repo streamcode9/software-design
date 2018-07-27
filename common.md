@@ -53,4 +53,4 @@ operators, Object.methods, IClonable   |                                | 3 laye
 * WebRTC, WebSockets, webworker
 #### data structures, algo
 * recursion
-#### deniok.dreamwidth.org, youtube.com/user/bravit111, Валерий Исаев, http://www.cs.ru.nl/~freek/100/index.html, Robin Milner, Robert Harper, semantic.vision
+#### deniok.dreamwidth.org, youtube.com/user/bravit111, Валерий Исаев, http://www.cs.ru.nl/~freek/100/index.html, semantic.vision
