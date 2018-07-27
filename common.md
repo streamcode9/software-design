@@ -4,15 +4,16 @@
 
 [Solution](https://streamcode9.github.io/code/solution.html)
 
-ci/cd               | monitoring                     | automation  | tools
---------------------|--------------------------------|-------------|----------------------------
-build tool (msbuild)| monitoring, health check       | cmd         | vs+resharper, notepad++ 
-teamcity, jenkins   | debug                          | powershell  | fiddler, chrome dev tools, virtualBox
-octopus             | logs                           | bash        | git
-
-os  | network | cloud hosting
-----|---------|---------------------------------------------------------
-win | http    | azure app service, vm, web worker, web job, function, cdn
+ci/cd               | monitoring                     | automation                    | tools
+--------------------|--------------------------------|-------------------------------|-------------------------------------- 
+build tool (msbuild)| monitoring, health check       | cmd                           | vs+resharper, notepad++ 
+teamcity, jenkins   | debug                          | powershell                    | fiddler, chrome dev tools, virtualBox
+octopus             | logs                           | bash                          | git
+_                   | _                              | _                             | _
+**os**              | **network**                    | **cloud hosting**             |
+win                 | http                           | azure app service, vm         |
+                    |                                | web worker, web job, function |
+                    |                                | cdn                           |
 
 
 
