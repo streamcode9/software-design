@@ -21,13 +21,22 @@ _                                      | _                              | web wo
 _                                      | _                              | cdn                                              
 ______________________________________ | ______________________________ | ________________________________________________ 
 **storage**                            | **ado.net, ef**                | **mvc + web api**                                
-sql table, keys, indexes, sp, function | code first,                    | iis, di, mapper, documentation (swagger)         
+sql table, keys, indexes, sp, function | code first                     | iis, di, mapper, documentation (swagger)         
 trigger, view, relationships           | fluent api                     | cache, authentication, authorization, validation 
 transaction, isolation, acid           | data annotations               | localization, configuration, security            
 execution plan, profiler, optimization | migrations                     | integration with 3rd-party system, performance   
 scaling (partitioning), normalization  |                                | scale, serialization, model binding              
 injection                              |                                | routing, request pipeline, session               
 blob                                   |                                | filter, http handler/module                      
+______________________________________ | ______________________________ | ________________________________________________ 
+**compiler, lang**                     | **design**                     | **architecture**
+thread, collections                    | dry, kiss,                     | mvc, mvvm, mvp
+exceptions, gc, gac                    | yagni, grasp                   | singleton = antipattern
+reflection, IEnumerable vs IQuerable   | gof/enterprise patterns        | aspect oriented
+IDisposable                            | solid, oop, fp                 | metaprogramming
+string/stringBuilder, generics         |                                | uml, rest. soa
+IEqualityComparer, IComparable         |                                | message queue, cqrs, miscroservices
+operators, Object.methods, IClonable   |                                | 3 layer architecture, ddd
 
 #### compiler, lang
 * thread, collections, exceptions, gc, gac
