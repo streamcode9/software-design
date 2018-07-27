@@ -32,34 +32,8 @@ business stakeholders ---> ba        -> business requirements ----> devs ---> qa
                       \--> architect -> tech reuirements -------/ 
 ```
 
-## ci/cd
-* build tool (msbuild)
-* teamcity, jenkins
-* octopus
-
-## testing
-* pyramid
-* code coverage
-* ui/functional/performance
-
-## monitoring
-* monitoring (sentry.io, azure app insights, metrics)
-* logs
-* health check
-* troubleshoot
-* trace
-* debug
-* profiling
-* google analytics
-
-## automation
-* cmd, powershell, bash
-
-<hr/>
-
 ## management
 * kpi
-* retras
 * software metric
 * prioritizing of activities
 * breaking assignment requirements down into concrete tasks
