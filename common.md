@@ -4,6 +4,19 @@
 
 [Solution](https://streamcode9.github.io/code/solution.html)
 
+#### ci/cd
+* build tool (msbuild)
+* teamcity, jenkins
+* octopus
+#### testing
+* pyramid
+* code coverage
+* ui/functional/performance
+#### monitoring
+* monitoring, logs, health check
+* debug
+#### automation
+* cmd, powershell, bash
 #### os
 #### network
 #### storage
