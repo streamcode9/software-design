@@ -4,25 +4,30 @@
 
 [Solution](https://streamcode9.github.io/code/solution.html)
 
-ci/cd                                  | monitoring                     | automation                                       | tools
----------------------------------------|--------------------------------|--------------------------------------------------|-------------------------------------- 
-build tool (msbuild)                   | monitoring, health check       | cmd                                              | vs+resharper, notepad++ 
-teamcity, jenkins                      | debug                          | powershell                                       | fiddler, chrome dev tools, virtualBox
-octopus                                | logs                           | bash                                             | git
-______________________________________ | ______________________________ | ________________________________________________ | _____________________________________
-**os**                                 | **network**                    | **cloud hosting**                                | _
-win                                    | http                           | azure app service, vm                            | _
-_                                      | _                              | web worker, web job, function                    | _
-_                                      | _                              | cdn                                              | _
-______________________________________ | ______________________________ | ________________________________________________ | _____________________________________
-**storage**                            | **ado.net, ef**                | **mvc + web api**                                | _
-sql table, keys, indexes, sp, function | code first,                    | iis, di, mapper, documentation (swagger)         | _
-trigger, view, relationships           | fluent api                     | cache, authentication, authorization, validation | _
-transaction, isolation, acid           | data annotations               | localization, configuration, security            | _
-execution plan, profiler, optimization | migrations                     | integration with 3rd-party system, performance   | _
-scaling (partitioning), normalization  |                                | scale, serialization, model binding              | _
-injection                              |                                | routing, request pipeline, session               | _
-blob                                   |                                | filter, http handler/module                      | _
+#### tools
+* vs+resharper, notepad++ 
+* fiddler, chrome dev tools, virtualBox
+* git
+
+ci/cd                                  | monitoring                     | automation                                       
+---------------------------------------|--------------------------------|--------------------------------------------------
+build tool (msbuild)                   | monitoring, health check       | cmd                                              
+teamcity, jenkins                      | debug                          | powershell                                       
+octopus                                | logs                           | bash                                             
+______________________________________ | ______________________________ | ________________________________________________ 
+**os**                                 | **network**                    | **cloud hosting**                                
+win                                    | http                           | azure app service, vm                            
+_                                      | _                              | web worker, web job, function                    
+_                                      | _                              | cdn                                              
+______________________________________ | ______________________________ | ________________________________________________ 
+**storage**                            | **ado.net, ef**                | **mvc + web api**                                
+sql table, keys, indexes, sp, function | code first,                    | iis, di, mapper, documentation (swagger)         
+trigger, view, relationships           | fluent api                     | cache, authentication, authorization, validation 
+transaction, isolation, acid           | data annotations               | localization, configuration, security            
+execution plan, profiler, optimization | migrations                     | integration with 3rd-party system, performance   
+scaling (partitioning), normalization  |                                | scale, serialization, model binding              
+injection                              |                                | routing, request pipeline, session               
+blob                                   |                                | filter, http handler/module                      
 
 #### compiler, lang
 * thread, collections, exceptions, gc, gac
