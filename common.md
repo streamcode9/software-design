@@ -9,13 +9,15 @@ ci/cd                                  | monitoring                     | automa
 build tool (msbuild)                   | monitoring, health check       | cmd                                              
 teamcity, jenkins                      | debug                          | powershell                                       
 octopus                                | logs                           | bash                                             
-______________________________________ | ______________________________ | ________________________________________________ 
-**os**                                 | **network**                    | **cloud hosting**                                
+
+os                                     | network                        | cloud hosting                                
+---------------------------------------|--------------------------------|--------------------------------------------------
 win                                    | http                           | azure app service, vm                            
 _                                      | _                              | web worker, web job, function                    
 _                                      | _                              | cdn                                              
-______________________________________ | ______________________________ | ________________________________________________ 
-**storage**                            | **ado.net, ef**                | **mvc + web api**                                
+
+storage                                | ado.net, ef                    | mvc + web api                                
+---------------------------------------|--------------------------------|--------------------------------------------------
 sql table, keys, indexes, sp, function | code first                     | iis, di, mapper, documentation (swagger)         
 trigger, view, relationships           | fluent api                     | cache, authentication, authorization, validation 
 transaction, isolation, acid           | data annotations               | localization, configuration, security            
@@ -23,8 +25,9 @@ execution plan, profiler, optimization | migrations                     | integr
 scaling (partitioning), normalization  |                                | scale, serialization, model binding              
 injection                              |                                | routing, request pipeline, session               
 blob                                   |                                | filter, http handler/module                      
-______________________________________ | ______________________________ | ________________________________________________ 
-**compiler, lang**                     | **design**                     | **architecture**
+
+compiler, lang                         | design                         | architecture
+---------------------------------------|--------------------------------|--------------------------------------------------
 thread, collections                    | dry, kiss,                     | mvc, mvvm, mvp
 exceptions, gc, gac                    | yagni, grasp                   | singleton = antipattern
 reflection, IEnumerable vs IQuerable   | gof/enterprise patterns        | aspect oriented
