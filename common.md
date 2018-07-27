@@ -4,11 +4,6 @@
 
 [Solution](https://streamcode9.github.io/code/solution.html)
 
-#### tools
-* vs+resharper, notepad++ 
-* fiddler, chrome dev tools, virtualBox
-* git
-
 ci/cd                                  | monitoring                     | automation                                       
 ---------------------------------------|--------------------------------|--------------------------------------------------
 build tool (msbuild)                   | monitoring, health check       | cmd                                              
@@ -38,12 +33,11 @@ string/stringBuilder, generics         |                                | uml, r
 IEqualityComparer, IComparable         |                                | message queue, cqrs, miscroservices
 operators, Object.methods, IClonable   |                                | 3 layer architecture, ddd
 
-#### compiler, lang
-* thread, collections, exceptions, gc, gac
-* reflection, IEnumerable vs IQuerable, IDisposable
-* string/stringBuilder, generics, IEqualityComparer, IComparable, operators, Object.methods, IClonable
-#### design
-* dry, kiss, yagni, grasp, gof/enterprise patterns, solid, oop, fp
+
+#### tools
+* vs+resharper, notepad++ 
+* fiddler, chrome dev tools, virtualBox
+* git
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
 * pyramid
@@ -54,11 +48,6 @@ operators, Object.methods, IClonable   |                                | 3 laye
 * localstorage, geolocation, cookies
 * d3, svg, kendo
 * WebRTC, WebSockets, webworker
-#### architecture
-* mvc, mvvm, mvp, singleton = antipattern
-* ddd, aspect oriented, metaprogramming
-* message queue, soa, miscroservices
-* cqrs, 3 layer architecture, uml, rest
 #### data structures, algo
 * recursion
 #### petri nets, deniok.dreamwidth.org, youtube.com/user/bravit111, Валерий Исаев, automath, http://www.cs.ru.nl/~freek/100/index.html, Robin Milner, Robert Harper, Calculus_of_constructions, mltt, Categorical_abstract_machine, F-algebra, Coq, Воеводский, github.com/mortberg, https://home.sandiego.edu/~shulman/papers/index.html, github.com/felixwellen, semantic.vision
