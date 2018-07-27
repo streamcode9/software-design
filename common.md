@@ -7,22 +7,22 @@
 #### os
 #### network
 #### storage
-* mssql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling (partitioning), relationships, injection, normalization
-* azure (sql, blob)
-#### hosting
+* sql: table, keys, indexes, sp, function, trigger, view, execution plan, profiler, transaction, isolation, acid, optimization, scaling (partitioning), relationships, injection, normalization
+* blob
+#### cloud hosting
 * azure app service, vm, web worker, web job, function, cdn
-#### compiler, lang (c#, .net)
+#### compiler, lang
 * thread, collections, exceptions, gc, gac
 * reflection, IEnumerable vs IQuerable, IDisposable
 * string/stringBuilder, generics, IEqualityComparer, IComparable, operators, Object.methods, IClonable
-#### asp.net mvc + web api
+#### mvc + web api
 * iis, di, mapper, documentation (swagger)
 * cache, authentication, authorization, validation, localization, configuration, security, integration with 3rd-party system, performance, scale, serialization, model binding, routing, request pipeline, session, filter, http handler/module 
 #### design
 * dry, kiss, yagni, grasp, gof/enterprise patterns, solid, oop, fp
 #### ado.net, ef
 * code first, fluent api, data annotations
-* migrations (fluent migrator)
+* migrations
 #### testing
 * mock, stub, libs (moq, nunit, xunit, nsubstitute, selenium/webdriver, specflow)
 #### html, css, js
