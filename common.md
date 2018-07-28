@@ -6,7 +6,7 @@
 
 ci/cd                                  | monitoring                     | automation                                       
 ---------------------------------------|--------------------------------|--------------------------------------------------
-build tool (msbuild)                   | sentry                         | cmd                                              
+msbuild                                | sentry                         | cmd                                              
 teamcity, jenkins, sonarcube           | remote debug                   | bash                                       
 octopus                                |                                |                                              
  
@@ -16,9 +16,9 @@ win                                    | http                           | azure 
 _                                      | _                              | web worker, web job, function                    
 _                                      | _                              | cdn                                              
 
-storage                                | ado.net                        | mvc + web api                                
+storage                                | ado.net, ef                    | mvc, web api                                
 ---------------------------------------|--------------------------------|--------------------------------------------------
-sql table, keys, indexes, sp           | ef (code first, fluent api)    | iis, di, mapper, swagger           
+sql table, keys, indexes, sp           | code first, fluent api         | iis, di, mapper, swagger           
 relationships, optimization            | fluentmigrator                 | cache, authentication, authorization 
 transaction, isolation, acid           |                                | localization, configuration             
 execution plan, profiler               |                                | performance, validation, security
