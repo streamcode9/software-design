@@ -21,7 +21,7 @@ storage                                | ado.net                        | mvc + 
 sql table, keys, indexes, sp           | ef (code first, fluent api)    | iis, di, mapper, swagger           
 relationships, optimization            | fluentmigrator                 | cache, authentication, authorization 
 transaction, isolation, acid           |                                | localization, configuration             
-execution plan, profiler,              |                                | performance, validation, security
+execution plan, profiler               |                                | performance, validation, security
 scaling, normalization                 |                                | scale, serialization, model binding              
 injection                              |                                | routing, request pipeline, session               
 blob                                   |                                | filter, http handler/module                      
@@ -39,9 +39,9 @@ operators, Object.methods, IClonable   |                                | 3 laye
 
 tools                                  | testing            | html, css, js
 ---------------------------------------|--------------------|----------------------------------------------
- vs+resharper, notepad++               | moq, stub          | promises, typescript, scss
- fiddler, chrome dev tools.            | xunit              | localstorage, geolocation, cookies
- git                                   | selenium, specflow | d3, svg, kendo, use strict
+ vs, resharper, notepad++              | moq, stub          | promises, typescript, scss, npm
+ fiddler, chrome dev tools             | xunit              | localstorage, geolocation, cookies
+ git, nuget, paket                     | selenium, specflow | d3, svg, kendo, use strict
  virtualBox                            | pyramid            | WebRTC, WebSockets
 
 data structures | algo
