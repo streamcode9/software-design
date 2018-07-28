@@ -7,7 +7,7 @@
 ci/cd                                  | monitoring                     | automation                                       
 ---------------------------------------|--------------------------------|--------------------------------------------------
 msbuild                                | sentry                         | cmd                                              
-teamcity, jenkins, sonarcube           | remote debug                   | bash                                       
+teamcity jenkins sonarcube             | remote debug                   | bash                                       
 octopus                                |                                |                                              
  
 os                                     | network                        | cloud hosting                                
@@ -18,21 +18,21 @@ _                                      | _                              | cdn
 
 storage                                | ado.net, ef                    | mvc, web api                                
 ---------------------------------------|--------------------------------|--------------------------------------------------
-sql table, keys, indexes, sp           | code first, fluent api         | iis, di, mapper, swagger           
-relationships, optimization            | fluentmigrator                 | cache, authentication, authorization 
-transaction, isolation, acid           |                                | localization, configuration             
-execution plan, profiler               |                                | performance, validation, security
-scaling, normalization                 |                                | scale, serialization, model binding              
+sql table keys indexes sp              | code first, fluent api         | iis, di, mapper, swagger           
+relationships                          | fluentmigrator                 | cache, authentication, authorization 
+isolation acid                         |                                | localization, configuration             
+execution-plan profiler                |                                | performance, validation, security
+normalization                          |                                | scale, serialization, model binding              
 injection                              |                                | routing, request pipeline, session               
 blob                                   |                                | filter, http handler/module                      
 
 compiler, lang                         | design                         | architecture
 ---------------------------------------|--------------------------------|--------------------------------------------------
-thread                                 | dry, kiss,                     | mvc, mvvm, mvp
-exceptions, gc, gac reflection         | yagni, grasp                   | singleton = antipattern
+thread                                 | dry kiss                       | mvc mvvm mvp
+exceptions gc gac reflection           | yagni grasp                    | singleton = antipattern
 collections IEnumerable IQuerable      | gof/enterprise patterns        | miscroservices
-IDisposable                            | solid, oop, fp                 | ddd
-string/stringBuilder                   |                                | uml, rest, soa
+IDisposable                            | solid oop fp                   | ddd
+string StringBuilder                   |                                | uml, rest, soa
 IEqualityComparer IComparable          |                                | message queue, cqrs
 operators Object.methods IClonable     |                                | 3 layer architecture 
 generics                               |                                | 
