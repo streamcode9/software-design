@@ -40,9 +40,9 @@ operators, Object.methods, IClonable   |                                | 3 laye
 tools                                  | testing            | html, css, js
 ---------------------------------------|--------------------|----------------------------------------------
  vs+resharper, notepad++               | moq, stub          | promises, typescript, scss, use strict
- fiddler, chrome dev tools, virtualBox | xunit              | localstorage, geolocation, cookies
+ fiddler, chrome dev tools.            | xunit              | localstorage, geolocation, cookies
  git                                   | selenium, specflow | d3, svg, kendo
-                                       | pyramid            | WebRTC, WebSockets, webworker
+ virtualBox                            | pyramid            | WebRTC, WebSockets, webworker
 
 data structures | algo
 ----------------|---------
