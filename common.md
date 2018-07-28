@@ -6,8 +6,8 @@
 
 ci/cd                                  | monitoring                     | automation                                       
 ---------------------------------------|--------------------------------|--------------------------------------------------
-build tool (msbuild)                   | logs(sentry)                   | cmd                                              
-teamcity, jenkins, sonarcube           | debug                          | bash                                       
+build tool (msbuild)                   | sentry                         | cmd                                              
+teamcity, jenkins, sonarcube           | remote debug                   | bash                                       
 octopus                                |                                |                                              
  
 os                                     | network                        | cloud hosting                                
@@ -18,11 +18,11 @@ _                                      | _                              | cdn
 
 storage                                | ado.net                        | mvc + web api                                
 ---------------------------------------|--------------------------------|--------------------------------------------------
-sql table, keys, indexes, sp, function | ef (code first, fluent api)    | iis, di, mapper, documentation (swagger)         
-trigger, view, relationships           | fluentmigrator                 | cache, authentication, authorization, validation 
-transaction, isolation, acid           |                                | localization, configuration, security            
-execution plan, profiler, optimization |                                | integration with 3rd-party system, performance   
-scaling (partitioning), normalization  |                                | scale, serialization, model binding              
+sql table, keys, indexes, sp           | ef (code first, fluent api)    | iis, di, mapper, swagger           
+relationships, optimization            | fluentmigrator                 | cache, authentication, authorization 
+transaction, isolation, acid           |                                | localization, configuration             
+execution plan, profiler,              |                                | performance, validation, security
+scaling, normalization                 |                                | scale, serialization, model binding              
 injection                              |                                | routing, request pipeline, session               
 blob                                   |                                | filter, http handler/module                      
 
@@ -30,19 +30,19 @@ compiler, lang                         | design                         | archit
 ---------------------------------------|--------------------------------|--------------------------------------------------
 thread, collections                    | dry, kiss,                     | mvc, mvvm, mvp
 exceptions, gc, gac                    | yagni, grasp                   | singleton = antipattern
-reflection, IEnumerable vs IQuerable   | gof/enterprise patterns        | aspect oriented
-IDisposable                            | solid, oop, fp                 | metaprogramming
+reflection, IEnumerable vs IQuerable   | gof/enterprise patterns        | miscroservices
+IDisposable                            | solid, oop, fp                 | ddd
 string/stringBuilder, generics         |                                | uml, rest, soa
-IEqualityComparer, IComparable         |                                | message queue, cqrs, miscroservices
-operators, Object.methods, IClonable   |                                | 3 layer architecture, ddd
+IEqualityComparer, IComparable         |                                | message queue, cqrs
+operators, Object.methods, IClonable   |                                | 3 layer architecture 
 
 
 tools                                  | testing            | html, css, js
 ---------------------------------------|--------------------|----------------------------------------------
- vs+resharper, notepad++               | moq, stub          | promises, typescript, scss, use strict
+ vs+resharper, notepad++               | moq, stub          | promises, typescript, scss
  fiddler, chrome dev tools.            | xunit              | localstorage, geolocation, cookies
- git                                   | selenium, specflow | d3, svg, kendo
- virtualBox                            | pyramid            | WebRTC, WebSockets, webworker
+ git                                   | selenium, specflow | d3, svg, kendo, use strict
+ virtualBox                            | pyramid            | WebRTC, WebSockets
 
 data structures | algo
 ----------------|---------
