@@ -28,13 +28,14 @@ blob                                   |                                | filter
 
 compiler, lang                         | design                         | architecture
 ---------------------------------------|--------------------------------|--------------------------------------------------
-thread, collections                    | dry, kiss,                     | mvc, mvvm, mvp
-exceptions, gc, gac                    | yagni, grasp                   | singleton = antipattern
-reflection, IEnumerable vs IQuerable   | gof/enterprise patterns        | miscroservices
+thread                                 | dry, kiss,                     | mvc, mvvm, mvp
+exceptions, gc, gac reflection         | yagni, grasp                   | singleton = antipattern
+collections IEnumerable IQuerable      | gof/enterprise patterns        | miscroservices
 IDisposable                            | solid, oop, fp                 | ddd
-string/stringBuilder, generics         |                                | uml, rest, soa
-IEqualityComparer, IComparable         |                                | message queue, cqrs
-operators, Object.methods, IClonable   |                                | 3 layer architecture 
+string/stringBuilder                   |                                | uml, rest, soa
+IEqualityComparer IComparable          |                                | message queue, cqrs
+operators Object.methods IClonable     |                                | 3 layer architecture 
+generics                               |                                | 
 
 
 tools                                  | testing            | html, css, js
