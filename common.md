@@ -7,7 +7,7 @@
 ci/cd                                  | monitoring                     | automation                                       
 ---------------------------------------|--------------------------------|--------------------------------------------------
 build tool (msbuild)                   | logs(sentry)                   | cmd                                              
-teamcity, jenkins                      | debug                          | bash                                       
+teamcity, jenkins, sonarcube           | debug                          | bash                                       
 octopus                                |                                |                                              
  
 os                                     | network                        | cloud hosting                                
@@ -19,7 +19,7 @@ _                                      | _                              | cdn
 storage                                | ado.net                        | mvc + web api                                
 ---------------------------------------|--------------------------------|--------------------------------------------------
 sql table, keys, indexes, sp, function | ef (code first, fluent api)    | iis, di, mapper, documentation (swagger)         
-trigger, view, relationships           | migrations                     | cache, authentication, authorization, validation 
+trigger, view, relationships           | fluentmigrator                 | cache, authentication, authorization, validation 
 transaction, isolation, acid           |                                | localization, configuration, security            
 execution plan, profiler, optimization |                                | integration with 3rd-party system, performance   
 scaling (partitioning), normalization  |                                | scale, serialization, model binding              
@@ -37,19 +37,13 @@ IEqualityComparer, IComparable         |                                | messag
 operators, Object.methods, IClonable   |                                | 3 layer architecture, ddd
 
 
-#### tools
-* vs+resharper, notepad++ 
-* fiddler, chrome dev tools, virtualBox
-* git
-#### testing
-* mock, stub, libs (xunit, selenium/webdriver, specflow)
-* pyramid
-* code coverage
-* ui/functional/performance
-#### html, css, js
-* promises, typescript, scss, use strict
-* localstorage, geolocation, cookies
-* d3, svg, kendo
-* WebRTC, WebSockets, webworker
-#### data structures, algo
-* recursion
+tools                                  | testing            | html, css, js
+---------------------------------------|--------------------|----------------------------------------------
+ vs+resharper, notepad++               | moq, stub          | promises, typescript, scss, use strict
+ fiddler, chrome dev tools, virtualBox | xunit              | localstorage, geolocation, cookies
+ git                                   | selenium, specflow | d3, svg, kendo
+                                       | pyramid            | WebRTC, WebSockets, webworker
+
+data structures | algo
+----------------|---------
+list, dict      | recursion
