@@ -1,6 +1,5 @@
 * common
-  * conflict during code review, meeting, customer and other
-  * supervise, mentor, interview, teach, lecture
+  * conflict management, supervise, mentor, interview, teach, lecture
   * ide productivity
 * business development - customer orientation. priorities should be based on business value/goal
   * bussiness goals and key features of project, high workflow understanding
