@@ -9,6 +9,8 @@
   * proposing the new framework/technology, presentation, PoC
   * jira flow, azure vsts, gitlab, confluence, sad
   * own effords -> define clearly individual’s value aspects -> use ‘I’ instead of ‘We’
+  * technical dept, layer vs tier, code comments vs documentation
+  * DoD vs DoR
 * requirements & architecture
   * most impacting none-functional requirements for code, architecture, documentation, etc.
   * estimation of an epic and a simple story, estimation techniques except planning poker
