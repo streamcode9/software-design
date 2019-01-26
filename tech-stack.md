@@ -25,8 +25,6 @@
 * .net + core
   * Web API vs WCF
   * azure, message queue, cache, appInsights
-  * when to use and avoid async calls
-  * multiple threads enumerate shared collection. many reads, seldom changes
   * ef, moq, nunit, serilog, topshelf, autoMapper sendGrid jwt sso
   * LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
 * js angular CLI, webSocket webRTC, i18n, chai, sass, html, material, ngrx, rxjs
