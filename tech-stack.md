@@ -6,7 +6,7 @@
   * bussiness goals and key features of project, high workflow understanding
   * distinguish business goals from features => core ideas of business analysis => product quality
 * sdp
-  * scrum/kanban/xp/agile
+  * scrum/kanban
   * proposing the new framework/technology, presentation, PoC
   * jira flow, azure vsts, gitlab, confluence, sad
   * own effords -> define clearly individual’s value aspects -> use ‘I’ instead of ‘We’
