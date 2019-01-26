@@ -25,7 +25,6 @@
 * .net + core
   * Web API vs WCF
   * azure, message queue, cache, appInsights
-  * abstract vs interface
   * when to use and avoid async calls
   * multiple threads enumerate shared collection. many reads, seldom changes
   * ef, moq, nunit, serilog, topshelf, autoMapper sendGrid jwt sso
