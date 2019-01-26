@@ -18,7 +18,7 @@
   * antiPatterns mvc mvvm ddd cqrs
 * code
   * composition, solid, dry, kiss, yagni
-  * refactoring, legacy code, documentation, 
+  * refactoring, legacy code
   * issue exist on production env but absent at dev env. how to deal with it without additional amendments?
   * what are the most impact and bottlenecks in application to focus?
   * code smells, hash, UML, RegExp
