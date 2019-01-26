@@ -1,7 +1,8 @@
 * common
   * conflict management, supervise, mentor, interview, teach, lecture
   * ide productivity
-* business development - customer orientation. priorities should be based on business value/goal
+* business development - customer orientation
+  * business value/goal based priorities
   * bussiness goals and key features of project, high workflow understanding
   * distinguish business goals from features => core ideas of business analysis => product quality
 * sdp
