@@ -33,4 +33,4 @@
 * db
   * normalization acid, query optimization, execution plan, bulk operations
   * keyVault, sql server stores info about occured deadlocks
-* ci/cd sonaСube archimate
+* ci/cd sonaСube
