@@ -28,8 +28,8 @@
   * multiple threads enumerate shared collection. many reads, seldom changes
   * ef, moq, nunit, serilog, topshelf, autoMapper sendGrid jwt sso
   * LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
-* js angular CLI, webSocket webRTC, i18n, chai, sass, html
-* db
+* js angular CLI, webSocket webRTC, i18n, chai, sass, html, material
+* db, blob, cosmo db
   * normalization acid, query optimization, execution plan, bulk operations
   * keyVault, sql server stores info about occured deadlocks
-* ci/cd sonaСube
+* ci/cd sonaСube doker jenkins terraform
