@@ -24,12 +24,16 @@
   * what are the most impact and bottlenecks in application to focus?
   * code smells, hash, UML, RegExp
 * .net + core
-  * Web API vs WCF
+  * asp Web API vs WCF
   * azure, message queue, cache, appInsights
-  * ef, moq, nunit, serilog, topshelf, autoMapper sendGrid jwt sso
+  * ef, concurrentToken
+  * fluent migration, assertion, validation
+  * moq, nunit, serilog, topshelf, autoMapper sendGrid jwt sso
   * LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
+  * call asynchronous method sync, ConfigureAwait, lock
 * js angular CLI, webSocket webRTC, i18n, chai, sass, html, material, ngrx, rxjs
 * db, blob, cosmo db
   * normalization acid, query optimization, execution plan, bulk operations
   * keyVault, sql server stores info about occured deadlocks
 * ci/cd
+* other: wpf xamarin iceLink plivo twillio googleMaps
