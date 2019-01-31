@@ -33,7 +33,7 @@
   * call asynchronous method sync, ConfigureAwait, lock
 * js angular CLI, webSocket webRTC, i18n, chai, sass, html, material, ngrx, rxjs
 * db, blob, cosmo db
-  * normalization acid, query optimization, execution plan, bulk operations
+  * normalization acid, execution plan, bulk operations
   * keyVault, sql server stores info about occured deadlocks
 * ci/cd
 * other: wpf xamarin iceLink plivo twillio googleMaps
