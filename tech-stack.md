@@ -34,5 +34,5 @@
 * db, blob, cosmo db
   * normalization acid, execution plan, bulk operations
   * keyVault, sql server stores info about occured deadlocks
-* ci/cd
+* ci/cd jenkins doker sonarCube
 * other: wpf xamarin iceLink plivo twillio googleMaps
