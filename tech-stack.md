@@ -1,5 +1,5 @@
 * common
-  * conflict management, supervise, mentor, interview, teach, lecture
+  * conflict management, supervise, mentor, interview, tech talk, lecture
   * ide productivity
 * business development - customer orientation
   * business value/goal based priorities
