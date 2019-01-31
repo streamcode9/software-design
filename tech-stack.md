@@ -2,7 +2,6 @@
   * conflict management, supervise, mentor, interview, tech talk, lecture
   * ide productivity
 * business development - customer orientation
-  * business value/goal based priorities
   * bussiness goals and key features of project, high workflow understanding
   * distinguish business goals from features => core ideas of business analysis => product quality
 * sdp
