@@ -28,7 +28,7 @@
   * moq, nunit, serilog, topshelf, autoMapper sendGrid jwt sso
   * LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
   * call asynchronous method sync, ConfigureAwait, lock
-* js angular CLI, webSocket webRTC, i18n, scs, html, material, ngrx, rxjs
+* js angular CLI, webSocket webRTC, i18n, css, html, material, ngrx, rxjs
 * db
   * normalization acid, execution plan, bulk operations
   * keyVault, sql server stores info about occured deadlocks
