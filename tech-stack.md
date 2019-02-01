@@ -7,15 +7,14 @@
 * sdp
   * scrum/kanban
   * proposing the new framework/technology, presentation, PoC
-  * jira flow, azure vsts, gitlab, confluence, sad
+  * jira flow, gitlab, confluence, sad
   * own effords -> define clearly individual’s value aspects -> use ‘I’ instead of ‘We’
   * tech debt, layer vs tier, code comments vs documentation
   * DoD vs DoR
 * requirements & architecture
   * most impacting none-functional requirements for code, architecture, documentation, etc.
   * estimation of an epic and a simple story, estimation techniques except planning poker
-  * cloud, micro-service, function
-  * antiPatterns mvc mvvm ddd cqrs
+  * micro-service antiPatterns mvc mvvm ddd cqrs
 * code
   * composition, solid, dry, kiss, yagni
   * refactoring, legacy code
@@ -24,15 +23,15 @@
   * code smells, hash, UML, RegExp
 * .net + core
   * asp Web API vs WCF
-  * azure, message queue, cache, appInsights
   * ef, concurrentToken
   * fluent migration, assertion, validation
   * moq, nunit, serilog, topshelf, autoMapper sendGrid jwt sso
   * LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
   * call asynchronous method sync, ConfigureAwait, lock
-* js angular CLI, webSocket webRTC, i18n, chai, sass, html, material, ngrx, rxjs
-* db, blob, cosmo db
+* js angular CLI, webSocket webRTC, i18n, scs, html, material, ngrx, rxjs
+* db
   * normalization acid, execution plan, bulk operations
   * keyVault, sql server stores info about occured deadlocks
-* ci/cd jenkins doker sonarCube
+* azure: blob, servise bus, keyVault, sql, function, webJob, appInsights, vsts, cosmo db
+* ci/cd: jenkins doker sonarCube terraform
 * other: wpf xamarin iceLink plivo twillio googleMaps
