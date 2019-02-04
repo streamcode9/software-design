@@ -34,4 +34,5 @@
   * keyVault, sql server stores info about occured deadlocks
 * azure: blob, servise bus, keyVault, sql, function, webJob, appInsights, vsts, cosmo db
 * ci/cd: jenkins doker sonarCube terraform
+* test: acept-fb, regression-dev
 * other: wpf xamarin iceLink plivo twillio googleMaps
