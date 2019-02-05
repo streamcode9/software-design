@@ -25,14 +25,14 @@
   * asp Web API vs WCF
   * ef, concurrentToken
   * fluent migration, assertion, validation
-  * moq, nunit, serilog, topshelf, autoMapper sendGrid jwt sso
+  * moq, nunit, serilog, topshelf, autoMapper jwt sso
   * LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
-  * call asynchronous method sync, ConfigureAwait, lock
+  * call asynchronous method sync, ConfigureAwait, lock, cap theorem
 * js angular CLI, webSocket webRTC, i18n, css, html, material, ngrx, rxjs
 * db
   * normalization acid, execution plan, bulk operations
-  * keyVault, sql server stores info about occured deadlocks
+  * sql server stores info about occured deadlocks
 * azure: blob, servise bus, keyVault, sql, function, webJob, appInsights, vsts, cosmo db
 * ci/cd: jenkins doker sonarCube terraform
 * test: acept-fb, regression-dev
-* other: wpf xamarin iceLink plivo twillio googleMaps
+* other: wpf xamarin iceLink plivo twillio googleMaps sendGrid
