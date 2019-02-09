@@ -5,7 +5,7 @@
   * high workflow understanding
 * sdp
   * scrum/kanban
-  * proposing the new framework/technology, presentation, PoC
+  * proposing the new framework/technology, comparison, presentation, PoC
   * jira flow, gitlab, confluence, sad
   * tech debt, layer vs tier
   * DoD vs DoR
