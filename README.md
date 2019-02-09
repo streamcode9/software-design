@@ -1,6 +1,6 @@
 
 
-# haskell-cheatsheet
+# Principles
 
 ## Принципы пользования принципами
 
