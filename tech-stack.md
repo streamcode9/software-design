@@ -15,7 +15,7 @@
   * micro-service antiPatterns mvc mvvm ddd cqrs
 * code
   * ide productivity
-  * composition, solid, dry, kiss, yagni
+  * composition, solid
   * refactoring, legacy code
   * issue exist on production env but absent at dev env
   * what are the most impact and bottlenecks in application to focus?
