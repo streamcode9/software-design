@@ -55,6 +55,8 @@ A component should have only one reason to change
 
 ## Избегание оверинжиниринга
 
+### KISS - Keep It Simple Stupid
+
 ### YAGNI - You Ain’t Gonna Need It
 
 [deviq](http://deviq.com/yagni/)
