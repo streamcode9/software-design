@@ -1,3 +1,4 @@
+* language agnostic software engineering (sml, rust, erl, red, scheme/clojure, j, io) n2o
 * customer focus
   * bussiness goal
   * key features of project  
@@ -13,6 +14,11 @@
   * most impacting none-functional requirements for code, architecture, documentation, etc.
   * estimation of an epic and a simple story, estimation techniques except planning poker
   * micro-service antiPatterns mvc mvvm ddd cqrs
+  * scalability, performance, usability, quality, availability, relaibiity, security
+  * tests, automation, legacy code, distributed system, monitoring & alerting
+  * os, osi model, protocols, virtualization, containers, unikernels
+  * immutable infrastructure, infrastructure as code and distributed cross-region systems
+  * soap/rest
 * code
   * ide productivity
   * composition, solid
