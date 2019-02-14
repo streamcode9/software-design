@@ -21,6 +21,7 @@
   * soap/rest
   * distributed systems, transactions, logs
   * immutability
+  * tests
 * code
   * ide productivity
   * composition, solid
