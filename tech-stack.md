@@ -49,5 +49,5 @@
 * test: acept-fb, regression-dev
 * libs: fluent migration assertion validation swagger
 * proto: webSocket webRTC
-* other: wpf xamarin iceLink plivo twillio googleMaps sendGrid
+* other: wpf xamarin/flutter iceLink plivo twillio googleMaps sendGrid
 
