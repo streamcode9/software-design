@@ -19,6 +19,8 @@
   * os, osi model, protocols, virtualization, containers, unikernels
   * immutable infrastructure, infrastructure as code and distributed cross-region systems
   * soap/rest
+  * distributed systems, transactions, logs
+  * immutability
 * code
   * ide productivity
   * composition, solid
@@ -27,10 +29,11 @@
   * what are the most impact and bottlenecks in application to focus?
   * code smells, hash, UML, RegExp
 * .net core
-  * asp Web API vs WCF  
+  * asp Web API vs WCF
   * moq, nunit, serilog, topshelf, autoMapper jwt sso
-  * LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
+  * Collections, LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
   * multi-threading
+  * memory management
 * angular CLI i18n material ngrx rxjs
 * razor html css js
 * ef
