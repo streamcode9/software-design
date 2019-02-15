@@ -1,9 +1,7 @@
 * language agnostic software engineering (sml, rust, erl, red, scheme/clojure, j, io) n2o
 * customer focus
-  * bussiness goal
-  * key features of project  
+  * bussiness goal => key features of project  
   * distinguish business goals from features => product quality
-  * high workflow understanding
 * sdp
   * scrum/kanban
   * proposing the new framework/technology, comparison, presentation, PoC
