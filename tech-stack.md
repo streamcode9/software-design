@@ -28,10 +28,11 @@
   * code smells, hash, UML, RegExp
 * .net core
   * asp Web API vs WCF
-  * moq, nunit, serilog, topshelf, autoMapper jwt sso
+  * serilog, topshelf, autoMapper jwt sso
   * Collections, LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
   * multi-threading
   * memory management
+* test: moq, nunit, act-arrange-assert
 * angular CLI i18n material ngrx rxjs
 * razor html css js
 * ef
