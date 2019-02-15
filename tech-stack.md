@@ -12,13 +12,12 @@
   * estimation of an epic and a simple story, estimation techniques except planning poker
   * micro-service antiPatterns mvc mvvm ddd cqrs
   * scalability, performance, usability, quality, availability, relaibiity, security
-  * tests, automation, legacy code, distributed system, monitoring & alerting
+  * legacy code
   * os, osi model, protocols, virtualization, containers, unikernels
-  * immutable infrastructure, infrastructure as code and distributed cross-region systems
+  * immutable (infrastructure)
+  * infrastructure as code
+  * distributed cross-region systems (logs, transactions, monitoring, alerting)
   * soap/rest
-  * distributed systems, transactions, logs
-  * immutability
-  * tests
 * code
   * ide productivity
   * composition, solid
