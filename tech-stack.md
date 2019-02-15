@@ -8,8 +8,7 @@
   * scrum/kanban
   * proposing the new framework/technology, comparison, presentation, PoC
   * jira flow, gitlab, confluence, sad
-  * tech debt, layer vs tier
-  * DoD vs DoR
+  * tech debt, layer vs tier, DoD vs DoR
 * requirements & architecture
   * most impacting none-functional requirements for code, architecture, documentation, etc.
   * estimation of an epic and a simple story, estimation techniques except planning poker
