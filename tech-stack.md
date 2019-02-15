@@ -32,7 +32,7 @@
   * Collections, LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
   * multi-threading
   * memory management
-* test: moq, nunit, act-arrange-assert
+* test: moq, nunit, act-arrange-assert, obj.verify(o => o.f(x)).ones()
 * angular CLI i18n material ngrx rxjs
 * razor html css js
 * ef
