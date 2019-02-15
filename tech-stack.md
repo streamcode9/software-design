@@ -47,5 +47,5 @@
 * libs: fluent migration assertion validation swagger
 * proto: webSocket webRTC
 * other: wpf xamarin/flutter iceLink plivo twillio googleMaps sendGrid
-* tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome
+* tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome, kdiff
 
