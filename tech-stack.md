@@ -25,6 +25,6 @@
 * test: acept-fb, regression-dev
 * libs: fluent migration assertion validation swagger serilog, topshelf, autoMapper
 * proto: webSocket webRTC tcp
-* other: wpf xamarin iceLink plivo twillio googleMaps sendGrid
+* other: iceLink plivo twillio googleMaps sendGrid
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome, kdiff
 
