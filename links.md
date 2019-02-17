@@ -5,4 +5,4 @@
 * http://sergeyteplyakov.blogspot.com
 * eax.me
 * devzen
-* dotnext, jug.ru, yandex, jetbrains
+* dotnext, jug.ru, yandex, jetbrains, технострим
