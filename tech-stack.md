@@ -7,8 +7,7 @@
   * scalability, performance, usability, quality, availability, relaibiity, security
   * legacy code
   * os, osi model, protocols, virtualization, containers, unikernels
-  * immutable (infrastructure)
-  * infrastructure as code
+  * immutable
   * distributed cross-region systems (logs, transactions, monitoring, alerting)
   * soap/rest
   * ide productivity, legacy code, RegExp
