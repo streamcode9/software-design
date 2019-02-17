@@ -4,12 +4,10 @@
   * distinguish business goals from features => product quality
 * architecture
   * micro-service antiPatterns mvc mvvm ddd cqrs
-  * scalability, performance, usability, quality, availability, relaibiity, security
-  * os, osi model, protocols, virtualization, containers, unikernels
-  * immutable
+  * scalability, os, osi model, immutable
   * distributed cross-region systems (logs, transactions, monitoring, alerting, mq)
   * soap/rest
-  * ide productivity, legacy code, RegExp
+  * ide productivity, legacy code
 * .net core
   * Collections, LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
   * multi-threading
