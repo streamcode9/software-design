@@ -21,7 +21,7 @@
   * normalization acid execution-plan bulk-operations
   * sql server stores info about occured deadlocks
 * azure: blob, servise bus, keyVault, sql, function, webJob, appInsights, vsts, cosmo db
-* ci/cd: jenkins doker sonarCube terraform
+* ci/cd: sonarCube
 * test: acept-fb, regression-dev
 * libs: fluent migration assertion validation swagger serilog, topshelf, autoMapper
 * proto: webSocket webRTC tcp
