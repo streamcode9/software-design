@@ -49,6 +49,8 @@ If a change in one module results in many changes in another module then they ar
 - "Модуль парсинга не должен знать о том, что существует модуль отчётов"
 - "Модуль отчётов не должен знать о используемой модулем парсинга библиотеке парсинга"
 
+### SOLID
+
 ### Single Responsibility
 
 A component should have only one reason to change
