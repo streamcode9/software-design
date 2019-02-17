@@ -12,7 +12,7 @@
 * ef concurrentToken
 * ado.net distributed-transactions
 * db  
-  * normalization acid execution-plan bulk-operations
+  * normalization acid execution-plan bulk-operations cqrs
   * sql server stores info about occured deadlocks
 * azure: blob, servise bus, keyVault, sql, function, webJob, appInsights, vsts, cosmo db
 * libs: fluent migration assertion validation swagger serilog, topshelf, autoMapper
