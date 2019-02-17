@@ -1,4 +1,4 @@
-* language agnostic software engineering (sml, node, erl, red, go, java) n2o
+* language agnostic software engineering (sml, node, erl, go, java) n2o
 * architecture
   * micro-service antiPatterns mvc mvvm ddd cqrs
   * scalability, os, osi model, immutable
