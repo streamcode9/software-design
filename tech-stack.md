@@ -1,4 +1,4 @@
-* language agnostic software engineering (sml, node, rust, erl, red, go, java, scheme, j, io) n2o
+* language agnostic software engineering (sml, node, erl, red, go, java) n2o
 * architecture
   * micro-service antiPatterns mvc mvvm ddd cqrs
   * scalability, os, osi model, immutable
@@ -25,6 +25,6 @@
 * test: acept-fb, regression-dev
 * libs: fluent migration assertion validation swagger serilog, topshelf, autoMapper
 * proto: webSocket webRTC tcp
-* other: wpf xamarin/flutter iceLink plivo twillio googleMaps sendGrid
+* other: wpf xamarin iceLink plivo twillio googleMaps sendGrid
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome, kdiff
 
