@@ -1,7 +1,6 @@
 * language agnostic software engineering (sml, js-deno, erl, go) n2o
 * architecture
-  * micro-service antiPatterns mvc mvvm ddd cqrs soap rest
-  * scalability, os, osi model, immutable
+  * micro-service antiPatterns mvc mvvm ddd cqrs soap rest scalability immutable
   * distributed cross-region systems (logs, transactions, monitoring, alerting, mq)
 * .net core
   * Collections, LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
@@ -18,7 +17,7 @@
 * azure: blob, servise bus, keyVault, sql, function, webJob, appInsights, vsts, cosmo db
 * ci/cd: sonarCube
 * libs: fluent migration assertion validation swagger serilog, topshelf, autoMapper
-* proto: webSocket webRTC tcp
+* proto: webSocket webRTC tcp osi OS
 * other: iceLink plivo twillio googleMaps sendGrid
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome, kdiff
 
