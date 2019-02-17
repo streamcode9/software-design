@@ -1,10 +1,8 @@
 * language agnostic software engineering (sml, node, erl, go, java) n2o
 * architecture
-  * micro-service antiPatterns mvc mvvm ddd cqrs
+  * micro-service antiPatterns mvc mvvm ddd cqrs soap rest
   * scalability, os, osi model, immutable
   * distributed cross-region systems (logs, transactions, monitoring, alerting, mq)
-  * soap/rest
-  * ide productivity, legacy code
 * .net core
   * Collections, LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
   * multi-threading
