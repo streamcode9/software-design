@@ -20,9 +20,7 @@
   * soap/rest
 * code
   * ide productivity
-  * composition, solid
-  * refactoring, legacy code
-  * issue exist on production env but absent at dev env
+  * legacy code
   * what are the most impact and bottlenecks in application to focus?
   * code smells, hash, UML, RegExp
 * .net core
