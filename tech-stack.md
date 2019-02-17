@@ -5,7 +5,7 @@
 * sdp
   * scrum/kanban
   * proposing the new framework/technology, comparison, presentation, PoC
-  * jira flow, gitlab, confluence, sad
+  * jira flow, gitlab, confluence
   * tech debt, layer vs tier, DoD vs DoR
 * requirements & architecture
   * most impacting none-functional requirements for code, architecture, documentation, etc.
