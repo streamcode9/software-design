@@ -1,4 +1,4 @@
-* language agnostic software engineering (sml, erl, go) = n2o
+* agnostic software engineering (sml, erl, go) = n2o
 * architecture
   * antiPatterns scalability (ver hor cache) immutable
   * distributed cross-region systems (logs, transactions, monitoring, alerting, mq)
