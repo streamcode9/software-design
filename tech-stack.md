@@ -18,11 +18,7 @@
   * infrastructure as code
   * distributed cross-region systems (logs, transactions, monitoring, alerting)
   * soap/rest
-* code
-  * ide productivity
-  * legacy code
-  * what are the most impact and bottlenecks in application to focus?
-  * code smells, hash, UML, RegExp
+  * ide productivity, legacy code, RegExp
 * .net core
   * asp Web API vs WCF
   * serilog, topshelf, autoMapper jwt sso
@@ -43,7 +39,7 @@
 * ci/cd: jenkins doker sonarCube terraform
 * test: acept-fb, regression-dev
 * libs: fluent migration assertion validation swagger
-* proto: webSocket webRTC
+* proto: webSocket webRTC tcp
 * other: wpf xamarin/flutter iceLink plivo twillio googleMaps sendGrid
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome, kdiff
 
