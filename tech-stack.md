@@ -1,7 +1,4 @@
 * language agnostic software engineering (sml, node, rust, erl, red, go, java, scheme, j, io) n2o
-* customer focus
-  * bussiness goal => key features of project  
-  * distinguish business goals from features => product quality
 * architecture
   * micro-service antiPatterns mvc mvvm ddd cqrs
   * scalability, os, osi model, immutable
