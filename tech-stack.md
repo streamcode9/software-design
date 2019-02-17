@@ -1,7 +1,7 @@
 * agnostic software engineering (sml, erl, go) = n2o
 * architecture
   * antiPatterns scalability (ver hor cache) immutable
-  * distributed cross-region systems (logs, transactions, monitoring, alerting, mq)
+  * distributed cross-region systems (logs, transactions)
 * .net core
   * Collections, LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
   * multi-threading
