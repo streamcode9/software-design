@@ -7,7 +7,7 @@
   * scalability, performance, usability, quality, availability, relaibiity, security
   * os, osi model, protocols, virtualization, containers, unikernels
   * immutable
-  * distributed cross-region systems (logs, transactions, monitoring, alerting)
+  * distributed cross-region systems (logs, transactions, monitoring, alerting, mq)
   * soap/rest
   * ide productivity, legacy code, RegExp
 * .net core
