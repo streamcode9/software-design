@@ -2,9 +2,7 @@
 * customer focus
   * bussiness goal => key features of project  
   * distinguish business goals from features => product quality
-* requirements & architecture
-  * most impacting none-functional requirements for code, architecture, documentation, etc.
-  * estimation of an epic and a simple story, estimation techniques except planning poker
+* architecture
   * micro-service antiPatterns mvc mvvm ddd cqrs
   * scalability, performance, usability, quality, availability, relaibiity, security
   * legacy code
