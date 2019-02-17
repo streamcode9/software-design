@@ -1,4 +1,4 @@
-* language agnostic software engineering (sml, rust, erl, red, scheme, j, io) n2o
+* language agnostic software engineering (sml, rust, erl, red, go, java, c++, python, scheme, j, io) n2o
 * customer focus
   * bussiness goal => key features of project  
   * distinguish business goals from features => product quality
