@@ -11,10 +11,8 @@
 * test: moq, nunit, act-arrange-assert, obj.verify(o => o.f(x)).ones()
 * angular CLI i18n material ngrx rxjs
 * razor html css js
-* ef
-  * concurrentToken
-* ado.net
-  * distributed-transactions
+* ef concurrentToken
+* ado.net distributed-transactions
 * db  
   * normalization acid execution-plan bulk-operations
   * sql server stores info about occured deadlocks
