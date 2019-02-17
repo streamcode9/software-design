@@ -1,4 +1,4 @@
-* language agnostic software engineering (sml, node, erl, go) n2o
+* language agnostic software engineering (sml, js-deno, erl, go) n2o
 * architecture
   * micro-service antiPatterns mvc mvvm ddd cqrs soap rest
   * scalability, os, osi model, immutable
@@ -9,8 +9,7 @@
   * memory management
 * asp wcf
 * test: moq, nunit, act-arrange-assert, obj.verify(o => o.f(x)).ones(), acept-fb, regression-dev
-* angular CLI i18n material ngrx rxjs
-* razor html css js
+* angular CLI i18n material ngrx rxjs razor html css js
 * ef concurrentToken
 * ado.net distributed-transactions
 * db  
