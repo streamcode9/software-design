@@ -20,11 +20,10 @@
   * soap/rest
   * ide productivity, legacy code, RegExp
 * .net core
-  * asp Web API vs WCF
-  * serilog, topshelf, autoMapper jwt sso
   * Collections, LINQ, how to generate query, IQuerable vs IEnumerable, yield operator
   * multi-threading
   * memory management
+* asp wcf
 * test: moq, nunit, act-arrange-assert, obj.verify(o => o.f(x)).ones()
 * angular CLI i18n material ngrx rxjs
 * razor html css js
@@ -38,7 +37,7 @@
 * azure: blob, servise bus, keyVault, sql, function, webJob, appInsights, vsts, cosmo db
 * ci/cd: jenkins doker sonarCube terraform
 * test: acept-fb, regression-dev
-* libs: fluent migration assertion validation swagger
+* libs: fluent migration assertion validation swagger serilog, topshelf, autoMapper
 * proto: webSocket webRTC tcp
 * other: wpf xamarin/flutter iceLink plivo twillio googleMaps sendGrid
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome, kdiff
