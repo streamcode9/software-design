@@ -5,7 +5,6 @@
 * architecture
   * micro-service antiPatterns mvc mvvm ddd cqrs
   * scalability, performance, usability, quality, availability, relaibiity, security
-  * legacy code
   * os, osi model, protocols, virtualization, containers, unikernels
   * immutable
   * distributed cross-region systems (logs, transactions, monitoring, alerting)
