@@ -11,9 +11,7 @@
 * angular CLI i18n material ngrx rxjs razor html css js
 * ef concurrentToken
 * ado.net distributed-transactions
-* db  
-  * normalization acid execution-plan bulk-operations cqrs
-  * sql server stores info about occured deadlocks
+* db: normalization acid execution-plan bulk-ops cqrs, occured deadlocks tbl
 * azure: keyVault, vsts, cosmo db
 * proto: webSocket webRTC tcp osi OS
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome, kdiff
