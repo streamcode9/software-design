@@ -15,7 +15,6 @@
   * normalization acid execution-plan bulk-operations cqrs
   * sql server stores info about occured deadlocks
 * azure: blob, servise bus, keyVault, function, webJob, appInsights, vsts, cosmo db
-* libs: fluent migration assertion validation swagger serilog, topshelf, autoMapper
 * proto: webSocket webRTC tcp osi OS
 * other: iceLink plivo twillio googleMaps sendGrid sonarCube
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome, kdiff
