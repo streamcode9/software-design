@@ -6,3 +6,5 @@
 * eax.me
 * devzen
 * dotnext, jug.ru, yandex, jetbrains, технострим
+* js ninj
+* solo .net
