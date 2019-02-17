@@ -8,7 +8,7 @@
   * multi-threading
   * memory management
 * asp wcf
-* test: moq, nunit, act-arrange-assert, obj.verify(o => o.f(x)).ones()
+* test: moq, nunit, act-arrange-assert, obj.verify(o => o.f(x)).ones(), acept-fb, regression-dev
 * angular CLI i18n material ngrx rxjs
 * razor html css js
 * ef concurrentToken
@@ -18,7 +18,6 @@
   * sql server stores info about occured deadlocks
 * azure: blob, servise bus, keyVault, sql, function, webJob, appInsights, vsts, cosmo db
 * ci/cd: sonarCube
-* test: acept-fb, regression-dev
 * libs: fluent migration assertion validation swagger serilog, topshelf, autoMapper
 * proto: webSocket webRTC tcp
 * other: iceLink plivo twillio googleMaps sendGrid
