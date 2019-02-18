@@ -1,4 +1,4 @@
-* agnostic software engineering (sml, erl, go, rust) = n2o
+* agnostic software engineering (sml, go, rust) = n2o
 * architecture: scalability (ver hor cache) immutable, distributed cross-region systems (logs, transactions)
 * angular rxjs razor html css js
 * .net core: memory-management multi-threading IQuerable IEnumerable yield
