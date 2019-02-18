@@ -12,7 +12,5 @@
 * ef concurrentToken
 * ado.net distributed-transactions
 * db: normalization acid execution-plan bulk-ops cqrs, occured deadlocks tbl
-* azure: keyVault, vsts, cosmo db
 * proto: webSocket webRTC tcp osi OS
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, chrome, kdiff
-
