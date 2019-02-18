@@ -5,6 +5,5 @@
 * http://sergeyteplyakov.blogspot.com
 * eax.me
 * devzen
-* dotnext, jug.ru, yandex, jetbrains, технострим
-* js ninj
+* dotnext, yandex, технострим
 * solo .net
