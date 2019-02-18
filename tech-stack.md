@@ -1,7 +1,5 @@
 * agnostic software engineering (sml, erl, go, rust) = n2o
-* architecture
-  * antiPatterns scalability (ver hor cache) immutable
-  * distributed cross-region systems (logs, transactions)
+* architecture: scalability (ver hor cache) immutable, distributed cross-region systems (logs, transactions)
 * angular CLI i18n material ngrx rxjs razor html css js
 * .net core: memory-management multi-threading IQuerable IEnumerable yield
 * asp wcf
