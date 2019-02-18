@@ -5,8 +5,7 @@
 * angular CLI i18n material ngrx rxjs razor html css js
 * .net core: memory-management multi-threading IQuerable IEnumerable yield
 * asp wcf
-* ef concurrentToken
-* ado.net distributed-transactions
+* ado.net distributed-transactions ef-concurrentToken
 * db: normalization acid execution-plan bulk-ops cqrs, occured deadlocks tbl
 * test: moq, nunit, act-arrange-assert, obj.verify(o => o.f(x)).ones(), acept-fb, regression-dev
 * proto: webSocket webRTC tcp osi OS
