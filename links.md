@@ -1,5 +1,4 @@
 
-* msdn.blogs  docs.microsoft
-* stackoverflow
-* http://sergeyteplyakov.blogspot.com  solo .net
+* msdn.blogs docs.microsoft stackoverflow
+* http://sergeyteplyakov.blogspot.com
 * dotnext, технострим
