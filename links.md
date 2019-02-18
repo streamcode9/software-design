@@ -1,9 +1,6 @@
 
-* msdn blogs
+* msdn.blogs  docs.microsoft
 * stackoverflow
-* docs.microsoft
-* http://sergeyteplyakov.blogspot.com
-* eax.me
-* devzen
-* dotnext, yandex, технострим
-* solo .net
+* http://sergeyteplyakov.blogspot.com  solo .net
+* eax.me devzen
+* dotnext, yandex, технострим 
