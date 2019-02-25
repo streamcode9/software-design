@@ -1,4 +1,4 @@
-* agnostic software engineering (go, rust) (sml, erl, scheme, acl2, swift, clojure) (comp sci cent, technostream) = n2o
+* agnostic software engineering (go, rust) (sml, erl, clojure) (comp sci cent, technostream)
 * architecture: scalability immutable, distributed cross-region systems (logs, transactions)
 * angular rxjs razor
 * .net core: memory-management multi-threading IQuerable IEnumerable yield
