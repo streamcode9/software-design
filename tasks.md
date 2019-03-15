@@ -4,6 +4,7 @@
   * shortest path in graph
 * architecture: scalability immutable, distributed cross-region systems (logs, transactions)
   * micro-services correlation-id
+* solid ddd observable-pattern
 * sql
   * joins, grouping
 * .net vs .net core
