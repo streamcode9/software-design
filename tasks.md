@@ -14,5 +14,7 @@
 * js/css selector with specific requirements for nested elements (structure), nesting level
   * angular flux (ngrx, redux)
 * IoC (Autofac, .net core out-of-box, container initialization, maps place in a project structure)
+* azure
+* ci/cd
 * git flow
 * scrum
