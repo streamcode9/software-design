@@ -1,6 +1,6 @@
 * agnostic software engineering (rust) (sml, erl, clojure) (js nodejs .net)
 * architecture: scalability immutable, distributed cross-region systems (logs, transactions)
-* angular rxjs razor
+* angular react rxjs razor
 * .net core: memory-management multi-threading IQuerable IEnumerable yield
 * asp wcf
 * ado.net distributed-transactions ef-concurrentToken
