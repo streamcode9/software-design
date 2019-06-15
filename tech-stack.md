@@ -1,4 +1,4 @@
-* agnostic software engineering (go, rust) (sml, erl, clojure)
+* agnostic software engineering (rust) (sml, erl, clojure) (js nodejs .net)
 * architecture: scalability immutable, distributed cross-region systems (logs, transactions)
 * angular rxjs razor
 * .net core: memory-management multi-threading IQuerable IEnumerable yield
