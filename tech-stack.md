@@ -3,9 +3,10 @@
 * js (angular react rxjs) razor
 * .net core: memory-management multi-threading IQuerable IEnumerable yield DI
 * asp wcf
-* swagger automapper identity-server-4
+* swagger automapper identity-server-4 serilog
 * ef: migration seed fluent-api EntityTypeConfiguration
 * ado.net distributed-transactions ef-concurrentToken
 * db: normalization acid execution-plan bulk-ops cqrs, occured deadlocks tbl
 * test: act-arrange-assert, obj.verify(o => o.f(x)).ones(), acept-fb, regression-dev
+* jira sentry.io azure twillio plivo cronofy sendgrid
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, wireshark, chrome, kdiff
