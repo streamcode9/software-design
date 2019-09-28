@@ -1,5 +1,3 @@
-* https://github.com/streamcode9/software-design
-* https://www.youtube.com/user/bravit111/playlists
 * http://tomasp.net/histogram/
 
 ----
