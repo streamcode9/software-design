@@ -4,7 +4,7 @@
 
 * agnostic software engineering
   * bad code = fragility, rigidity, dependencies => interface
-  * good code = easy to delete, thin controllers - thick models
+  * good code = easy to delete, thin controllers - thick models, zero dependency
 * architecture: scalability immutable distributed cross-region systems (logs transactions)
   * [anti]patterns
   * monolith, hexagon architecture [stv -> domain <- repo], crud apps, per feature [folders] structure
