@@ -1,6 +1,6 @@
 * http://tomasp.net/histogram/
 * https://fsharpforfunandprofit.com/
-* rust go erl kotlin
+* rust go erl kotlin ocaml prolog scheme/commonLisp
 
 ----
 
