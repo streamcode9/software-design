@@ -1,4 +1,5 @@
 * http://tomasp.net/histogram/
+* https://fsharpforfunandprofit.com/
 
 ----
 
