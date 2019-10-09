@@ -1,6 +1,6 @@
 * http://tomasp.net/histogram/
 * https://fsharpforfunandprofit.com/
-* rust erl ocaml scheme/clojure
+* rust erl ocaml
 
 ----
 
