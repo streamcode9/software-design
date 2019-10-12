@@ -1,7 +1,7 @@
 * update tech stack
 * http://tomasp.net/histogram/*
 * https://fsharpforfunandprofit.com/
-* rust erl ocaml
+* rust erl ocaml lisp
 
 ----
 
