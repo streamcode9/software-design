@@ -1,4 +1,6 @@
 * update tech stack
+* http://paulgraham.com/bel.html
+* https://graphicallinearalgebra.net/
 * http://tomasp.net/histogram/
 * https://fsharpforfunandprofit.com/
 * rust erl ocaml lisp https://semantic.vision/
