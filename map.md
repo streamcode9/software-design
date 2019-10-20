@@ -26,5 +26,4 @@
 * test: act-arrange-assert, obj.verify(o => o.f(x)).ones(), acept-fb, regression-dev nunit xunit moq specflow
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, wireshark, chrome, kdiff, nswagstudio, azure
 * clean code metrics: nesting lvl, WTF counter, LOC, dependencies
-* companies: ms jetBrains telerik devExpress redGate unity
-* resources: modulescount tiobe thoughtworks gartner
+
