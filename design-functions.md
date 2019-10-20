@@ -34,3 +34,19 @@ person?.residence?.address?.street
 ```
 * algebra = many entities and operations
 * curry
+
+
+IDE
+- hotkeys: close tab, switch tab
+- find in solution
+- navigation to file/class by pattern
+- format selected/file
+- refactor: rename
+
+
+Principles
+- flat code
+- readable name of variables and functions
+
+
+https://www.robinwieruch.de/conditional-rendering-react
