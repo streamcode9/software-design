@@ -1,6 +1,5 @@
 * update tech stack
 * http://paulgraham.com/bel.html
-* https://graphicallinearalgebra.net/
 * https://fsharpforfunandprofit.com/
 * rust erl ocaml lisp https://semantic.vision/
 * http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en
