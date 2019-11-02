@@ -167,3 +167,6 @@ f.foreach(function (g) {
 
 ### Randomized Property Testing
 
+### BDD
+
+(link)[https://hiptest.com/blog/hiptest/getting-started-with-bdd-part-1/]
