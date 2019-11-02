@@ -1,9 +1,7 @@
-* update tech stack
 * http://paulgraham.com/bel.html
 * https://fsharpforfunandprofit.com/
-* rust erl ocaml lisp https://semantic.vision/
+* https://semantic.vision/
 * https://adoptingerlang.org/
-* https://hiptest.com/blog/hiptest/getting-started-with-bdd-part-1/
 * https://lisp-univ-etc.blogspot.com/
 
 ----
