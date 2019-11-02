@@ -169,4 +169,4 @@ f.foreach(function (g) {
 
 ### BDD
 
-(link)[https://hiptest.com/blog/hiptest/getting-started-with-bdd-part-1/]
+[link](https://hiptest.com/blog/hiptest/getting-started-with-bdd-part-1/)
