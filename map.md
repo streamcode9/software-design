@@ -4,7 +4,6 @@
 * rust erl ocaml lisp https://semantic.vision/
 * https://adoptingerlang.org/
 * http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en
-* https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf
 * https://hiptest.com/blog/hiptest/getting-started-with-bdd-part-1/
 * https://lisp-univ-etc.blogspot.com/
 
