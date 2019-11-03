@@ -36,13 +36,5 @@
 # Specific 2
 
 * akka.net
-
-
-# Specific 3
-
 * haskell
-
-
-# Specific 4
-
-* typescript
+* typescript + nodejs
