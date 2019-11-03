@@ -12,7 +12,7 @@
 # Specific 1
 
 * agnostic software engineering
-  * bad code = fragility, rigidity, dependencies => interface
+  * bad code = fragility, rigidity, dependencies => interface, code smell
   * good code = easy to delete, thin controllers - thick models, zero dependency, dogfooding
 * architecture: scalability immutable distributed cross-region systems (logs transactions)
   * [anti]patterns
