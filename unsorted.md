@@ -1,6 +1,5 @@
 # Common
 
-* open mit, coursera
 * https://github.com/danistefanovic/build-your-own-x
 * http://paulgraham.com/bel.html
 * https://fsharpforfunandprofit.com/
