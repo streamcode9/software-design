@@ -1,10 +1,15 @@
+# Common
+
+* open mit, coursera
+* https://github.com/danistefanovic/build-your-own-x
 * http://paulgraham.com/bel.html
 * https://fsharpforfunandprofit.com/
 * https://semantic.vision/
 * https://adoptingerlang.org/
 * https://lisp-univ-etc.blogspot.com/
 
-----
+
+# Specific 1
 
 * agnostic software engineering
   * bad code = fragility, rigidity, dependencies => interface
@@ -27,3 +32,17 @@
 * tools: git bash, tortoise, vs, vs code, nodepad++, fiddler, sql studio, total commander, wireshark, chrome, kdiff, nswagstudio, azure
 * clean code metrics: nesting lvl, WTF counter, LOC, dependencies
 
+
+# Specific 2
+
+* akka.net
+
+
+# Specific 3
+
+* haskell
+
+
+# Specific 4
+
+* typescript
