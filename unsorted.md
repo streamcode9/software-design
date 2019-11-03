@@ -1,14 +1,12 @@
-# Common
+# Research
 
 * https://github.com/danistefanovic/build-your-own-x
 * http://paulgraham.com/bel.html
 * https://fsharpforfunandprofit.com/
 * https://semantic.vision/
-* https://adoptingerlang.org/
-* https://lisp-univ-etc.blogspot.com/
 
 
-# Specific 1
+# Enterprise
 
 * agnostic software engineering
   * bad code = fragility, rigidity, dependencies => interface, code smell
@@ -32,7 +30,7 @@
 * clean code metrics: nesting lvl, WTF counter, LOC, dependencies
 
 
-# Specific 2
+# Experiment
 
 * akka.net
 * haskell
