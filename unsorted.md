@@ -1,9 +1,9 @@
 # Research
 
-* https://github.com/danistefanovic/build-your-own-x
-* http://paulgraham.com/bel.html
 * https://fsharpforfunandprofit.com/
+* http://paulgraham.com/bel.html
 * https://semantic.vision/
+* https://github.com/danistefanovic/build-your-own-x
 
 
 # Enterprise
