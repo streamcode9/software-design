@@ -132,6 +132,8 @@ f.foreach(function (g) {
 
 ### Technical Debt
 
+### Code Smell
+
 ### Data Clump
 
 [wiki](https://en.wikipedia.org/wiki/Data_Clump_(Code_Smell))
