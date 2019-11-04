@@ -31,6 +31,7 @@ If a change in one module results in many changes in another module then they ar
 Улучшает Loose Coupling and High Cohesion.
 
 - "модуль парсинга не должен заниматься отчётами, а модуль отчётов - парсингом"
+- per feature folders structure in solution
 
 ### Stable Dependencies
 
@@ -165,10 +166,14 @@ f.foreach(function (g) {
 
 ### TDD и Tests First
 
+- Act Aarrange Assert
+- obj.verify(o => o.fun(args)).ones()
+
 ### Stubs and Mock Objects
 
 ### Randomized Property Testing
 
 ### BDD
 
-[link](https://hiptest.com/blog/hiptest/getting-started-with-bdd-part-1/)
+- specflow
+- [link](https://hiptest.com/blog/hiptest/getting-started-with-bdd-part-1/)
