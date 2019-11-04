@@ -7,7 +7,7 @@
 # Enterprise
 
 * architecture
-* html, css, js, react, redux, react-router
+* html css js react redux react-router
 * .net
 * azure search
 * sql cosmo blob
@@ -15,6 +15,9 @@
 
 # Experiment
 
-* akka.net
+* architecture
+* .net
+  * akka.net
 * haskell
-* typescript + nodejs
+* typescript
+* nodejs
