@@ -1,9 +1,3 @@
-# Research
-
-* https://fsharpforfunandprofit.com/
-* https://github.com/danistefanovic/build-your-own-x
-
-
 # Enterprise
 
 * architecture
@@ -21,3 +15,9 @@
 * haskell
 * typescript
 * nodejs
+
+
+# Research
+
+* https://fsharpforfunandprofit.com/
+* https://github.com/danistefanovic/build-your-own-x
