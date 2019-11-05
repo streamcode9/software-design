@@ -3,8 +3,9 @@
 * architecture
 * html css js react redux react-router
 * .net
-* azure search
-* sql cosmo blob
+* azure
+  * search
+  * sql cosmo blob
 
 
 # Experiment
