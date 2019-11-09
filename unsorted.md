@@ -20,6 +20,6 @@
 
 # Research
 
-* https://fsharpforfunandprofit.com/
-* https://github.com/danistefanovic/build-your-own-x
+* algorithm data structure
 * https://semantic.vision/
+  * http client server
