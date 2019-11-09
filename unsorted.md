@@ -23,5 +23,3 @@
 * https://fsharpforfunandprofit.com/
 * https://github.com/danistefanovic/build-your-own-x
 * https://semantic.vision/
-* https://ocw.mit.edu/
-* https://bellard.org/
