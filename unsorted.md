@@ -20,6 +20,7 @@
 
 # Research
 
+* https://medium.com/@kevingoslar
 * algorithm data structure
 * https://semantic.vision/
   * http client server
