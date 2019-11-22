@@ -25,6 +25,7 @@
 # Research
 
 * https://medium.com/@kevingoslar
+* https://github.com/davidkpiano/xstate
 * algorithm data structure
 * https://semantic.vision/
   * http client server
