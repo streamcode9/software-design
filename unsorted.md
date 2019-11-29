@@ -24,8 +24,10 @@
 
 # Research
 
-* https://medium.com/@kevingoslar
-* https://github.com/davidkpiano/xstate
-* algorithm data structure
+* http://lisp-univ-etc.blogspot.com/2019/07/programming-algorithms-book.html
 * https://semantic.vision/
-  * http client server
+  * scripts for git managment  
+  * http client
+  * web soket server
+* https://www.youtube.com/user/tonsky555
+  * https://www.patreon.com/tonsky
