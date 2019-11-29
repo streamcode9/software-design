@@ -29,5 +29,3 @@
   * scripts for git managment  
   * http client
   * web soket server
-* https://www.youtube.com/user/tonsky555
-  * https://www.patreon.com/tonsky
