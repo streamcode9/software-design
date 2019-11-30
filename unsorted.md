@@ -4,3 +4,4 @@
   * scripts for git managment  
   * http client
   * web soket server
+* Roslyn - find all dependencies 
