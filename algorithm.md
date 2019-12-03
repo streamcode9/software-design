@@ -15,3 +15,25 @@ http://www.algorist.com/ - Steven Skienna's The Algorithm Design Manual
 http://www.gigamonkeys.com/book/ - Practical Common Lisp
  
 http://www.paulgraham.com/acl.html - ANSI Common Lisp
+
+Big-O complexity
+* constant-time (O(1))
+* sublinear (logarithmic — O(log n))
+* linear (O(n)) and superlinear (O(n * log n))
+* higher-order polynomial (O(n^c), where c is some constant greater than 1)
+* exponential (O(с^n), where с is usually 2 but, at least, greater than 1)
+* plain lunatic complex (O(n!) and so forth)
+
+* self-evaluation: all literal constants (like 1, "hello", etc.) are evaluated to themselves. (built-in primitive types (1) or data structures ("hello")
+* symbol evaluation (names of variables, functions, types or classes depending on the context)
+* expression evaluation
+  * build-in operator (axiom)
+  * function
+  * macro
+
+
+http://www.paulgraham.com/onlisp.html
+
+https://letoverlambda.com/
+
+http://www.gigamonkeys.com/book/loop-for-black-belts.html
