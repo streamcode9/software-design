@@ -24,6 +24,7 @@ Big-O complexity
 * exponential (O(с^n), where с is usually 2 but, at least, greater than 1)
 * plain lunatic complex (O(n!) and so forth)
 
+Syntax
 * self-evaluation: all literal constants (like 1, "hello", etc.) are evaluated to themselves. (built-in primitive types (1) or data structures ("hello")
 * symbol evaluation (names of variables, functions, types or classes depending on the context)
 * expression evaluation
