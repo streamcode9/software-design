@@ -38,3 +38,17 @@ http://www.paulgraham.com/onlisp.html
 https://letoverlambda.com/
 
 http://www.gigamonkeys.com/book/loop-for-black-belts.html
+
+
+Data strcutures:
+ * array, linked list, kvs
+ * hash-table, string, tree, graph, functional, probabilistic, etc
+ 
+```
+/// PC
+[ cache <-> CPU <-> registers ]  <-> memory <-> IO <-> world
+von Neumann's bottleneck
+register can store primitive integer numbers (integers proper, floats, characters) and memory address (pointer)
+number of bits in a general-purpose register -> maximum memory address -> maximum amount of memory
+```
+ 
