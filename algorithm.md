@@ -52,3 +52,8 @@ register can store primitive integer numbers (integers proper, floats, character
 number of bits in a general-purpose register -> maximum memory address -> maximum amount of memory
 ```
  
+data structure inside the memory:
+* contiguous structure occupies a single chunk of memory (arrays and structs) 
+* linked structure resides in different places (lists, trees, and graphs)
+
+Tuples
