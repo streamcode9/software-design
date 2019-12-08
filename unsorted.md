@@ -1,4 +1,4 @@
-Devzenru 
+* Devzenru 
 * https://semantic.vision/
   * scripts for git managment  
   * http client
@@ -10,3 +10,4 @@ Devzenru
   * code formatting
   * group editing, move code, replace, refactor
 * test, lint, static analysis, formal verification 
+* https://www.graalvm.org/
