@@ -12,7 +12,7 @@
 * CapNProto
 * pub sub iso
 * https://github.com/kparc
-* ocaml opam dune unikernel
+* ocaml opam dune unikernel mirageOS
 * https://github.com/littlekernel/lk
 * https://github.com/ktye/i
 * https://www.templatemaker.nl/en/
@@ -27,3 +27,6 @@
 * verification tla+ formal methods
 * https://snr.stanford.edu/salsify/
 * https://speakerdeck.com/proger/tcp-performance-for-mobile-applications
+* https://kernel-being.livejournal.com/
+* sml, twelf, cml, Poly/ML -> HOL, SML/NJ, MLton, UrWeb, AliceML, OCaml, Manticore
+* https://github.com/bettio/AtomVM
