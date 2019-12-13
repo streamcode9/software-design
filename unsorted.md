@@ -16,3 +16,11 @@
 * https://github.com/littlekernel/lk
 * https://github.com/ktye/i
 * https://www.templatemaker.nl/en/
+* https://github.com/jeremycw/httpserver.h/blob/master/httpserver.h
+* https://svelte.dev/blog/virtual-dom-is-pure-overhead
+* https://github.com/area9innovation/flow9
+* System F from Oleg Kiselyov articles okmij.org/ftp/
+* stephendiehl.com/posts.html
+* https://ashw.io/
+* blazor
+* https://ipfs.io/
