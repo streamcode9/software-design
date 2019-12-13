@@ -24,3 +24,6 @@
 * https://ashw.io/
 * blazor
 * https://ipfs.io/
+* verification tla+ formal methods
+* https://snr.stanford.edu/salsify/
+* https://speakerdeck.com/proger/tcp-performance-for-mobile-applications
