@@ -10,6 +10,7 @@
 * https://bpmn2.ru/
 * http://www.iso-architecture.org/42010/afs/frameworks-table.html
 * CapNProto
+* 2pc
 * pub sub iso
 * https://github.com/kparc
 * ocaml opam dune unikernel mirageOS
