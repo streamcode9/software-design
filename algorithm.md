@@ -1,3 +1,7 @@
+Open MIT
+
+docs.microsoft
+
 Input -> Algo -> Output
 
 Resources: time (amount of operations), memory
