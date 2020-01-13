@@ -50,3 +50,15 @@ Principles
 
 
 https://www.robinwieruch.de/conditional-rendering-react
+
+
+* Hoare triples
+* Embedded Design Principle
+* Representable/Valid Principle
+* Data Over Code Principle
+* Algebraic Refactoring
+  * sum and product types
+  * data structure patterns
+  * refactoring a program isomorphic to factoring polynomials in algebra
+  * Liskov substitution principle
+  * theory of subtyping
