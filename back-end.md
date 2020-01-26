@@ -14,3 +14,7 @@
 * https://sentry.io/welcome/
 * https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
 * https://azure.microsoft.com/en-us/services/devops/pipelines/
+* https://azure.microsoft.com/en-us/services/storage/blobs/
+* https://azure.microsoft.com/en-us/services/search/
+* https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
