@@ -1,0 +1,16 @@
+* https://visualstudio.microsoft.com/
+* https://dotnet.microsoft.com/
+* https://docs.microsoft.com/en-us/dotnet/csharp/
+* https://fsharp.org/
+* https://dotnetfoundation.org/
+* https://www.jetbrains.com/resharper/
+* https://www.ncrunch.net/
+* https://dotnet.microsoft.com/apps/aspnet/mvc
+* https://identityserver.io/
+* https://azure.microsoft.com/en-us/services/event-grid/
+* https://azure.microsoft.com/en-us/services/service-bus/
+* https://azure.microsoft.com/en-us/services/functions/
+* https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+* https://sentry.io/welcome/
+* https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
+* https://azure.microsoft.com/en-us/services/devops/pipelines/
