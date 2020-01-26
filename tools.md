@@ -1,0 +1,9 @@
+* https://git-scm.com/
+* https://tortoisegit.org/
+* https://www.devart.com/codecompare/
+* http://kdiff3.sourceforge.net/
+* https://www.ghisler.com/
+* https://notepad-plus-plus.org/downloads/
+* https://www.getpaint.net/
+* https://www.telerik.com/fiddler
+* https://www.wireshark.org/
