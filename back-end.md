@@ -1,9 +1,6 @@
-* https://visualstudio.microsoft.com/
 * https://dotnet.microsoft.com/
 * https://docs.microsoft.com/en-us/dotnet/csharp/
 * https://dotnetfoundation.org/
-* https://www.jetbrains.com/resharper/
-* https://www.ncrunch.net/
 * https://dotnet.microsoft.com/apps/aspnet/mvc
 * https://identityserver.io/
 * https://azure.microsoft.com/en-us/services/event-grid/
@@ -19,7 +16,12 @@
 ----
 
 * https://getakka.net/
+* https://sentry.io/welcome/
+* https://autofaccn.readthedocs.io/en/latest/index.html
+* http://gearman.org/
+
+----
+
 * https://www.haskell.org/
 * https://www.typescriptlang.org/
 * https://nodejs.org/en/
-* https://sentry.io/welcome/
