@@ -40,9 +40,6 @@ Principles
 - readable name of variables and functions
 
 
-https://www.robinwieruch.de/conditional-rendering-react
-
-
 * Hoare triples
 * Embedded Design Principle
 * Representable/Valid Principle
