@@ -1,4 +1,3 @@
-* https://code.visualstudio.com/
 * https://developer.mozilla.org/en-US/
 * css in js
 * https://reactjs.org/
