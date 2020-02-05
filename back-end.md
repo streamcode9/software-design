@@ -20,9 +20,3 @@
 * https://sentry.io/welcome/
 * https://autofaccn.readthedocs.io/en/latest/index.html
 * http://gearman.org/
-
-----
-
-* https://www.haskell.org/
-* https://www.typescriptlang.org/
-* https://nodejs.org/en/
