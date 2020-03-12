@@ -50,3 +50,33 @@ Principles
   * refactoring a program isomorphic to factoring polynomials in algebra
   * Liskov substitution principle
   * theory of subtyping
+  
+  
+  Software: atom station, microprocessor, ai, game, bank, os, compiler, framework
+  
+  
+  Design Patterns (https://sourcemaking.com/design_patterns):
+  * Structural
+  * Creational
+  * Behavioral
+    * Observer | EvenBus (events)
+      * `pub(msg,channel)`
+      * `sub(channel,callback)`
+    * Chain of responsibility (message across the layers)
+      * `handlers.reduce((ctx, module) => module.fun(args, ctx), context)`
+    * Command (add functionality on a fly)
+      * `command.exec(args)`
+    * State
+    * Mediator (late binding of the remote objects)
+    * Strategy
+    * Plugin
+    * Visitor (rendering, bypass data structure like tree)
+      * `elements.flat().forEach(elem => render(elem))`
+    * Moment
+    * Interpreter (BNF)
+      * `program ::= message [ program ]`
+      * `message ::= symbol [ «(» [ message [ «,» message ] ] «)» ]`
+    * Template
+      * `IModule { method(IArgs args); }`
+      * `IModule module => module.method(args)`
+      
