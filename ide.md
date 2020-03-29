@@ -1,4 +1,5 @@
-* hotkeys: close tab, switch tab, move line, delete line, comment line
+* tabs: close, switch
+* lines: move, delete, comment, select
 * find in solution/file
 * find usages/implementation
 * navigation to file/class by pattern
