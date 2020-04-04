@@ -1,3 +1,5 @@
+https://lisp-univ-etc.blogspot.com/2020/03/programming-algorithms-synchronization.html
+
 Open MIT
 
 Input -> Algo -> Output
