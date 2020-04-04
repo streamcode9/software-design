@@ -1,17 +1,5 @@
 
 ```
-// John backus
-c = 0
-for (var i = 0; i < n; i++) {
-    c += a[i]*b[i]
-}
-
-def dotP = (insert +) • (applyToAll x) • transpose
-```
-
-* Visitor pattern, multimethods, extensions, typeclasses, object algebras
-* semi group and monoid = composite pattern - simlify entities composition
-```
 var a = http(url1)
 var b = http(url2)
 var c = a + b
