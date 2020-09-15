@@ -33,13 +33,36 @@ pipe(5, add1, time2, square)
 Address -> AddressValidator => ValidationResult
 
 // Use-case = Service -> Service
-// ChangeProfileRequest -> UpdateProfileData
+// ChangeProfileRequest -> UpdateProfileData => ChangeProfileResult
+
+// Web-application = Use-case -> Use-case
+// HttpRequest -> WebApplication => HttpResponse
+
+One direction flow. Same for Flux pattern.
 
 ```
 
 # Types
 
+Type is a set of things.
+
 # Types composition
+
+_Algebraic_ composable type system. Use "AND" and "OR" to compose types.
+
+```charp
+// Fruit salad = Banana AND Apple AND Cherry
+enum AppleVariety { Green, Yellow }
+struct FruitSalad { BananaVariety Banana; AppleVariety Apple; CherryVariety Cherry; }
+```
+
+```ts
+// Snack = Banana OR Apple OR Cherry
+type Snack =
+  | BananaVariety
+  | AppleVariety
+  | CherryVariety;
+```
 
 ----
 
