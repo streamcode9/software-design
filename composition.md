@@ -37,10 +37,9 @@ Address -> AddressValidator => ValidationResult
 
 // Web-application = Use-case -> Use-case
 // HttpRequest -> WebApplication => HttpResponse
+```
 
 One direction flow. Same for Flux pattern.
-
-```
 
 # Types
 
