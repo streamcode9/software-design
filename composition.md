@@ -99,7 +99,8 @@ foo = x => {
   return result2
 }
 
-ifUnhandledDo f result = result is Unhandled ? f(result) : result
+ifHandledDo f result = result is Handled ? f(result) : result
+handler1 |> ifHandledDo handler2 |> ifHandledDo handler3
 ```
 
 ----
