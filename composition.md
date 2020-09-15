@@ -48,7 +48,7 @@ Type is a set of things.
 
 # Types composition
 
-_Algebraic_ composable type system. Use "AND" and "OR" to compose types.
+_Algebraic_ composable type system. Use "AND" (record/product) and "OR" (choise/sum) to compose types.
 
 ```charp
 // Fruit salad = Banana AND Apple AND Cherry
@@ -58,10 +58,49 @@ struct FruitSalad { BananaVariety Banana; AppleVariety Apple; CherryVariety Cher
 
 ```ts
 // Snack = Banana OR Apple OR Cherry
-type Snack =
-  | BananaVariety
-  | AppleVariety
-  | CherryVariety;
+type Snack = BananaVariety  AppleVariety | CherryVariety;
+```
+
+One approach - have interfaces and implementations.
+Second one:
+
+```ts
+type EmailAddress = string
+type CardNumber = number
+type CardType = Visa | Mastercard
+type CCInfo = { CardNumber, CardType }
+type PaymentMethod = { Cach, CC }
+type PaymentAmount = number
+type Cyrrency = USD | EUR
+type Payment = { PaymentAmount Amount, Currency Currency, PaymentMethod Method }
+```
+
+----
+
+```ts
+foo = x = x + 10
+bar = (x, y) => x * y
+bar(foo(1), ?) // Can NOT be composed
+
+// Curring!
+barCurried = x => y => x * y
+barCurried(foo(1)) // Partial application
+```
+
+input -> function => handler OR unhandled (null, error, exception, etc)
+```ts
+type OperationResult = Handled | Unhandled
+foo = x => {
+  result1 = handler1(x)
+  if (result1 is Unhandled) return Unhandled;
+  
+  result2 = handler2(result1);
+  if (result1 is Unhandled) return Unhandled;
+  
+  return result2
+}
+
+ifUnhandledDo f result = result is Unhandled ? f(result) : result
 ```
 
 ----
