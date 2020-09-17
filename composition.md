@@ -99,9 +99,47 @@ foo = x => {
   return result2
 }
 
-ifHandledDo f result = result is Handled ? f(result) : result
+ifHandledDo = (f, result) = result is Handled ? f(result) : result
 handler1 |> ifHandledDo handler2 |> ifHandledDo handler3
 ```
+
+Chaining promises
+```js
+task = input => {
+  startTask(input)
+    .then(x => thenTask1(x)
+      .then(y => thenTask2(y)
+        .then(z => do(z))
+        .catch()        
+      )
+      .catch()
+    )
+    .catch()
+}
+
+whenFinishedDo = (f task) => task.then(x => f(x))
+task = input => startTask(input) |> whenFinishedDo(thenTask1) |> whenFinishedDo(thenTask2)
+```
+
+General solution for composing/chaining such stuff?
+Before `- f =`. After `= f =`. Monad aka "Bind" adapter block aka Function transformer.
+
+```cs
+var bind nextFunction result = result is Unhandled ? nextFunction(result) : Handled(result)
+```
+
+# Kleisli composition
+
+`-= + -= = -=`
+
+```cs
+// HttpHandler WebPart
+class HttpContext { Request, Response, ... }
+Async<Option<HttpContext>> HttpHandler(HttpContext)
+```
+
+# Summary
+Reusable, testable, clear (one-direction), maintainable (explicit dependencies), extandable (add new part without touching other)
 
 ----
 
