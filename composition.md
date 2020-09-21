@@ -1,7 +1,7 @@
 # Lego (IKEA rail way) philosophy
-1 all pieces are designed to be connected
-2 peices are reusable in differenct contexts
-3 you can construct new peice from two or more pieces and it still be meet 1 and 2
+* all pieces are designed to be connected
+* peices are reusable in differenct contexts
+* you can construct new peice from two or more pieces and it still be meet 1 and 2
 
 # Functions
 
