@@ -5,3 +5,4 @@
 * tc
 * notepad++
 * fiddler
+* vim emacs
