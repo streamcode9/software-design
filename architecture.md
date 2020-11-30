@@ -6,6 +6,7 @@
   * Bidirectional
 * Backgorund service
 * Queue
+* Cache
 * PubSub
 * BLOB storage
 * Relational DB
