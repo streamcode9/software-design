@@ -1,16 +1,20 @@
 # Building blocks 
 
-* Browers
-* Web service
-  * RequestResponse
-  * Bidirectional
-* Backgorund service
-* Queue
-* Cache
-* PubSub
-* BLOB storage
-* Relational DB
-* KV DB
-* Search tree
+* browers
+* web service
+  * requestResponse
+  * bidirectional
+* backgorund service
+* communications
+  * queue
+  * pubSub
+* storage
+  * tmp
+    * cache
+  * persistent
+    * blob
+    * relational sql
+    * kv
+    * search tree
 
 # Patterns
