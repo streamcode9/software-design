@@ -1,6 +1,6 @@
 # Building blocks 
 
-* browers
+* browser
 * web service
   * requestResponse
   * bidirectional
