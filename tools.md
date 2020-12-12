@@ -1,7 +1,6 @@
-* vs
-* vs code
+* vs + vs code
 * browser
-* wt + git bash
-* notepad++
 * fiddler
-* vim emacs
+* azure: console, data studio
+* tc + git bash + tortoise git
+* ? wt vim emacs
