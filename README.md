@@ -39,12 +39,6 @@ If a change in one module results in many changes in another module then they ar
 
 ### Отделение интерфейса от реализации
 
-### Узкие интерфейсы
-
-[deviq](http://deviq.com/interface-segregation-principle/)
-
-
-
 ### Information Hiding
 
 - "Модуль парсинга не должен знать о том, что существует модуль отчётов"
@@ -52,9 +46,13 @@ If a change in one module results in many changes in another module then they ar
 
 ### SOLID
 
-### Single Responsibility
+#### Single Responsibility
 
 A component should have only one reason to change
+
+### Узкие интерфейсы
+
+[deviq](http://deviq.com/interface-segregation-principle/)
 
 ### OOP
 
