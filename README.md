@@ -50,7 +50,7 @@ If a change in one module results in many changes in another module then they ar
 
 A component should have only one reason to change
 
-### Узкие интерфейсы
+#### Узкие интерфейсы
 
 [deviq](http://deviq.com/interface-segregation-principle/)
 
