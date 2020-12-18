@@ -2,8 +2,11 @@
 * pattern matching
 * pure functions
 * concurrency
-  * csp
+  * csp (communicating sequential processes)
   * actors
+  * cas (compare-and-swap)
+  * stm (software transactional memory)
+  * locks
 * http://day8.github.io/re-frame/
 * https://www.goodreads.com/book/show/3396933-the-art-of-game-design
 * Адре Ламота: "Программирование игр для Windows" https://www.ozon.ru/context/detail/id/1375980
