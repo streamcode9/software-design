@@ -7,6 +7,7 @@
   * cas (compare-and-swap)
   * stm (software transactional memory)
   * locks
+  * multiversion concurrency control
 * http://day8.github.io/re-frame/
 * https://www.goodreads.com/book/show/3396933-the-art-of-game-design
 * Адре Ламота: "Программирование игр для Windows" https://www.ozon.ru/context/detail/id/1375980
