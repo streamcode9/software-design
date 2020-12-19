@@ -145,11 +145,15 @@ f.foreach(function (g) {
 
 ### Technical Debt
 
+- the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer
+
 ### Code Smell
 
-### Data Clump
+- any characteristic in the source code of a program that possibly indicates a deeper problem
 
-[wiki](https://en.wikipedia.org/wiki/Data_Clump_(Code_Smell))
+#### Data Clump
+
+- any group of variables which are passed around together (in a clump) throughout various parts of the program
 
 ## Поведенческие и методологические антипаттерны
 
