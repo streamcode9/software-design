@@ -103,7 +103,17 @@ Explicit is Better Than Implicit.
 
 При андеинжиниринге все принципы нарушены. При оверинжиниринге все принципы доведены до абсурда.
 
-### Spaghetti and Ravioli Code
+### Spaghetti coe
+
+- unstructured and difficult-to-maintain source code caused by lack of programming style rules
+
+### Ravioli Code
+
+- code that comprises well-structured classes that are easy to understand in isolation, but difficult to understand as a whole
+
+### Lasagna code
+
+- code refers to code whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers
 
 ### Выращиваение программ
 
