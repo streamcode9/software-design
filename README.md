@@ -35,6 +35,8 @@ If a change in one module results in many changes in another module then they ar
 
 ### Stable Dependencies
 
+- The dependencies between software packages should be in the direction of the stability of the packages. That is, a given package should depend only on more stable packages.
+
 [deviq](http://deviq.com/stable-dependencies/)
 
 ### Отделение интерфейса от реализации
