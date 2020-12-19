@@ -1,6 +1,6 @@
 * vs + vs code
 * browser
-* fiddler
+* fiddler + wireshark
 * azure: console, data studio
-* tc + git bash + tortoise git
-* ? wt vim emacs
+* tc + git bash + tortoise git + devart code compare
+* ? wt vim emacs powershell
