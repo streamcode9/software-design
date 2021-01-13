@@ -4,4 +4,4 @@
 * azure: console, data studio
 * tc + git bash + tortoise git + devart code compare
 * paint
-* ? wt vim emacs powershell
+* ? wt vim
