@@ -1,5 +1,3 @@
-* https://roadmap.sh
-* https://danluu.com/input-lag/
 * https://tiarkrompf.github.io/
 * 10 Ways to Make Money as a Developer
   * Blogging
