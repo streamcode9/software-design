@@ -6,24 +6,8 @@
 * Адре Ламота: "Программирование игр для Windows" https://www.ozon.ru/context/detail/id/1375980
 * Александр Степанов: "Начала программирования" https://www.ozon.ru/context/detail/id/6279127
 * Robert Nystrom: "Game Programming Patterns" https://gameprogrammingpatterns.com
-* 10 Ways to Make Money as a Developer
-  * Blogging
-  * Freelancing
-  * Streaming
-  * Youtube
-  * Mentoring
-  * Courses
-  * Products
-  * Open Source
-  * Software as a Service
-  * Job
-  * @florinpop1705 full book for the rest
-
-
 
 ---
-
-
 
 # industry
 ```
@@ -77,5 +61,4 @@ https://github.com/joearms
 https://github.com/synrc/cr
 https://github.com/synrc/kvs
 https://github.com/groupoid/cafe
-https://github.com/cesarblum/sectorforth
 ```
