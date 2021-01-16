@@ -143,5 +143,3 @@ Reusable, testable, clear (one-direction), maintainable (explicit dependencies),
 
 ----
 
-[0] fsharpforfunandprofit
-[1] https://bartoszmilewski.com/
