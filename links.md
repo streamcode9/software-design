@@ -37,7 +37,7 @@ connect to db
 
 
 
-erl sml
+erl sml ocaml haskell
    |||
 ---------------------
     FFI
