@@ -3,7 +3,6 @@
 * https://bartoszmilewski.com/
 * http://day8.github.io/re-frame/
 * https://www.goodreads.com/book/show/3396933-the-art-of-game-design
-* Александр Степанов: "Начала программирования" https://www.ozon.ru/context/detail/id/6279127
 * Robert Nystrom: "Game Programming Patterns" https://gameprogrammingpatterns.com
 
 ---
