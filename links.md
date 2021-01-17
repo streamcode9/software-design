@@ -1,9 +1,6 @@
 * https://tiarkrompf.github.io/
 * fsharpforfunandprofit
-* https://bartoszmilewski.com/
-* http://day8.github.io/re-frame/
-* https://www.goodreads.com/book/show/3396933-the-art-of-game-design
-* Robert Nystrom: "Game Programming Patterns" https://gameprogrammingpatterns.com
+* https://bartoszmilewski.com
 
 ---
 
