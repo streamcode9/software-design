@@ -19,16 +19,17 @@ akka.net
 
 # fun
 ```
-☄️ try new lang
-https://eax.me/programming-language-learning/
+☄️ try new
 parse conole params
 http req
-- download files multiple threads
 read/write to file
-- search in each line with regExp
+search in each line with regExp
 tcp server
 web framework
 connect to db
+web socket chat
+web rtc chat
+SDL lib
 
 
 
@@ -53,7 +54,6 @@ lisp on js or formality
 
 
 https://github.com/joearms
-https://github.com/synrc/cr
 https://github.com/synrc/kvs
 https://github.com/groupoid/cafe
 ```
