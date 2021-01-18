@@ -32,13 +32,13 @@ connect to db
 
 
 
-erl sml ocaml haskell
+erl   sml
    |||
 ---------------------
-    FFI
+   FFI
 ---------------------
    |||
-c cpp rust
+    c
 
 
 
