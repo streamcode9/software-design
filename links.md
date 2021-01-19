@@ -33,7 +33,7 @@ SDL lib
 
 
 
-erl   sml
+erl   sml   formality
    |||
 ---------------------
    FFI
@@ -48,7 +48,7 @@ erl   sml
 
 
 ☄️ implement by book
-smalltalk on c#/formality
+smalltalk on c#
 
 
 
