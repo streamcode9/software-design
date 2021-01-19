@@ -48,8 +48,8 @@ erl   sml
 
 
 ☄️ implement by book
-smalltalk on c# or cpp or rust
-lisp on js or formality
+smalltalk on c#
+lisp      on formality
 
 
 
