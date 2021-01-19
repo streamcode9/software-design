@@ -48,8 +48,7 @@ erl   sml
 
 
 ☄️ implement by book
-smalltalk on c#
-lisp      on formality
+smalltalk on c#/formality
 
 
 
