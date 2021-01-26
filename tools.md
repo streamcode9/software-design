@@ -2,6 +2,6 @@
 * browser
 * fiddler + wireshark
 * azure: console, data studio
-* tc + git bash + tortoise git + devart code compare
+* tc + git bash + tortoise git
 * paint
 * ? wt vim
