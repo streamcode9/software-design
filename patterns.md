@@ -8,4 +8,3 @@
   * stm (software transactional memory)
   * locks
   * multiversion concurrency control
-* models: class, relation, xml
