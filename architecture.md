@@ -18,3 +18,8 @@
     * search tree
 
 # Patterns
+
+* ddd
+* anti-curruption layer
+* repository
+* cqrs
