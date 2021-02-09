@@ -1,7 +1,9 @@
 * finite state machine
 * pattern matching
 * pure functions
-* networking
+* io
+  * fs
+  * network
 * serialization
 * parsing
 * memory
