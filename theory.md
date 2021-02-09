@@ -20,3 +20,11 @@
   * kv (cosmos)
   * graph (gremlin)
   * search index (tree)
+* types
+* date & time
+* encoding
+* security
+  * xss
+  * cors
+  * sandboxing
+  * injection
