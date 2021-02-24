@@ -1,8 +1,9 @@
-* vs + vs code
+* vs vsCode
 * browser
-* fiddler + wireshark
+* fiddler wireshark
 * azure: console, data studio
-* tc + git bash + tortoise git
+* tc tortoiseGit 
+  * wt powerShell notepad++
+  * gitBash vim/emacs ?mc
 * paint
-* ? wt vim/notepad++
-* process explorer
+* processExplorer
