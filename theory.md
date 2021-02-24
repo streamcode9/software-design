@@ -33,4 +33,8 @@
 * test
 * benchmark
 * log
+* errors
+  * data loss
+  * data duplication
+  * system unavailable
 
