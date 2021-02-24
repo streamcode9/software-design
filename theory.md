@@ -37,4 +37,5 @@
   * data loss
   * data duplication
   * system unavailable
+  * data corruption
 
