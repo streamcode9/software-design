@@ -1,10 +1,10 @@
-* vs
+* vs + git for windows (bash + ui)
 * browser
 * fiddler wireshark
 * azure: console, data studio
 * tc tortoiseGit 
   * wt powerShell notepad++
-  * gitBash vim/emacs ?mc
+  * vim/emacs ?mc
   * vsCode
 * paint
 * processExplorer
