@@ -69,6 +69,7 @@ A component should have only one reason to change
 ### KISS - Keep It Simple Stupid
 
 Explicit is Better Than Implicit.
+Good code is Easy to delete.
 
 ### YAGNI - You Ain’t Gonna Need It
 
