@@ -1,10 +1,8 @@
-* vs + git for windows
+* vs + vsCode + git for windows
 * browser
 * fiddler wireshark
 * azure: console, data studio
-* tc tortoiseGit 
-  * wt powerShell notepad++
-  * vim/emacs ?mc
-  * vsCode
+* tortoiseGit 
+* wt powerShell
 * paint
 * processExplorer
