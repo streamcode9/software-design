@@ -1,4 +1,4 @@
-* vs + git for windows (bash + ui)
+* vs + git for windows
 * browser
 * fiddler wireshark
 * azure: console, data studio
