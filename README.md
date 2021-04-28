@@ -118,6 +118,10 @@ Good code is Easy to delete.
 
 ### Выращиваение программ
 
+- anti-planing. Adding new features into empty or sample project step by step if needed
+  without further planing of system evolution (architecture, features, etc) and building proper backbones of the system.
+  Such code contains of workarounds and hacks.
+
 ### Оно же работает
 
 ### Pyramid of Doom
@@ -164,6 +168,9 @@ f.foreach(function (g) {
 - скопировать аналогичный кусок из другого  места текущего проекта и поправить
 
 ### Беспомощный котёнок
+
+- developer does not know what he is doing and afraids everything
+  He does not evolve because of lack of intellect or absence of environmental pressure (project or team interest, market needs, etc)
 
 ## Принципы сорс-контрола
 
