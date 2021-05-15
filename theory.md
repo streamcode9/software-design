@@ -1,3 +1,4 @@
+* dev process (jira, git, ci/cd, test, deploy, bug, hotfix)
 * finite state machine
 * pattern matching
 * pure functions
@@ -20,6 +21,7 @@
   * kv (cosmos)
   * graph (gremlin)
   * search index (tree)
+  * migrations
 * types
 * date & time
 * encoding
