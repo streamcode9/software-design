@@ -1,4 +1,4 @@
-* dev process (jira, git, ci/cd, test, deploy, bug, hotfix)
+* dev process (jira, git, ci/cd, test, deploy, bug, hotfix, feature switch)
 * finite state machine
 * pattern matching
 * pure functions
