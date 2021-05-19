@@ -1,7 +1,7 @@
 * dev process (jira, git, ci/cd, test, deploy, bug, hotfix, feature switch)
-* finite state machine
-* pattern matching
-* pure functions
+* lang
+  * pattern matching
+  * pure functions
 * io
   * fs
   * network
@@ -22,6 +22,8 @@
   * graph (gremlin)
   * search index (tree)
   * migrations
+  * indexes
+  * partitioning
 * types
 * date & time
 * encoding
@@ -33,6 +35,7 @@
   * keyVault keys rotation
 * data structures
 * algorithms
+  * finite state machine
 * test
 * benchmark
 * log
@@ -41,4 +44,10 @@
   * data duplication
   * system unavailable
   * data corruption
+* high load
+  * scaling
+  * optimizations
+  * back preassure
+  * retry
+  * tenants
 
