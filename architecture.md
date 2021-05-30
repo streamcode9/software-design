@@ -67,6 +67,4 @@
 
 # Unsorted
 * http://tiarkrompf.github.io/notes/?/smooth-tree-animation/aside13
-* https://www.youtube.com/watch?v=6m4XPje76WU
-* https://www.youtube.com/watch?v=_Kex5hwGE-w
 * https://github.com/NakamotoInstitute/nakamotoinstitute.org
