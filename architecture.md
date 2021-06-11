@@ -64,7 +64,3 @@
 * repository
 * cqrs
 
-
-# Unsorted
-* http://tiarkrompf.github.io/notes/?/smooth-tree-animation/aside13
-* https://github.com/NakamotoInstitute/nakamotoinstitute.org
