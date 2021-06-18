@@ -64,7 +64,7 @@
 * repository
 * cqrs
 
-# Unsorted
+# Buzzwords
 
 * dev process (jira, git, ci/cd, test, deploy, bug, hotfix, feature switch)
 * lang
