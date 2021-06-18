@@ -1,8 +1,5 @@
 # Core ideas
 
-* Architecture is a decision-making and *delegation* system for *complexity* and *risk* management.
-* Architecture helps with the indeterminism tackling.
-* Engineering - context, restrictions, trade-offs
 * Processes
   * form a list of conventions forming some guidelines and a set of automated checks to verify those conventions are not broken
   * audit (system overview, requirements collection, patterns collection)
