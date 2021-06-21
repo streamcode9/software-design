@@ -14,8 +14,6 @@
     * limit the number of ways you can do that
     * ideally - having as few options as possible, every feature should be similar technically to others
   * evolution (continuous aligning with business)
-* Conway's law
-* Refactoring
 * Principles
   * delay necessity to make decisions (until it is critical and requirements are absolutely clear)
   * reduce the number of patterns
