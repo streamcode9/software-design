@@ -21,7 +21,7 @@
   * standardize systemic patterns and effects
   * reduce knowledge fragmentation
   * take into account continuous changes and evolution
-* Communication skills, лид должен привносить ясность в проект
+* Lead should bring clarity to the project
 * DDD
 * https://c4model.com/
 * https://plantuml.com/ru/
