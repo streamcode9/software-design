@@ -115,3 +115,13 @@
   * tenants
 
 
+```
+ArchiMate нотация + BPML
+Jest
+Буч, Ф Брукс, Кент Бэк - экстремальное программирование, Йордон Эдвард, Тепляков
+https://www.manning.com/books/unit-testing
+Kent Beck: Test-Driven Development: By Example (Addison-Wesley Professional, 2002)
+Steve Freeman and Nat Pryce, Growing Object Oriented Software,Guided by Tests (Addison-Wesley Professional, 2009)
+SICP
+Книга Маслова по Перлу и книга Холомьёва по Хаскелю
+```
