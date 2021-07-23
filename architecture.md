@@ -1,19 +1,27 @@
 # Core ideas
 
-* Processes
-  * form a list of conventions forming some guidelines and a set of automated checks to verify those conventions are not broken
-  * audit (system overview, requirements collection, patterns collection)
-    * quality attributes and its priorities
-  * decisions log (ADR architecture decision record)
-  * control (automation, metrics)
-    * limit the number of cross-context dependencies
-    * tests for main/critical use cases (ideally integration tests - starting from UI interactions)
-    * business rules processor on a strong type system
-    * checklists (how to add a feature)
-    * document all different ways you can add a new feature
-    * limit the number of ways you can do that
+* discuss !!!
+* each goal has price & profit
+  * critical quality attibutes
+  * metrics
+  * automatization (e2e tests for critical pathes, linter, static analysis)
+* code review
+  * easy to read
+  * pair code review
+* tl = simple tasks + delegation + book + speak aloud daily tasks
+* form a list of conventions forming some guidelines and a set of automated checks to verify those conventions are not broken
+* audit (system overview, requirements collection, patterns collection)
+  * quality attributes and its priorities
+* decisions log (ADR architecture decision record) - always know why something has happened
+* control (automation, metrics)
+  * limit the number of cross-context dependencies
+  * tests for main/critical use cases (ideally integration tests - starting from UI interactions)
+  * business rules processor on a strong type system
+  * checklists (how to add a feature)
+  * document all different ways you can add a new feature
+  * limit the number of ways you can do that
     * ideally - having as few options as possible, every feature should be similar technically to others
-  * evolution (continuous aligning with business)
+* evolution (continuous aligning with business)
 * Principles
   * delay necessity to make decisions (until it is critical and requirements are absolutely clear)
   * reduce the number of patterns
