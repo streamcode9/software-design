@@ -8,7 +8,7 @@
 * code review
   * easy to read
   * pair code review
-* tl = simple tasks + delegation + book + speak aloud daily tasks
+* tl = simple tasks + delegation + prioritization + book + speak aloud daily tasks
 * form a list of conventions forming some guidelines and a set of automated checks to verify those conventions are not broken
 * audit (system overview, requirements collection, patterns collection)
   * quality attributes and its priorities
