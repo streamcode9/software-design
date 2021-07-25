@@ -29,8 +29,6 @@
   * standardize systemic patterns and effects
   * reduce knowledge fragmentation
   * take into account continuous changes and evolution
-* Lead should bring clarity to the project
-* DDD
 * https://c4model.com/
 * https://plantuml.com/ru/
 * https://www.planttext.com/
