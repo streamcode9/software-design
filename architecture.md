@@ -121,7 +121,7 @@
   * tenants
 
 ```
-websoket mqtt erl rocksdb
+websoket mqtt erl rocksdb c rust scheme blue-book-smalltalk sml-harper lisp-McCartney
 https://github.com/o61
 ```
 
