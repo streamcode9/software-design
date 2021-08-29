@@ -120,6 +120,10 @@
   * retry
   * tenants
 
+```
+websoket mqtt erl rocksdb
+https://github.com/o61
+```
 
 ```
 ArchiMate нотация + BPML
