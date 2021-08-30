@@ -123,7 +123,6 @@
 ```
 websoket mqtt erl rocksdb Armstrong
 Lear c hard way
-rust
 scheme
 blue-book-smalltalk
 sml-harper
