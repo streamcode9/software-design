@@ -128,6 +128,7 @@ blue-book-smalltalk
 sml-harper
 lisp-McCartney
 https://github.com/o61
+Kind/Formality
 ```
 
 ```
