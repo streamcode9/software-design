@@ -1,14 +1,7 @@
-# Core ideas
+# Backlog
 
-* discuss !!!
 * each goal has price & profit
-  * critical quality attibutes
-  * metrics
-  * automatization (e2e tests for critical pathes, linter, static analysis)
-* code review
-  * easy to read
-  * pair code review
-* tl = simple tasks + delegation + prioritization + book + speak aloud daily tasks
+* automatization (e2e tests for critical pathes, linter, static analysis)
 * form a list of conventions forming some guidelines and a set of automated checks to verify those conventions are not broken
 * audit (system overview, requirements collection, patterns collection)
   * quality attributes and its priorities
@@ -21,7 +14,6 @@
   * document all different ways you can add a new feature
   * limit the number of ways you can do that
     * ideally - having as few options as possible, every feature should be similar technically to others
-* evolution (continuous aligning with business)
 * Principles
   * delay necessity to make decisions (until it is critical and requirements are absolutely clear)
   * reduce the number of patterns
@@ -39,7 +31,7 @@
   * Main use cases dataflows (CRUD operations, data streaming/pushes, auth, payments)
 
 
-# Building blocks 
+# Programming map
 
 * browser
 * web service
@@ -57,16 +49,6 @@
     * relational sql
     * kv
     * search tree
-
-# Patterns
-
-* ddd
-* anti-curruption layer
-* repository
-* cqrs
-
-# Buzzwords
-
 * dev process (jira, git, ci/cd, test, deploy, bug, hotfix, feature switch)
 * lang
   * pattern matching
@@ -113,7 +95,7 @@
   * data duplication
   * system unavailable
   * data corruption
-* high load
+* high load & distributed systems
   * scaling
   * optimizations
   * back preassure
