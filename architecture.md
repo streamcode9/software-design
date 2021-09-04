@@ -113,8 +113,6 @@ Kind/Formality
 ```
 
 ```
-ArchiMate нотация + BPML
-Jest
 Буч, Ф Брукс, Кент Бэк - экстремальное программирование, Йордон Эдвард, Тепляков
 https://www.manning.com/books/unit-testing
 Kent Beck: Test-Driven Development: By Example (Addison-Wesley Professional, 2002)
