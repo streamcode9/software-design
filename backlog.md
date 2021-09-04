@@ -1,4 +1,3 @@
-* each goal has price & profit
 * automatization (e2e tests for critical pathes, linter, static analysis)
 * form a list of conventions forming some guidelines and a set of automated checks to verify those conventions are not broken
 * decisions log (ADR architecture decision record) - always know why something has happened
