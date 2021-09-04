@@ -1,20 +1,3 @@
-* automatization (e2e tests for critical pathes, linter, static analysis)
-* form a list of conventions forming some guidelines and a set of automated checks to verify those conventions are not broken
-* decisions log (ADR architecture decision record) - always know why something has happened
-* limit the number of cross-context dependencies
-* checklists (how to add a feature)
-* document all different ways you can add a new feature
-  * limit the number of ways you can do that
-  * ideally - having as few options as possible, every feature should be similar technically to others
-* visibility = diagrams
-  * Infrastructure map (how data flows through services/servers/network and how it scales)
-  * Architectural layers map (what subsystems you have for storing/transforming data)
-  * Bounded contexts (how your logical services are split and mapped to architecture)
-  * Main use cases dataflows (CRUD operations, data streaming/pushes, auth, payments)
-
-
-
-
 ```
 https://github.com/o61/n2o.cs
 websoket mqtt erl rocksdb Armstrong
