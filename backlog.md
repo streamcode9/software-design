@@ -12,14 +12,16 @@ https://www.oreilly.com/library/view/functional-javascript/9781449360757/
 funcional programming in javascript with underscore.js
 https://eloquentjavascript.net/1st_edition/chapter6.html
 
-https://github.com/o61 mqtt, rocksdb
-erl Armstrong 
-Lear c hard way
-blue-book-smalltalk
+https://github.com/o61
+https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/
+https://learncodethehardway.org/c/
+http://wiki.squeak.org/squeak/64
 
 https://fsharpforfunandprofit.com/fppatterns/
 sml-harper, Холомьев, Kind/Formality
 https://wiki.c2.com/?StructureAndInterpretationOfComputerPrograms
-lisp-McCartney
-k lang
+http://www.softwarepreservation.org/projects/LISP/book/LISP%20I%20Programmers%20Manual.pdf
+http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf
+http://www.math.bas.bg/bantchev/place/k.html
+https://kparc.com/
 ```
