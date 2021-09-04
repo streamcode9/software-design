@@ -18,10 +18,11 @@ https://learncodethehardway.org/c/
 http://wiki.squeak.org/squeak/64
 
 https://fsharpforfunandprofit.com/fppatterns/
-sml-harper, Холомьев, Kind/Formality
+http://www.cs.cmu.edu/~rwh/isml/book.pdf
+https://github.com/anton-k/ru-haskell-book
+https://github.com/uwu-tech/Kind
 https://wiki.c2.com/?StructureAndInterpretationOfComputerPrograms
 http://www.softwarepreservation.org/projects/LISP/book/LISP%20I%20Programmers%20Manual.pdf
-http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf
 http://www.math.bas.bg/bantchev/place/k.html
 https://kparc.com/
 ```
