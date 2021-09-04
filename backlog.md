@@ -4,13 +4,8 @@
 * limit the number of cross-context dependencies
 * checklists (how to add a feature)
 * document all different ways you can add a new feature
-  * standardize systemic patterns and effects
   * limit the number of ways you can do that
   * ideally - having as few options as possible, every feature should be similar technically to others
- 
-* https://c4model.com/
-* https://plantuml.com/ru/
-* https://www.planttext.com/
 * visibility = diagrams
   * Infrastructure map (how data flows through services/servers/network and how it scales)
   * Architectural layers map (what subsystems you have for storing/transforming data)
