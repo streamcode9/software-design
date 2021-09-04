@@ -1,21 +1,13 @@
 * automatization (e2e tests for critical pathes, linter, static analysis)
 * form a list of conventions forming some guidelines and a set of automated checks to verify those conventions are not broken
 * decisions log (ADR architecture decision record) - always know why something has happened
-* control (automation, metrics)
-  * limit the number of cross-context dependencies
-  * tests for main/critical use cases (ideally integration tests - starting from UI interactions)
-  * business rules processor on a strong type system
-  * checklists (how to add a feature)
-  * document all different ways you can add a new feature
-  * limit the number of ways you can do that
-    * ideally - having as few options as possible, every feature should be similar technically to others
-* Principles
-  * delay necessity to make decisions (until it is critical and requirements are absolutely clear)
-  * reduce the number of patterns
-  * modularize the architecture so that smaller decisions are contained (local)
+* limit the number of cross-context dependencies
+* checklists (how to add a feature)
+* document all different ways you can add a new feature
   * standardize systemic patterns and effects
-  * reduce knowledge fragmentation
-  * take into account continuous changes and evolution
+  * limit the number of ways you can do that
+  * ideally - having as few options as possible, every feature should be similar technically to others
+ 
 * https://c4model.com/
 * https://plantuml.com/ru/
 * https://www.planttext.com/
