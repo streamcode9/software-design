@@ -21,8 +21,6 @@ funcional programming in javascript with underscore.js
 
 https://eloquentjavascript.net/1st_edition/chapter6.html
 
-https://github.com/o61
-
 https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/
 
 https://learncodethehardway.org/c/
@@ -33,15 +31,6 @@ https://fsharpforfunandprofit.com/fppatterns/
 
 http://www.cs.cmu.edu/~rwh/isml/book.pdf
 
-https://github.com/anton-k/ru-haskell-book
-
-https://github.com/uwu-tech/Kind
-
 https://wiki.c2.com/?StructureAndInterpretationOfComputerPrograms
 
 http://www.softwarepreservation.org/projects/LISP/book/LISP%20I%20Programmers%20Manual.pdf
-
-http://www.math.bas.bg/bantchev/place/k.html
-
-https://kparc.com/
-
