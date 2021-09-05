@@ -9,8 +9,6 @@ https://www.manning.com/books/unit-testing
 
 Кент Бэк - экстремальное программирование
 
-Kent Beck: Test-Driven Development: By Example (Addison-Wesley Professional, 2002)
-
 Steve Freeman and Nat Pryce: Growing Object Oriented Software,Guided by Tests (Addison-Wesley Professional, 2009)
 
 https://www.manning.com/books/the-joy-of-javascript
