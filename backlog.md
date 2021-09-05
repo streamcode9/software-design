@@ -10,6 +10,7 @@ https://www.manning.com/books/the-joy-of-javascript
 https://www.oreilly.com/library/view/functional-javascript/9781449360757/
 funcional programming in javascript with underscore.js
 https://eloquentjavascript.net/1st_edition/chapter6.html
+
 https://github.com/o61
 https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/
 https://learncodethehardway.org/c/
