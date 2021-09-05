@@ -7,9 +7,9 @@
 
 https://www.manning.com/books/unit-testing
 
-Кент Бэк - экстремальное программирование
+https://www.litres.ru/kent-bek/ekstremalnoe-programmirovanie-razrabotka-cherez-testirovanie/chitat-onlayn/
 
-Steve Freeman and Nat Pryce: Growing Object Oriented Software,Guided by Tests (Addison-Wesley Professional, 2009)
+http://www.growing-object-oriented-software.com/
 
 https://www.manning.com/books/the-joy-of-javascript
 
