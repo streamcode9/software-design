@@ -9,8 +9,6 @@ https://www.manning.com/books/unit-testing
 
 https://www.litres.ru/kent-bek/ekstremalnoe-programmirovanie-razrabotka-cherez-testirovanie/chitat-onlayn/
 
-http://www.growing-object-oriented-software.com/
-
 https://www.manning.com/books/the-joy-of-javascript
 
 https://www.oreilly.com/library/view/functional-javascript/9781449360757/
