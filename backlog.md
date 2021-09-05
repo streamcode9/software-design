@@ -31,6 +31,6 @@ https://fsharpforfunandprofit.com/fppatterns/
 
 http://www.cs.cmu.edu/~rwh/isml/book.pdf
 
-https://wiki.c2.com/?StructureAndInterpretationOfComputerPrograms
+https://github.com/uwu-tech/Kin
 
-http://www.softwarepreservation.org/projects/LISP/book/LISP%20I%20Programmers%20Manual.pdf
+https://wiki.c2.com/?StructureAndInterpretationOfComputerPrograms
