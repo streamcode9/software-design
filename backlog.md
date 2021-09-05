@@ -25,8 +25,6 @@ https://learncodethehardway.org/c/
 
 http://wiki.squeak.org/squeak/64
 
-https://fsharpforfunandprofit.com/fppatterns/
-
 http://www.cs.cmu.edu/~rwh/isml/book.pdf
 
 https://github.com/uwu-tech
