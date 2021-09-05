@@ -32,3 +32,7 @@ http://www.cs.cmu.edu/~rwh/isml/book.pdf
 https://github.com/uwu-tech
 
 https://wiki.c2.com/?StructureAndInterpretationOfComputerPrograms
+
+https://devblogs.microsoft.com/
+
+https://reactjs.org/
