@@ -19,8 +19,6 @@ https://learncodethehardway.org/c/
 
 http://wiki.squeak.org/squeak/64
 
-http://www.cs.cmu.edu/~rwh/isml/book.pdf
-
 https://github.com/uwu-tech
 
 https://wiki.c2.com/?StructureAndInterpretationOfComputerPrograms
