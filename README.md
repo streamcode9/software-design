@@ -190,7 +190,7 @@ f.foreach(function (g) {
 
 ### TDD и Tests First
 
-- Act Aarrange Assert
+- Arrange Act Assert (Given When Then)
 - obj.verify(o => o.fun(args)).ones()
 
 ### Stubs and Mock Objects
