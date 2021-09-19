@@ -180,7 +180,12 @@ f.foreach(function (g) {
   - разделение рефакторингов и реформатирований и смысловых изменений
 
 
-## Принципы тестирования
+## Testing
+
+* Protection against regressions
+* Resistance to refactoring
+* Fast feedback
+* Maintainability
 
 ### Black box vs white box testing
 
