@@ -1,7 +1,5 @@
 
-Erlang
-
-Joe Armstrong
+https://joearms.github.io
 
 https://www.manning.com/books/erlang-and-otp-in-action
 
@@ -19,7 +17,7 @@ rust/c
 
 https://gameprogrammingpatterns.com
 
-Crypto
+crypto
 
 react/redux
 
