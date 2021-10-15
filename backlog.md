@@ -1,5 +1,6 @@
 
-https://joearms.github.io
+
+https://www.erlang.org/docs
 
 https://www.manning.com/books/erlang-and-otp-in-action
 
