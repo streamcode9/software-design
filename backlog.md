@@ -20,10 +20,6 @@ https://gameprogrammingpatterns.com
 
 crypto
 
-react/redux
-
-typescript
-
 ? env config fu => standart setup + minimalism ~ avoid customizations, avoid (npm) global packages
 
 ? ide fu
