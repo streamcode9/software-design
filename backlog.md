@@ -18,8 +18,25 @@ https://gameprogrammingpatterns.com
 
 crypto
 
-? env config fu => standart setup + minimalism ~ avoid customizations, avoid (npm) global packages
+```
+Project getProjects(string path)
+getProjectFolders
+getNpmDeps
+getNugetDeps
 
-? ide fu
+connectProjectWithDeps
+buildProjectsMap
 
-? git fu => https://github.com/gitextensions 
+getLatestProjVer
+getAvailableUpdatesForProjects
+
+getApisOut
+getPublications
+getSubscriptions
+getContracts
+getApisIn
+buildDataFlowMap
+
+getDbEntities
+buildDataModelsMap
+```
