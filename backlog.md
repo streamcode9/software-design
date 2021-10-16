@@ -2,8 +2,6 @@
 
 https://www.erlang.org/docs
 
-https://www.manning.com/books/erlang-and-otp-in-action
-
 https://dev.realworldocaml.org/
 
 https://github.com/uwu-tech/Kind
