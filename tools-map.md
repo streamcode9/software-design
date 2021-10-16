@@ -1,5 +1,8 @@
 # env config fu
-standart setup + minimalism ~ avoid customizations, avoid (npm) global packages
+* standart setup
+* minimalism
+* avoid customizations
+* avoid (npm) global packages
 
 # ide fu
 * vs code -> vs
