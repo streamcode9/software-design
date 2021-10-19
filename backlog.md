@@ -2,6 +2,8 @@
 
 https://www.erlang.org/docs
 
+hamler asmjit quic mqtt nitrogen n2o hex.pm
+
 https://dev.realworldocaml.org/
 
 https://github.com/uwu-tech/Kind
