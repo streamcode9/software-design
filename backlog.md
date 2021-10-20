@@ -8,11 +8,7 @@ https://dev.realworldocaml.org/
 
 https://github.com/uwu-tech/Kind
 
-https://futhark-lang.org/
-
 https://en.wikipedia.org/wiki/%CE%A0-calculus
-
-https://code.kx.com/q/
 
 rust/c
 
