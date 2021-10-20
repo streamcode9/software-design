@@ -17,7 +17,7 @@ https://gameprogrammingpatterns.com
 crypto
 
 ```
-Jupyter github-actions
+Jupyter github-actions bots
 
 Project getProjects(string path)
 getProjectFolders
