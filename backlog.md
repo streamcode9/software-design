@@ -14,6 +14,8 @@ rust/c
 
 https://gustedt.gitlabpages.inria.fr/modern-c/
 
+https://matt.sh/howto-c
+
 https://gameprogrammingpatterns.com
 
 crypto
