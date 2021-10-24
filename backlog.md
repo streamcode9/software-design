@@ -12,6 +12,8 @@ https://en.wikipedia.org/wiki/%CE%A0-calculus
 
 rust/c
 
+https://gustedt.gitlabpages.inria.fr/modern-c/
+
 https://gameprogrammingpatterns.com
 
 crypto
