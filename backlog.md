@@ -16,8 +16,6 @@ https://gameprogrammingpatterns.com
 
 crypto
 
-svelte
-
 ```
 Jupyter github-actions bots
 
