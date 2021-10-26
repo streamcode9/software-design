@@ -10,11 +10,7 @@ https://github.com/uwu-tech/Kind
 
 https://en.wikipedia.org/wiki/%CE%A0-calculus
 
-rust/c
-
-https://gustedt.gitlabpages.inria.fr/modern-c/
-
-https://matt.sh/howto-c
+rust
 
 https://gameprogrammingpatterns.com
 
