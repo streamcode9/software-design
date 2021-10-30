@@ -18,6 +18,10 @@ https://gameprogrammingpatterns.com
 
 crypto
 
+https://www.guru99.com/best-crypto-trading-bot.html
+
+SICP in js
+
 ```
 Jupyter github-actions bots
 
