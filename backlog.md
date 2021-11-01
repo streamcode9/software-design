@@ -8,8 +8,6 @@ https://dev.realworldocaml.org/
 
 https://github.com/uwu-tech/Kind
 
-SML
-
 https://en.wikipedia.org/wiki/%CE%A0-calculus
 
 rust
@@ -21,6 +19,8 @@ crypto
 https://www.guru99.com/best-crypto-trading-bot.html
 
 SICP in js
+
+htdp
 
 ```
 Jupyter github-actions bots
