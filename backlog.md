@@ -12,8 +12,6 @@ rust
 
 https://gameprogrammingpatterns.com
 
-crypto
-
 https://www.guru99.com/best-crypto-trading-bot.html
 
 ```
