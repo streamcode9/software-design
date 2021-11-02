@@ -7,5 +7,7 @@
   * formik
   * axios
   * jest
+  * eslint
+  * storybook
   * npm
 * azure
