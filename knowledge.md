@@ -50,7 +50,10 @@
 * types
 * date & time
 * encoding
+* validation
 * security
+  * authentication
+  * authorization
   * xss
   * cors
   * sandboxing
