@@ -9,5 +9,7 @@
 * wt -> power shell
 
 # git fu
+* changelog.md
+* semver
 * tortoise ->
   * https://github.com/gitextensions 
