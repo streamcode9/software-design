@@ -16,10 +16,6 @@ crypto
 
 https://www.guru99.com/best-crypto-trading-bot.html
 
-SICP in js
-
-htdp
-
 ```
 Jupyter github-actions bots
 
