@@ -10,6 +10,7 @@
 
 # git fu
 * changelog.md
+* conventional commits
 * semver
 * tortoise ->
   * https://github.com/gitextensions 
