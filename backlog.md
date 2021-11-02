@@ -4,8 +4,6 @@ https://www.erlang.org/docs
 
 hamler asmjit quic mqtt nitrogen n2o hex.pm
 
-https://dev.realworldocaml.org/
-
 https://github.com/uwu-tech/Kind
 
 https://en.wikipedia.org/wiki/%CE%A0-calculus
