@@ -2,6 +2,7 @@
   * c#
   * asp
   * ado ef
+  * identity server
 * js
   * react
   * formik
@@ -17,5 +18,6 @@
   * sql cosmos blob search
   * service bus, event grid
   * app service, function
+  * front door, api management
 * GitHub
   * actions
