@@ -6,8 +6,6 @@ hamler asmjit quic mqtt nitrogen n2o hex.pm
 
 https://github.com/uwu-tech/Kind
 
-https://en.wikipedia.org/wiki/%CE%A0-calculus
-
 rust
 
 https://gameprogrammingpatterns.com
