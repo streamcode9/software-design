@@ -2,8 +2,6 @@
 
 https://www.erlang.org/docs
 
-asmjit quic mqtt nitrogen n2o hex.pm
-
 https://github.com/uwu-tech/Kind
 
 rust
