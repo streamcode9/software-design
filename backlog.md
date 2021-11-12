@@ -8,7 +8,6 @@ rust
 
 https://gameprogrammingpatterns.com
 
-https://www.guru99.com/best-crypto-trading-bot.html
 
 ```
 Jupyter github-actions bots
