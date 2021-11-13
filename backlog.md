@@ -9,3 +9,4 @@
   * https://groupoid.github.io/languages/
 * low level
   * rust
+* project Euler
