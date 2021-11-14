@@ -8,7 +8,6 @@
   * https://github.com/NYNJA-MC/protocol
 * prover
   * little schemer
-  * https://groupoid.github.io/languages/
 * low level
   * rust
 * project Euler
