@@ -5,6 +5,7 @@
   * https://n2o.tech/ua
   * https://synrc.com/apps/n2o/
   * nitrogenproject.com
+  * https://github.com/NYNJA-MC/protocol
 * prover
   * little schemer
   * sml
