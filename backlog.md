@@ -6,7 +6,9 @@
   * https://synrc.com/apps/n2o/
 * prover
   * little schemer
+  * sml
   * https://groupoid.github.io/languages/
 * low level
   * rust
+  * c
 * project Euler
