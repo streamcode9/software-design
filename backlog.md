@@ -1,10 +1,9 @@
 
 * architecture
   * https://github.com/o61
-  * https://n2o.dev/ua
-  * https://n2o.tech/ua
-  * https://synrc.com/apps/n2o/
   * nitrogenproject.com
+  * https://synrc.com/apps/n2o
+  * https://n2o.dev/ua
   * https://github.com/NYNJA-MC/protocol
 * prover
   * little schemer
