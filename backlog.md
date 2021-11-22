@@ -9,4 +9,7 @@
   * little schemer
 * low level
   * rust
+  * https://github.com/cesarblum/sectorforth
+  * https://justine.lol/sectorlisp
+  
 * project Euler
