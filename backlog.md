@@ -7,6 +7,7 @@
   * https://github.com/NYNJA-MC/protocol
 * prover
   * little schemer
+  * https://foobar.land/
 * low level
   * rust
   * https://github.com/cesarblum/sectorforth
