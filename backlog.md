@@ -13,5 +13,7 @@
   * rust
   * https://github.com/cesarblum/sectorforth
   * https://justine.lol/sectorlisp
-  
-* project Euler
+* other
+  * project Euler
+  * https://www.cloudflare.com/
+  * github actions
