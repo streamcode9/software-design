@@ -13,7 +13,9 @@
   * rust
   * https://github.com/cesarblum/sectorforth
   * https://justine.lol/sectorlisp
+  * https://github.com/agavrel/42_CheatSheet
 * other
   * project Euler
   * https://www.cloudflare.com/
   * github actions
+  * small scheme vm https://dl.acm.org/doi/10.1145/3486606.3486783
