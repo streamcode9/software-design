@@ -1,6 +1,8 @@
 
 * architecture
   * https://github.com/o61
+  * sample review
+  * blog
   * https://nitrogenproject.com
   * https://synrc.com/apps/n2o
   * https://n2o.dev/ua
