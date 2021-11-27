@@ -6,7 +6,6 @@
   * https://n2o.dev/ua
   * https://github.com/NYNJA-MC/protocol
 * prover
-  * little schemer
   * https://foobar.land/
   * https://ocaml.xyz/
 * low level
@@ -18,4 +17,3 @@
   * project Euler
   * https://www.cloudflare.com/
   * github actions
-  * small scheme vm https://dl.acm.org/doi/10.1145/3486606.3486783
