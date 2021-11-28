@@ -1,4 +1,5 @@
-
+open System.Net.Sockets
+open System.Collections.Specialized
 
 module Program =
 
