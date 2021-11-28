@@ -21,4 +21,4 @@ jobs:
       run: dotnet restore ws
     - name: Build
       run: dotnet build ws/ws.fsproj
-    - run: dotnet run ws
+    - run: dotnet run --project=ws
