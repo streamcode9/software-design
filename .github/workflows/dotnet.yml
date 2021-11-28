@@ -17,9 +17,8 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '5.0.x'
-    - run: cd ws    
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore ws
     - name: Build
-      run: dotnet build ws.fsproj
-    - run: dotnet run
+      run: dotnet build ws/ws.fsproj
+    - run: dotnet run ws
