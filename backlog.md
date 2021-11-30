@@ -9,6 +9,5 @@
   * https://github.com/NYNJA-MC/protocol
 * low level
   * rust
-  * https://github.com/cesarblum/sectorforth
   * https://justine.lol/sectorlisp
   * https://github.com/agavrel/42_CheatSheet
