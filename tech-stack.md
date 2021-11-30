@@ -2,11 +2,10 @@
   * c#
   * asp
   * ado ef
-  * identity server
 * js
   * react
   * jest
-  * npm
+  * npm ? yarn
   * redux -> react context
   * ? scss vs styled-components
   * ? typescript
