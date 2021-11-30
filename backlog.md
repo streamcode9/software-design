@@ -2,7 +2,7 @@
 
 * https://github.com/o61 -> f# -> c#
 * sample -> review
-* youtube -> blog 
+* youtube
 * https://n2o.dev/ua
 * https://github.com/NYNJA-MC/protocol
 * rust
