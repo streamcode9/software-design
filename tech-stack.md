@@ -5,19 +5,13 @@
   * identity server
 * js
   * react
-  * formik
-  * axios
   * jest
-  * eslint
-  * storybook
   * npm
   * redux -> react context
   * ? scss vs styled-components
-  * ! typescript
+  * ? typescript
 * azure
-  * sql cosmos blob search
+  * sql cosmos blob search keyVault
   * service bus, event grid
   * app service, function
   * front door, api management
-* GitHub
-  * actions
