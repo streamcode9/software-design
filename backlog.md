@@ -4,7 +4,6 @@
 * sample -> review
 * youtube -> blog 
 * https://nitrogenproject.com
-* https://synrc.com/apps/n2o
 * https://n2o.dev/ua
 * https://github.com/NYNJA-MC/protocol
 * rust
