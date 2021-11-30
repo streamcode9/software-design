@@ -1,8 +1,8 @@
 
 * architecture
-  * https://github.com/o61
-  * sample review
-  * blog
+  * https://github.com/o61 -> f# -> c#
+  * sample -> review
+  * youtube -> blog 
   * https://nitrogenproject.com
   * https://synrc.com/apps/n2o
   * https://n2o.dev/ua
@@ -15,7 +15,3 @@
   * https://github.com/cesarblum/sectorforth
   * https://justine.lol/sectorlisp
   * https://github.com/agavrel/42_CheatSheet
-* other
-  * project Euler
-  * https://www.cloudflare.com/
-  * github actions
