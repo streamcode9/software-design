@@ -12,5 +12,5 @@
 * rust
 * https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c
 * https://github.com/dbanay/Smalltalk
-* J operator 1965; LISP call/cc 1968; Erlang 1986; Concurrent ML 1998;
+* LISP call/cc; Concurrent ML
 * https://github.com/jart/sectorlisp
