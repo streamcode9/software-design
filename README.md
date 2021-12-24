@@ -179,6 +179,7 @@ f.foreach(function (g) {
 * Resistance to refactoring
 * Fast feedback
 * Maintainability
+* AAA
 
 ### Black box vs white box testing
 
