@@ -57,14 +57,6 @@ A component should have only one reason to change
 
 [deviq](http://deviq.com/interface-segregation-principle/)
 
-### OOP
-
-- messaging
-- local retention and protection and hiding of state-process
-- extreme late-binding of all things
-
-[Alan Kay](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
-
 ## Избегание оверинжиниринга
 
 ### KISS - Keep It Simple Stupid
