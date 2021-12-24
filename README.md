@@ -57,7 +57,7 @@ A component should have only one reason to change
 
 [deviq](http://deviq.com/interface-segregation-principle/)
 
-## Избегание оверинжиниринга
+## Minimalism
 
 ### KISS - Keep It Simple Stupid
 
