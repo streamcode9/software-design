@@ -5,8 +5,6 @@
   * https://medium.com/@eulerfx/f-async-guide-eb3c8a2d180a
   * https://www.erlang-factory.com/upload/presentations/270/FSharp-ef.pdf
   * https://gist.github.com/sgtz/95e7db96fd0858a28b5a
-  * sample -> review
-  * youtube
   * https://n2o.dev/ua
   * https://github.com/NYNJA-MC/protocol
 * rust -> adventofcode
