@@ -11,6 +11,5 @@
 * build low level stuff
   * https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c
   * https://github.com/jart/sectorlisp
-  * https://github.com/spencertipping/jit-tutorial
 * https://github.com/tlbootcamp/tlroadmap
 * https://adit.io/index.html
