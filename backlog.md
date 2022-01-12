@@ -7,9 +7,7 @@
   * https://gist.github.com/sgtz/95e7db96fd0858a28b5a
   * https://n2o.dev/ua
 * rust -> adventofcode
-* archeology
-  * https://github.com/dbanay/Smalltalk
-  * LISP call/cc; Concurrent ML
+* LISP call/cc; Concurrent ML
 * build low level stuff
   * https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c
   * https://github.com/jart/sectorlisp
