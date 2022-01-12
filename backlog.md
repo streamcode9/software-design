@@ -6,7 +6,6 @@
   * https://www.erlang-factory.com/upload/presentations/270/FSharp-ef.pdf
   * https://gist.github.com/sgtz/95e7db96fd0858a28b5a
   * https://n2o.dev/ua
-  * https://github.com/NYNJA-MC/protocol
 * rust -> adventofcode
 * archeology
   * https://github.com/dbanay/Smalltalk
@@ -17,4 +16,3 @@
   * https://github.com/spencertipping/jit-tutorial
 * https://github.com/tlbootcamp/tlroadmap
 * https://adit.io/index.html
-* blockchain
