@@ -6,3 +6,4 @@
 * https://github.com/tlbootcamp/tlroadmap
 * https://adit.io/index.html
 * erl lisp concurrentML
+* https://www.thoughtworks.com/radar
