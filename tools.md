@@ -5,8 +5,8 @@
 * avoid (npm) global packages
 
 # ide fu
-* vs code -> vs
-* wt -> power shell
+* vs code vs rider
+* wt
 
 # git fu
 * changelog.md
