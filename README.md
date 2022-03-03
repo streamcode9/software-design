@@ -171,7 +171,7 @@ f.foreach(function (g) {
 - Один коммит = одна задача, в частности:
   - разделение несвязанных изменений по разным коммитам
   - разделение рефакторингов и реформатирований и смысловых изменений
-
+- Single repo instead of multiple ones to track contract changes across system nodes
 
 ## Testing
 
