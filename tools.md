@@ -5,7 +5,7 @@
 * avoid (npm) global packages
 
 # ide fu
-* vs code vs rider
+* vs + vs code
 * wt
 
 # git fu
