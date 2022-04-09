@@ -4,7 +4,6 @@
   * ado ef
 * js
   * react
-  * jest
   * npm ? yarn
   * redux -> react context
   * scss -> styled-components
