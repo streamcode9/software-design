@@ -1,1 +1,1 @@
-* erl f# (ocaml,sml) rust
+* erl f# rust
