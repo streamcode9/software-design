@@ -1,4 +1,5 @@
 # env config fu
+* Windows
 * standart setup
 * minimalism
 * avoid customizations
