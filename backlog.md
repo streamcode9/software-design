@@ -1,1 +1,1 @@
-* erl f# rust
+* erl rust
