@@ -10,8 +10,7 @@
   * js -> typescript
 * azure
   * sql cosmos blob search keyVault
-  * service bus
-  * event grid -> sb
+  * event grid -> service bus
   * app service, function
   * front door, api management, waf
 
