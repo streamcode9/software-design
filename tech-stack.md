@@ -12,4 +12,5 @@
   * sql cosmos blob search keyVault
   * service bus, event grid
   * app service, function
-  * front door, api management
+  * front door, api management, waf
+
