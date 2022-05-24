@@ -7,12 +7,10 @@
 
 # ide fu
 * vs + vs code
-* wt
 
 # git fu
 * github.dev
 * changelog.md
 * conventional commits
 * semver
-* tortoise ->
-  * https://github.com/gitextensions 
+* https://github.com/gitextensions 
