@@ -2,9 +2,9 @@
 
 # Principles
 
-## Принципы пользования принципами
+## Principle of using principles
 
-- принципы противоречат друг другу
+- principles contradict each other
 
 ## Базовые принципы
 
