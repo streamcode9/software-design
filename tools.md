@@ -1,5 +1,5 @@
 # env config fu
-* windows
+* windows (?chocolatey ?winget)
 * standart setup
 * minimalism
 * avoid customizations
