@@ -6,7 +6,10 @@
 * avoid (npm) global packages
 
 # ide fu
-* vs + vs code
+* vs 2022 (asp azure) 
+* vs code
+* azure data studio
+* node 14
 
 # git fu
 * github.dev
