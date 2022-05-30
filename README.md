@@ -205,4 +205,6 @@ f.foreach(function (g) {
 
 - заменять неправильное на правильное при обнаружении проблемы — это не наш метод. Все либы которые используешь — ты их и мейнтейнишь по факту. В результате больше уверенности в инструментах, и больше уверенности при написании кода, и больше навыков по разбирательствам с проблемами.
 
+## ?
 
+- Shortening feedback loops is the most reliable way to improve any process. Identify which loop is the bottleneck, unclog it, rinse, repeat.
