@@ -1,1 +1,1 @@
-* erl sml rust
+* erl rust
