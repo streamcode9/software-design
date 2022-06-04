@@ -17,3 +17,7 @@
 * conventional commits
 * semver
 * https://github.com/gitextensions 
+
+# custom
+* admin: api caller, storages viewer, logs viewer
+* static code analysis
