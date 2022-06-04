@@ -21,3 +21,4 @@
 # custom
 * admin: api caller, storages viewer, logs viewer
 * static code analysis
+* automatic diagram builder (plantuml/archimate)
