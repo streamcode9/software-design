@@ -1,5 +1,5 @@
 # env config fu
-* windows (?chocolatey ?winget)
+* windows (?chocolatey ?winget) ? macos openbsd
 * standart setup
 * minimalism
 * avoid customizations
