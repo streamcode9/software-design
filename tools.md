@@ -31,3 +31,5 @@
 * https://softwarefoundations.cis.upenn.edu
 * https://www.productivecsharp.com/
 * https://adventuresindotnet.com/
+* https://www.cloudflare.com
+* https://www.thoughtworks.com
