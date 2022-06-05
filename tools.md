@@ -24,3 +24,7 @@
 * automatic diagram builder (plantuml/archimate)
 * Erik Meijer
 * https://fabiensanglard.net
+* https://www.joelonsoftware.com
+* https://www.bellard.org/
+* John Carmack
+* http://journal.stuffwithstuff.com
