@@ -33,3 +33,11 @@
 * https://adventuresindotnet.com/
 * https://www.cloudflare.com
 * https://www.thoughtworks.com
+* minimalism
+  * manifest: 20/80 Paretto, ideal = absence, functional small unikernel
+  * time: development
+  * architecture
+  * design
+  * lang
+  * literature
+  * art
