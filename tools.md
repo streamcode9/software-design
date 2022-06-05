@@ -23,3 +23,4 @@
 * static code analysis
 * automatic diagram builder (plantuml/archimate)
 * Erik Meijer
+* https://fabiensanglard.net
