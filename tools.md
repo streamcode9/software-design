@@ -28,3 +28,4 @@
 * https://www.bellard.org/
 * John Carmack
 * http://journal.stuffwithstuff.com
+* https://softwarefoundations.cis.upenn.edu
