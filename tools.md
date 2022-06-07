@@ -22,13 +22,13 @@
 * admin: api caller, storages viewer, logs viewer
 * static code analysis
 * automatic diagram builder (plantuml/archimate)
-* https://fabiensanglard.net
+
 
  
 * http://journal.stuffwithstuff.com
 * https://www.productivecsharp.com/
 * https://adventuresindotnet.com/
-* https://www.cloudflare.com
+
 * https://www.thoughtworks.com
 * minimalism
   * manifest: 20/80 Paretto, ideal = absence, functional small unikernel
