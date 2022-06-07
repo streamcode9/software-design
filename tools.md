@@ -21,10 +21,10 @@
 * admin: api caller, storages viewer, logs viewer
 * static code analysis
 * automatic diagram builder (plantuml/archimate)
-* https://adventuresindotnet.com/
 * https://www.thoughtworks.com
-* [.net rocks podcast](https://dotnetrocks.com)
-* [.net-core-podcast](https://www.youtube.com/c/JamieTaylorDotNetCore)
+* https://adventuresindotnet.com/
+  * [.net rocks podcast](https://dotnetrocks.com)
+  * [.net-core-podcast](https://www.youtube.com/c/JamieTaylorDotNetCore)
 
 # minimalism
   * manifest: 20/80 Paretto, ideal = absence, functional small unikernel
