@@ -21,6 +21,7 @@
 * admin: api caller, storages viewer, logs viewer
 * static code analysis
 * automatic diagram builder (plantuml/archimate)
+* tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
 * https://www.thoughtworks.com
 * https://adventuresindotnet.com/
   * [.net rocks podcast](https://dotnetrocks.com)
