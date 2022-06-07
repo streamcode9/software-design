@@ -1,7 +1,6 @@
 # env config fu
 * windows (?chocolatey ?winget) ? macos
 * standart setup
-* minimalism
 * avoid customizations
 * avoid (npm) global packages
 
@@ -24,7 +23,10 @@
 * automatic diagram builder (plantuml/archimate)
 * https://adventuresindotnet.com/
 * https://www.thoughtworks.com
-* minimalism
+* [.net rocks podcast](https://dotnetrocks.com)
+* [.net-core-podcast](https://www.youtube.com/c/JamieTaylorDotNetCore)
+
+# minimalism
   * manifest: 20/80 Paretto, ideal = absence, functional small unikernel
   * time: dev time \| efficiency /| computations/time weeks/release features/hour hours/lifetime
   * quality: complexity price \| robustness simplicity /| bugs/code failures/period cost/support time/fix
