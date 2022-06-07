@@ -22,13 +22,10 @@
 * admin: api caller, storages viewer, logs viewer
 * static code analysis
 * automatic diagram builder (plantuml/archimate)
-* Erik Meijer
 * https://fabiensanglard.net
-* https://www.joelonsoftware.com
-* https://www.bellard.org/
-* John Carmack
+
+ 
 * http://journal.stuffwithstuff.com
-* https://softwarefoundations.cis.upenn.edu
 * https://www.productivecsharp.com/
 * https://adventuresindotnet.com/
 * https://www.cloudflare.com
