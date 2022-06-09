@@ -12,5 +12,5 @@
 * azure
   * sql cosmos blob search keyVault
   * event grid -> service bus
-  * app service, function
+  * app service function
 
