@@ -23,7 +23,6 @@
 * automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
 * https://www.thoughtworks.com
-* [.net-core-podcast](https://www.youtube.com/c/JamieTaylorDotNetCore)
 
 # minimalism
   * manifest: 20/80 Paretto, ideal = absence, functional small unikernel
