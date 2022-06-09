@@ -15,7 +15,7 @@
 * changelog.md
 * conventional commits
 * semver
-* https://github.com/gitextensions 
+* https://git-scm.com
 
 # custom
 * admin: api caller, storages viewer, logs viewer
