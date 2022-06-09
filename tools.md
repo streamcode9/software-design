@@ -22,7 +22,6 @@
 * static code analysis
 * automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
-* https://www.thoughtworks.com
 
 # minimalism
   * manifest: 20/80 Paretto, ideal = absence, functional small unikernel
