@@ -23,8 +23,7 @@
 * automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
 * https://www.thoughtworks.com
-* https://adventuresindotnet.com/
-  * [.net rocks podcast](https://dotnetrocks.com)
+* [.net rocks podcast](https://dotnetrocks.com)
   * [.net-core-podcast](https://www.youtube.com/c/JamieTaylorDotNetCore)
 
 # minimalism
