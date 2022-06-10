@@ -11,10 +11,7 @@
 * node 14
 
 # git fu
-* github.dev
-* changelog.md
 * conventional commits
-* semver
 * https://git-scm.com
 
 # custom
