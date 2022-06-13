@@ -3,6 +3,7 @@
   * asp
   * ado ef
   * signalR
+  * Duende SynchFusion iText
 * js
   * react
   * npm ? yarn
