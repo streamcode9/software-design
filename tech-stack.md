@@ -14,4 +14,4 @@
   * sql cosmos blob search keyVault
   * event grid -> service bus
   * app service function
-
+* Auth0
