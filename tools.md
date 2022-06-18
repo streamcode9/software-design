@@ -14,6 +14,8 @@
 * conventional commits
 * https://git-scm.com
 
+# code/arch/prod/biz fu
+
 # custom
 * admin-cli
   * api caller, storages viewer, logs viewer
