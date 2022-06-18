@@ -22,5 +22,6 @@
   * ws ~> n2o.cs
 * smalltalk/sml
 * hello world
+  * azure/cloudflare
   * dotnet + react
   * erl/rs
