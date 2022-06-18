@@ -15,9 +15,9 @@
 * https://git-scm.com
 
 # custom
-* admin: api caller, storages viewer, logs viewer
-* static code analysis
-* automatic diagram builder (plantuml)
+* admin-tool: api caller, storages viewer, logs viewer
+  * static code analysis
+  * automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
   * ws ~> n2o.cs
 * smalltalk/sml
