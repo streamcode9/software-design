@@ -18,12 +18,11 @@
 * admin-cli
   * api caller, storages viewer, logs viewer
   * static code analysis
-  * discovery -> automatic diagram builder (plantuml)
+  * sml: discovery -> automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
-  * ws ~> n2o.cs
-  * smalltalk
-  * sml
+  * ws ~> n2o.cs -> o1
+  * smalltalk.rs
 * hello world azure/cloudflare
   * dotnet + react
-  * erl/rs
+  * erl
 * analytics
