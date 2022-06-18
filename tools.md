@@ -25,5 +25,5 @@
   * ws ~> n2o.cs -> o1
 * smalltalk.rs
 * hello world azure dotnet react
-* erl advent of code | xslt
+* erl advent of code | xslt | UTF-8, HTTP/2, WebSocket, BCD, IEEE-754
 * analytics
