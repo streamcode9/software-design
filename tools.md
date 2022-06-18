@@ -19,4 +19,8 @@
 * static code analysis
 * automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
-
+  * ws ~> n2o.cs
+* smalltalk/sml
+* hello world
+  * dotnet + react
+  * erl/rs
