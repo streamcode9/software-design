@@ -20,10 +20,10 @@
 * admin-cli
   * api caller, storages viewer, logs viewer
   * static code analysis
-  * sml: discovery -> automatic diagram builder (plantuml)
+  * discovery -> automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
   * ws ~> n2o.cs -> o1
 * smalltalk.rs
 * hello world azure dotnet react
-* erl advent of code | xslt | UTF-8, HTTP/2, WebSocket, BCD, IEEE-754
+* xslt | UTF-8, HTTP/2, WebSocket, BCD, IEEE-754
 * analytics
