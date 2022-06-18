@@ -21,7 +21,8 @@
   * discovery -> automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
   * ws ~> n2o.cs
-* smalltalk/sml
+  * smalltalk
+  * sml
 * hello world
   * azure/cloudflare
   * dotnet + react
