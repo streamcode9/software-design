@@ -25,3 +25,4 @@
   * azure/cloudflare
   * dotnet + react
   * erl/rs
+* analytics
