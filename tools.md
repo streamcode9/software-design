@@ -40,7 +40,6 @@
   * static code analysis
   * discovery -> automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
-  * ws ~> n2o.cs -> o1
 * smalltalk.rs
 * hello world azure dotnet react
 * analytics
