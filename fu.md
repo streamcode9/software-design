@@ -42,7 +42,6 @@
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
 * smalltalk.rs
 * analytics
-* https://www.nato.int/cps/en/natohq/topics_157575.htm
 * https://www.iso.org/standard/50508.html
 * https://www.thoughtworks.com/radar
 
