@@ -34,7 +34,7 @@
 * Auth0
 
 
-# custom
+# 🔬 fu
 * admin-cli
   * api caller, storages viewer, logs viewer
   * static code analysis
