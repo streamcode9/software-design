@@ -42,6 +42,5 @@
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
 * smalltalk.rs
 * analytics
-* https://www.iso.org/standard/50508.html
 * https://www.thoughtworks.com/radar
 
