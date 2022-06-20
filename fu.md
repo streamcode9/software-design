@@ -43,3 +43,7 @@
 * smalltalk.rs
 * hello world azure dotnet react
 * analytics
+* https://www.nato.int/cps/en/natohq/topics_157575.htm
+* https://www.iso.org/standard/50508.html
+* https://www.thoughtworks.com/radar
+
