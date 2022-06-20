@@ -41,7 +41,6 @@
   * discovery -> automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
 * smalltalk.rs
-* hello world azure dotnet react
 * analytics
 * https://www.nato.int/cps/en/natohq/topics_157575.htm
 * https://www.iso.org/standard/50508.html
