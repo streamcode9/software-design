@@ -6,7 +6,7 @@
 
 - principles contradict each other
 
-## Базовые принципы
+## Base principles
 
 ### DRY - Don't Repeat Yourself
 
