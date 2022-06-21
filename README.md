@@ -72,6 +72,8 @@ Good code is Easy to delete.
 
 [c2](http://wiki.c2.com/?IfItIsWorkingDontChange)
 
+### Minimal sample (to reproduce error or demo feature)
+
 ## Разделение всего и вся
 
 Достаточно много принципов крутится вокруг идеи Separation of Concerns:
