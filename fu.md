@@ -40,6 +40,6 @@
   * static code analysis
   * discovery -> automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
-  * smalltalk.rs
+  * smalltalk#
 * analytics
 
