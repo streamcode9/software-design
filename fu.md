@@ -8,6 +8,7 @@
 * vs 2022 (asp azure) 
 * vs code
 * azure data studio
+* azure cli
 * node 14
 
 # git fu
