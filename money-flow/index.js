@@ -1,18 +1,20 @@
 const fs = require('fs');
 
-fs.readdir(__dirname, function (err, files) {
-    //handling error
+const files = []
+
+fs.readdir(__dirname, function (err, fls) {
     if (err) {
         return console.log('Unable to scan directory: ' + err);
-    } 
-    //listing all files using forEach
-    files.forEach(function (file) {
-        // Do whatever you want to do with the file
-        console.log(file); 
+    }
+    fls.forEach(function (f) {
+        console.log(f) 
+        files.push(f)
     });
 });
 
-fs.readFile('./data.csv', 'utf8', (err, data) => {
+console.log(files[0])
+
+fs.readFile(files[0], 'utf8', (err, data) => {
   if (err) {
     console.error(err);
     return
