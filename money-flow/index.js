@@ -1,17 +1,8 @@
 const fs = require('fs');
 
-const files = []
+const files = fs.readdirSync(__dirname)
 
-fs.readdir(__dirname, function (err, fls) {
-    if (err) {
-        return console.log('Unable to scan directory: ' + err);
-    }
-    fls.forEach(function (f) {
-        console.log(f) 
-        files.push(f)
-    });
-});
-
+console.log(files)
 console.log(files[0])
 
 fs.readFile(files[0], 'utf8', (err, data) => {
