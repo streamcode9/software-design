@@ -5,7 +5,7 @@
 * avoid (npm) global packages
 
 # ide fu
-* vs 2022 (asp azure) 
+* vs 2022 (3->6 asp azure) 
 * vs code
 * azure data studio
 * azure cli
