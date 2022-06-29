@@ -31,10 +31,10 @@ const files = fs.readdirSync(__dirname)
     const date = new Date(Date.parse(cols[0].slice(1, cols[0].length - 1) + ":00:00:00Z"))
     const typi = cols[4]
     const desc = cols[5]
-    const outc = isNaN(cols[6]) ? 0 : parseFloat(cols[6])
-    const inco = isNaN(cols[7]) ? 0 : parseFloat(cols[7])
+    const outc = cols[6].length === 0 ? 0 : parseFloat(cols[6])
+    const inco = cols[7].length === 0 ? 0 : parseFloat(cols[7])
 
-    console.log(outc,inco)
+    console.log(cols[6], cols[6].length, isNaN(cols[6]))
     
     const key = date.getFullYear().toString() + '-' + date.getMonth().toString();
     (acc[key] = acc[key] || []).push({ date, typi, desc, outc, inco })
