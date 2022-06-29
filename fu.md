@@ -13,7 +13,7 @@
 
 # git fu
 * conventional commits
-* https://git-scm.com
+* ?mb vs already has it https://git-scm.com
 
 # code/arch/prod/biz fu
 * .net
