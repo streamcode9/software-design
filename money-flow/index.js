@@ -26,7 +26,7 @@ const files = fs.readdirSync(__dirname)
         return !isNaN(date)
     });
 
-  const dict = rows.reduce((acc, row) => {console.log(row);
+  const dict = rows.reduce((acc, row) => {
     const cols = row.split(',')
     const date = new Date(Date.parse(cols[0].slice(1, cols[0].length - 1) + ":00:00:00Z"))
     const typi = cols[4]
@@ -34,6 +34,8 @@ const files = fs.readdirSync(__dirname)
     const outc = isNaN(cols[6]) ? 0 : parseFloat(cols[6])
     const inco = isNaN(cols[7]) ? 0 : parseFloat(cols[7])
 
+    console.log(outc,inco)
+    
     const key = date.getFullYear().toString() + '-' + date.getMonth().toString();
     (acc[key] = acc[key] || []).push({ date, typi, desc, outc, inco })
     return acc
