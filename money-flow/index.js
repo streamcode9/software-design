@@ -45,4 +45,4 @@ const files = fs.readdirSync(__dirname)
       -xs.reduce((a,x)=>a+x.outc,0)
     console.log(`${key}: ${ok}`);
   }
-});
+//});
