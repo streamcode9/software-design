@@ -9,4 +9,7 @@ const dict = {
  ]
 }
 
-console.log(31)
+for (const [key, value] of Object.entries(dict)) {
+  console.log(`${key}: ${value}`);
+}
+
