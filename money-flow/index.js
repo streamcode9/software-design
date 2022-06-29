@@ -14,7 +14,7 @@ const files = fs.readdirSync(__dirname)
     '"2022-06-27","2022-06-28","0","a0","Visa","*1111 25.06 Try 110.00 Rs Ares Kurs: 0.6097",6707,\r\n'
     +'"2022-06-27","2022-06-28","0","a0","Visa","*1111 25.06 Try 110.00 Rs Ares Kurs: 0.6097",6707,\r\n'
     +'"2022-06-20","2022-06-20","0","a0","?","Fra: some",,7000'
-  '
+
   const rows = data.split('\r\n')
     .filter(row => {
         const cols = row.split(',')
