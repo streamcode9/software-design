@@ -2,15 +2,19 @@ const fs = require('fs');
 
 const files = fs.readdirSync(__dirname)
 
-console.log(files)
-console.log(files[0])
+//console.log(files)
+//console.log(files[0])
 
-fs.readFile(files[0], 'utf8', (err, data) => {
-  if (err) {
-    console.error(err);
-    return
-  }
-
+//fs.readFile(files[0], 'utf8', (err, data) => {
+  //if (err) {
+  //  console.error(err);
+  //  return
+  //}
+  const data =
+    '"2022-06-27","2022-06-28","0","a0","Visa","*1111 25.06 Try 110.00 Rs Ares Kurs: 0.6097",6707,\r\n'
+    +'"2022-06-27","2022-06-28","0","a0","Visa","*1111 25.06 Try 110.00 Rs Ares Kurs: 0.6097",6707,\r\n'
+    +'"2022-06-20","2022-06-20","0","a0","?","Fra: some",,7000'
+  '
   const rows = data.split('\r\n')
     .filter(row => {
         const cols = row.split(',')
