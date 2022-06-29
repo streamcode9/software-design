@@ -26,7 +26,7 @@ const files = fs.readdirSync(__dirname)
         return !isNaN(date)
     });
 
-  const dict = rows.reduce((acc, row) => {
+  const dict = rows.reduce((acc, row) => {console.log(row);
     const cols = row.split(',')
     const date = new Date(Date.parse(cols[0].slice(1, cols[0].length - 1) + ":00:00:00Z"))
     const typi = cols[4]
