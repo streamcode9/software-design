@@ -9,7 +9,10 @@ const dict = {
  ]
 }
 
-for (const [key, value] of Object.entries(dict)) {
-  console.log(`${key}: ${value}`);
+for (const [key, xs] of Object.entries(dict)) {
+  const ok =
+    xs.reduce((a,x)=>a+x.inco,0)
+    -xs.reduce((a,x)=>a+x.outc,0)
+  console.log(`${key}: ${ok}`);
 }
 
