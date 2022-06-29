@@ -31,8 +31,8 @@ const files = fs.readdirSync(__dirname)
     const date = new Date(Date.parse(cols[0].slice(1, cols[0].length - 1) + ":00:00:00Z"))
     const typi = cols[4]
     const desc = cols[5]
-    const outc  = cols[6]
-    const inco   = cols[7]
+    const outc = parseFloat(cols[6])
+    const inco = parseFloat(cols[7])
 
     const key = date.getFullYear().toString() + '-' + date.getMonth().toString();
     (acc[key] = acc[key] || []).push({ date, typi, desc, outc, inco })
