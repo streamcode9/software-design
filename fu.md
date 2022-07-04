@@ -26,7 +26,7 @@
 * js
   * react
   * npm ? yarn
-  * redux -> react context
+  * redux -> react context -> ? swr
   * scss -> styled-components
   * js -> typescript
 * azure
