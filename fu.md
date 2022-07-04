@@ -39,7 +39,7 @@
 # 🔬 fu
 * admin-cli
   * api caller, storages viewer, logs viewer
-  * static code analysis
+  * static code analysis (eslint prettier roslyn)
   * compact minimalistic code style formatter/checker/linter consistent across all repo participants
   * discovery -> automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
