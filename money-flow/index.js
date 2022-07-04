@@ -16,17 +16,18 @@ const files = fs.readdirSync(__dirname)
     +'"2022-06-20","2022-06-20","0","a0","?","Fra: some",,7000'
 
   const rows = data.split('\r\n')
-    .filter(row => {
+    .map((row, i) => [i, row])
+    .filter(([i, row]) => {
         const cols = row.split(',')
         return cols[0].length > 0
     })
-    .filter(row => {
+    .filter(([i, row]) => {
         const cols = row.split(',')
         const date = Date.parse(cols[0].slice(1, cols[0].length - 1) + ":00:00:00Z")
         return !isNaN(date)
     });
 
-  const dict = rows.reduce((acc, row) => {
+  const dict = rows.reduce((acc, [i, row]) => {
     const cols = row.split(',')
     const date = new Date(Date.parse(cols[0].slice(1, cols[0].length - 1) + ":00:00:00Z"))
     const typi = cols[4]
@@ -34,17 +35,20 @@ const files = fs.readdirSync(__dirname)
     const outc = cols[6].length === 0 ? 0 : parseFloat(cols[6])
     const inco = cols[7].length === 0 ? 0 : parseFloat(cols[7])
 
-    console.log(cols[6], cols[6].length, isNaN(cols[6]))
-    
     const key = date.getFullYear().toString() + '-' + date.getMonth().toString();
-    (acc[key] = acc[key] || []).push({ date, typi, desc, outc, inco })
+    (acc[key] = acc[key] || []).push({ i, row, date, typi, desc, outc, inco })
     return acc
   }, {})
 
+  const resTable = []
   for (const [key, xs] of Object.entries(dict)) {
-    const ok =
-      xs.reduce((a,x)=>a+x.inco,0)
-      -xs.reduce((a,x)=>a+x.outc,0)
-    console.log(`${key}: ${ok}`);
+    /*if (key === '2022-2') console.log(xs.map(x => [x.i, x.row, x.outc]))*/
+    const inco = xs.reduce((a,x)=>a+x.inco,0)
+    const outc = xs.reduce((a,x)=>a+x.outc,0)
+    resTable.push([key, inco/100, -outc/100, (inco-outc)/100]);
   }
+  console.table(resTable);
+  const totInco = Object.entries(dict).reduce((acc, [_, xs]) => acc + xs.reduce((a,x)=>a+x.inco,0), 0)
+  const totOutc = Object.entries(dict).reduce((acc, [_, xs]) => acc + xs.reduce((a,x)=>a+x.outc,0), 0)
+  console.table([totInco/100, -totOutc/100, (totInco-totOutc)/100])
 //});
