@@ -29,20 +29,16 @@
   * redux -> react context -> ? swr
   * scss -> styled-components
   * js -> typescript
+  * eslint prettier
 * azure
   * sql cosmos blob search keyVault
   * event grid -> service bus
   * app service function
+  * devops -> github actions
 * Auth0
+* plantuml figma jira ?confluence -> readme.md testRail
 
 
 # 🔬 fu
-* admin-cli
-  * api caller, storages viewer, logs viewer
-  * static code analysis (eslint prettier roslyn)
-  * compact minimalistic code style formatter/checker/linter consistent across all repo participants
-  * discovery -> automatic diagram builder (plantuml)
 * tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
-  * smalltalk#
-* analytics
-
+* smalltalk#
