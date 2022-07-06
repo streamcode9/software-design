@@ -40,6 +40,5 @@
 
 
 # 🔬 fu
-* tcp/ip https://www.youtube.com/channel/UCvIX9U9iNAQOfcubmDNKPOQ
 * smalltalk#
 * tech radar
