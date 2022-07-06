@@ -16,9 +16,9 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '5.0.x'
+        dotnet-version: '6.0.x'
     - name: Restore dependencies
       run: dotnet restore ws
     - name: Build
-      run: dotnet build ws/ws.fsproj
+      run: dotnet build ws/ws.csproj
     - run: dotnet run --project=ws
