@@ -24,12 +24,12 @@
   * signalR
   * Duende SynchFusion iText
 * js
-  * react
+  * react cra eslint
   * npm ? yarn
   * redux -> react context -> ? swr
   * scss -> styled-components
   * js -> typescript
-  * eslint prettier
+  * ? is prettier part of cra
 * azure
   * sql cosmos blob search keyVault
   * event grid -> service bus
