@@ -37,8 +37,3 @@
   * devops -> github actions
 * Auth0
 * plantuml figma jira ?confluence -> readme.md testRail
-
-
-# 🔬 fu
-* smalltalk#
-* tech radar
