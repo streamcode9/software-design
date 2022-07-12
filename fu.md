@@ -30,6 +30,7 @@
   * scss -> styled-components
   * js -> typescript
   * ? is prettier part of cra
+  * ? craco
 * azure
   * sql cosmos blob search keyVault
   * event grid -> service bus
