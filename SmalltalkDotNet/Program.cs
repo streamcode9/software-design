@@ -1,4 +1,5 @@
 // https://www.gryphel.com/c/minivmac/
+// https://github.com/zydeco/minivmac4ios
 
 using System;
 
