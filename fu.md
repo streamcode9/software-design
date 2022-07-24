@@ -39,5 +39,3 @@
 * Auth0
 * plantuml figma jira ?confluence -> readme.md testRail
 * ? copilot
-* https://js13kgames.com
-* https://js1k.com/
