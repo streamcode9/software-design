@@ -5,6 +5,4 @@
 * https://monometric.net/
 * https://js1k.com/2016-elemental/details/2497
 * https://js1k.com/2017-magic/details/2894
-* 2016 year
-* 2018 year
-* 2019 year
+* 2016-2019 years
