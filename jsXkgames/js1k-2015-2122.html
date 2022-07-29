@@ -1,0 +1,55 @@
+A = new AudioContext
+G = "charCodeAt"
+d = document
+U = "keyup"
+a = "keydown"
+Q = d["on" + U] = d["on" + a] = function(e) {
+    c = e.keyCode
+    t = e.type[5]
+    if (E = d.getElementById(c)) {
+        E.style.border = t ? "inset" : "outset"
+        O[c][(t ? "" : "dis") + "connect"](A.destination)
+    }
+}
+W = 50
+w = 33
+O = {}
+P = Math.pow
+f = "BNMBBNMBMQWMQWWEWQMBWEWQMBBXBBXB"
+F = "TYUTTYUTUIOUIOOPOIUTOPOIUTTWTTWT"
+X = "ZSXDC!VGBHNJM!Q2W3E!R5T6Y7U!I9O0P22222222224224111122111122224224"
+T = setTimeout
+q = t = 1000
+z = "Q({keyCode:"
+y = ",type:'"
+for (i = j = 0; i < w; i++) {
+    x = a + "'})"
+    c = z + f[G](i) + y
+    D = z + F[G](i) + y
+    T(Y = c + x, t)
+    T(Y, t + q * 8)
+    T(Y = D + x, t + q * 4)
+    T(Y, t + q * 12)
+    t += X[i + w] * 250
+    x = U + "'})"
+    T(Y = c + x, t - w)
+    T(Y, t + q * 8 - w)
+    T(Y = D + x, t + q * 4 - w)
+    T(Y, t + q * 12 - w)
+    C = X[G](i)
+    if (C > w) {
+        L = (i / 2 | 0) * W + W
+        H = W
+        Z = "ffd"
+        if (i % 2) {
+            H = w
+            L += w
+            Z = "666"
+        }
+        p = " style=position:absolute;bo"
+        b.innerHTML += "<p id=" + C + p + "rder:outset;left:" + L + "px;width:" + H + "px;height:" + 6 * H + "px;background:#" + Z + ";z-index:" + i % 2 + "><b" + p + "ttom:0px>" + X[i]
+        O[C] = o = A.createOscillator()
+        o.frequency.value = 262 * P(P(2, 1 / 12), j++)
+        o.start()
+    }
+}
