@@ -16,7 +16,7 @@
 * format/refactor changes MUST ALWAYS be in the separate commits/PRs
 * ?mb vs already has it https://git-scm.com
 
-# code/arch/prod/biz fu
+# tech stack fu
 * .net
   * c#
   * asp
@@ -39,3 +39,6 @@
 * Auth0
 * plantuml figma jira ?confluence -> readme.md testRail
 * ? copilot
+
+# code/arch/prod/biz
+* azure function solution per project/product with multiple projects
