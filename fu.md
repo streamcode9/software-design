@@ -40,5 +40,5 @@
 * plantuml figma jira ?confluence -> readme.md testRail
 * ? copilot
 
-# code/arch/prod/biz
+# code fu
 * azure function solution per project/product with multiple projects
