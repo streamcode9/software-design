@@ -38,8 +38,7 @@
   * devops -> github actions
 * Auth0
 * plantuml figma jira ?confluence -> readme.md testRail
-* ? copilot smartContract penetrationTesting
-* ? lisp/clojure
+* ? smartContract penetrationTesting
 
 # code fu
 * azure function solution per project/product with multiple projects
