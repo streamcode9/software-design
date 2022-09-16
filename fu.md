@@ -38,7 +38,8 @@
   * devops -> github actions
 * Auth0
 * plantuml figma jira ?confluence -> readme.md testRail
-* ? smartContract penetrationTesting
+* ? smartContract
+* ? https://www.offensive-security.com/ https://www.eccouncil.org/ https://www.hackthebox.com/
 
 # code fu
 * azure function solution per project/product with multiple projects
