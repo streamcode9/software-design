@@ -39,6 +39,7 @@
 * Auth0
 * plantuml figma jira ?confluence -> readme.md testRail
 * ? smartContract
+* https://github.com/mtdvio/every-programmer-should-know
 * ? https://www.offensive-security.com/ https://www.eccouncil.org/ https://www.hackthebox.com/
 
 # code fu
