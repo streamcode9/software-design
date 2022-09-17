@@ -1,5 +1,5 @@
 # env config fu
-* windows (?chocolatey ?winget) ? macos
+* windows (?chocolatey ?winget)
 * standart setup
 * avoid customizations
 * avoid (npm) global packages
