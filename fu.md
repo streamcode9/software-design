@@ -22,12 +22,10 @@
   * asp
   * ado ef
   * signalR
-  * Duende SynchFusion iText
+  * Duende SynchFusion
 * js
-  * react cra eslint
-  * yup formik
+  * react
   * yarn
-  * axios swr
   * styled-components
   * typescript
 * azure
