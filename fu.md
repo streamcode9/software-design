@@ -30,9 +30,8 @@
   * typescript
 * azure
   * sql cosmos blob search keyVault
-  * event grid -> service bus
+  * service bus
   * app service function
-  * devops -> github actions
 * plantuml
 * ? smartContract
 * ? https://www.offensive-security.com/ https://www.eccouncil.org/ https://www.hackthebox.com/
