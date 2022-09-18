@@ -33,9 +33,8 @@
   * event grid -> service bus
   * app service function
   * devops -> github actions
-* plantuml jira confluence readme.md testRail
+* plantuml
 * ? smartContract
-* https://github.com/mtdvio/every-programmer-should-know
 * ? https://www.offensive-security.com/ https://www.eccouncil.org/ https://www.hackthebox.com/
 
 # code fu
