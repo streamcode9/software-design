@@ -25,10 +25,11 @@
   * Duende SynchFusion iText
 * js
   * react cra eslint
-  * npm ? yarn
-  * redux -> react context -> ? swr
-  * scss -> styled-components
-  * js -> typescript
+  * yup formik
+  * yarn
+  * axios swr
+  * styled-components
+  * typescript
 * azure
   * sql cosmos blob search keyVault
   * event grid -> service bus
