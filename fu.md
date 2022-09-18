@@ -33,6 +33,8 @@
   * service bus
   * app service function
 * plantuml
+* ? MAL lisp
+* ? own micro react
 * ? smartContract
 * ? https://www.offensive-security.com/ https://www.eccouncil.org/ https://www.hackthebox.com/
 
