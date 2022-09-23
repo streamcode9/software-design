@@ -22,7 +22,7 @@
   * asp
   * ado ef
   * signalR
-  * Duende SynchFusion
+  * Duende
 * js
   * yarn
   * styled-components
