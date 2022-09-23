@@ -9,7 +9,6 @@
 * vs code
 * azure data studio
 * azure cli
-* node
 
 # git fu
 * conventional commits
@@ -25,7 +24,7 @@
   * Duende
 * js
   * yarn
-  * styled-components
+  * node
   * typescript
 * azure
   * sql cosmos blob search keyVault
