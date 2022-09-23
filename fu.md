@@ -24,7 +24,6 @@
   * signalR
   * Duende SynchFusion
 * js
-  * react
   * yarn
   * styled-components
   * typescript
