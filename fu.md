@@ -32,8 +32,7 @@
   * app service function
 * plantuml
 * ? MAL lisp
-* ? smartContract
-* ? js13k song of conquest
+* ? js13k
 * ? https://www.offensive-security.com/ https://www.eccouncil.org/ https://www.hackthebox.com/
 
 # code fu
