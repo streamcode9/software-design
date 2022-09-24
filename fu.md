@@ -33,6 +33,7 @@
 * plantuml
 * ? MAL lisp
 * ? smartContract
+* ? js13k song of conquest
 * ? https://www.offensive-security.com/ https://www.eccouncil.org/ https://www.hackthebox.com/
 
 # code fu
