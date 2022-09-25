@@ -32,7 +32,6 @@
   * app service function
 * plantuml
 * ? MAL lisp
-* ? js13k
 * ? https://www.offensive-security.com/ https://www.eccouncil.org/ https://www.hackthebox.com/
 
 # code fu
