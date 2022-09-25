@@ -21,7 +21,6 @@
   * asp
   * ado ef
   * signalR
-  * Duende
 * js
   * yarn
   * node
@@ -32,7 +31,7 @@
   * app service function
 * plantuml
 * ? MAL lisp
-* ? https://www.offensive-security.com/ https://www.eccouncil.org/ https://www.hackthebox.com/
+* ? https://github.com/cdglabs/thinglab
 
 # code fu
 * azure function solution per project/product with multiple projects
