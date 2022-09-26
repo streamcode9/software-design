@@ -30,8 +30,6 @@
   * service bus
   * app service function
 * plantuml
-* ? MAL lisp
-* ? https://github.com/cdglabs/thinglab
 
 # code fu
 * azure function solution per project/product with multiple projects
