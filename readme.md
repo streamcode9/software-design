@@ -2,7 +2,6 @@
 * windows (?chocolatey ?winget)
 * standart setup
 * avoid customizations
-* avoid (npm) global packages
 
 # ide fu
 * vs 2022 (asp azure) 
