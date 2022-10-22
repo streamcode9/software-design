@@ -22,7 +22,6 @@
   * signalR
 * js
   * react
-  * yarn
   * typescript
 * azure
   * sql cosmos blob search keyVault
