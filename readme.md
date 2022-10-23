@@ -21,7 +21,7 @@
   * ado ef
   * signalR
 * js
-  * react
+  * react ? preact 
   * typescript
 * azure
   * sql cosmos blob search keyVault
