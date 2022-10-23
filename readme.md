@@ -29,5 +29,3 @@
   * app service function
 * plantuml
 
-# code fu
-* azure function solution per project/product with multiple projects
