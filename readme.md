@@ -1,3 +1,6 @@
+Tech radar, state of js
+
+
 # env config fu
 * windows
 * standart setup
