@@ -210,3 +210,6 @@ f.foreach(function (g) {
 ## ?
 
 - Shortening feedback loops is the most reliable way to improve any process. Identify which loop is the bottleneck, unclog it, rinse, repeat.
+- azure function solution per project/product with multiple projects
+
+
