@@ -24,7 +24,6 @@ Tech radar, state of js, stackoverflow
   * ado ef
   * signalR
 * js
-  * react ? preact 
   * typescript
 * azure
   * sql cosmos blob search keyVault
