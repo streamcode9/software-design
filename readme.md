@@ -7,8 +7,7 @@ Tech radar, state of js, stackoverflow
 * avoid customizations
 
 # ide fu
-* vs 2022 (asp azure) 
-* vs code
+* vs 2022 (asp azure)
 * azure data studio
 * azure cli
 
