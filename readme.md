@@ -7,7 +7,7 @@ Tech radar, state of js, stackoverflow
 * avoid customizations
 
 # ide fu
-* vs 2022 (asp azure)
+* vs 2022 (asp azure) + copilot
 * azure data studio
 * azure cli
 
@@ -22,7 +22,9 @@ Tech radar, state of js, stackoverflow
   * asp
   * ado ef
   * signalR
+  * blazor
 * js
+  * react
   * typescript
 * azure
   * sql cosmos blob search keyVault
