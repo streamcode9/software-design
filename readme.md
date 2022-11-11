@@ -1,6 +1,3 @@
-* https://slides.com/mr-mig/todo-enterjs2018#/12/1
-* https://slides.com/maximsokhatsky/rea
-
 # env config fu
 * windows
 * standart setup
