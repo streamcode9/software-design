@@ -30,4 +30,4 @@
 * plantuml
 
 # research
-* https://n2o.dev/ua/books/vol.2/index.html
+* https://axiosis.top/
