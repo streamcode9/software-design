@@ -30,6 +30,4 @@
 * plantuml
 
 # research
-* https://axiosis.top/
 * https://en.m.wikipedia.org/wiki/Engineering_ethics
-* 
