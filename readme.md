@@ -14,7 +14,7 @@
 * azure cli
 
 # git fu
-* gitflow
+* gitflow (bug feat)
 * conventional commits
 * format/refactor changes MUST ALWAYS be in the separate commits/PRs
 * ?mb vs already has it https://git-scm.com
@@ -37,6 +37,8 @@
 
 # process
 * ci cd
+* feature switch
+* deployment slot
 
 # quality
 * manual test virtuoso
@@ -47,5 +49,6 @@
 # monitoring
 * grafana
 * application insights
+* 🚨
 
 
