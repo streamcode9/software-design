@@ -28,7 +28,3 @@
   * service bus
   * app service function
 * plantuml
-
-# research
-* https://twitter.com/mr_mig_by/status/1591488649572802560
-* https://en.m.wikipedia.org/wiki/Engineering_ethics
