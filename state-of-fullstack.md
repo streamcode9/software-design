@@ -1,5 +1,21 @@
 
+
+# .net
+  ## c#
+  ## asp
+  ## ado ef
+  ## signalR
+  ## blazor
+# js
+  ## react
+  ## typescript
+# eventual consistency
+  ## service bus
+# compute
+  ## app service function
+# plantuml
 # storage
+  ## blob
   ## relational (sql)
   ## kv (cosmos)
   ## graph (gremlin)
