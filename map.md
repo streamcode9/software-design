@@ -3,8 +3,6 @@
 # io
   ## fs
   ## network
-# serialization
-# parsing
 # memory
   ## gc
   ## reference counting 
