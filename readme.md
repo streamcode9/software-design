@@ -33,3 +33,14 @@
   * service bus
   * app service function
 * plantuml
+
+# quality
+* manual test virtuoso
+* sonar eslint prettier
+* xunit jest
+
+# monitoring
+* grafana
+* application insights
+
+
