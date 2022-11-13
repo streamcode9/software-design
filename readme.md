@@ -1,7 +1,7 @@
 # manage
 * agile kanban
 * stakeholder (po) dev qa devops (lead) support itops
-* priority estimate groom
+* status priority estimate groom retro
 
 # env config fu
 * windows
