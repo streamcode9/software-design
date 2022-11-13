@@ -35,6 +35,9 @@
   * app service function
 * plantuml
 
+# process
+* ci cd
+
 # quality
 * manual test virtuoso
 * sonar eslint prettier
