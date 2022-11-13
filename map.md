@@ -24,16 +24,12 @@
   ## cors
   ## sandboxing
   ## keyVault keys rotation
-# benchmark
+# benchmark.net
 # errors
   ## data loss
   ## data duplication
   ## system unavailable
   ## data corruption
-## high load
-  ## scaling
-  ## optimizations
-  ## back preassure
 # distributed
   ## retry (polly)
   ## crdt
