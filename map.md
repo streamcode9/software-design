@@ -37,6 +37,4 @@
 # distributed
   ## retry
   ## crdt
-  ## cap theorem 
-  ## tenants
  
