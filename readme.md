@@ -1,3 +1,8 @@
+# manage
+* agile kanban
+* stakeholder (po) dev qa devops (lead) support itops
+* priority estimate groom
+
 # env config fu
 * windows
 * standart setup
