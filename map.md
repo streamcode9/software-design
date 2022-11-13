@@ -1,9 +1,5 @@
 
-# lang
-  ## pattern matching
-  ## pure functions
-  ## types
-  ## immutability
+
 # io
   ## fs
   ## network
