@@ -29,14 +29,11 @@
 # security
   ## authentication
   ## authorization
-  ## xss
   ## cors
   ## sandboxing
-  ## injection
   ## keyVault keys rotation
 # algorithms
   ## finite state machine
-# test
 # benchmark
 # errors
   ## data loss
