@@ -35,6 +35,6 @@
   ## optimizations
   ## back preassure
 # distributed
-  ## retry
+  ## retry (polly)
   ## crdt
  
