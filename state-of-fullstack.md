@@ -37,5 +37,4 @@
   ## data corruption
 # distributed
   ## retry (polly)
-  ## crdt
  
