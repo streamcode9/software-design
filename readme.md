@@ -19,22 +19,6 @@
 * format/refactor changes MUST ALWAYS be in the separate commits/PRs
 * ?mb vs already has it https://git-scm.com
 
-# tech stack fu
-* .net
-  * c#
-  * asp
-  * ado ef
-  * signalR
-  * blazor
-* js
-  * react
-  * typescript
-* azure
-  * sql cosmos blob search keyVault
-  * service bus
-  * app service function
-* plantuml
-
 # process
 * ci cd
 * feature switch
