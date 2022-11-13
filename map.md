@@ -1,9 +1,5 @@
 
 # dev process
-  ## jira
-  ## git
-  ## ci/cd
-  ## test
   ## bug, hotfix, feature
   ## prod
    ### feature switch
