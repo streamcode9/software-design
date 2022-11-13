@@ -1,10 +1,4 @@
 
-# dev process
-  ## bug, hotfix, feature
-  ## prod
-   ### feature switch
-   ### deployment slot
-   ### log audit monitor alert
 # lang
   ## pattern matching
   ## pure functions
