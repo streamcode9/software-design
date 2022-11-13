@@ -1,8 +1,4 @@
 
-
-# memory
-  ## gc
-  ## reference counting 
 # multithreading & concurrency
   ## csp (communicating sequential processes)
   ## actors
