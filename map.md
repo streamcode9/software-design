@@ -1,11 +1,4 @@
 
-# multithreading & concurrency
-  ## csp (communicating sequential processes)
-  ## actors
-  ## cas (compare-and-swap)
-  ## stm (software transactional memory)
-  ## locks & shared memory
-  ## multiversion concurrency control
 # storage
   ## relational (sql)
   ## kv (cosmos)
