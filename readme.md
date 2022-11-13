@@ -14,6 +14,7 @@
 * azure cli
 
 # git fu
+* gitflow
 * conventional commits
 * format/refactor changes MUST ALWAYS be in the separate commits/PRs
 * ?mb vs already has it https://git-scm.com
@@ -38,6 +39,7 @@
 * manual test virtuoso
 * sonar eslint prettier
 * xunit jest
+* code review
 
 # monitoring
 * grafana
