@@ -1,5 +1,4 @@
 
-
 # io
   ## fs
   ## network
@@ -21,17 +20,12 @@
   ## migrations
   ## indexes
   ## partitioning
-# date & time
-# encoding/escaping
-# validation
 # security
   ## authentication
   ## authorization
   ## cors
   ## sandboxing
   ## keyVault keys rotation
-# algorithms
-  ## finite state machine
 # benchmark
 # errors
   ## data loss
