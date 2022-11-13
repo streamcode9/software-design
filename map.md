@@ -1,7 +1,5 @@
 
-# io
-  ## fs
-  ## network
+
 # memory
   ## gc
   ## reference counting 
