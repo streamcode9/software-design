@@ -10,6 +10,7 @@
 
 # ide fu
 * vs 2022 (asp azure) + copilot
+* ?github codespace
 * azure data studio
 * azure cli
 
