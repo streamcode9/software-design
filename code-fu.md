@@ -24,7 +24,7 @@ If a change in one module results in many changes in another module then they ar
 
 [SO](https://stackoverflow.com/q/14000762/805266)
 
-## Производные принципы
+## Derived principles
 
 ### Pure function
 - return values are identical for identical arguments (no variation with local static variables, non-local variables, mutable reference arguments or input streams),
