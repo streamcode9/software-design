@@ -36,4 +36,11 @@
 * application insights
 * 🚨
 
+# research
+* squeak
+* APL
+* McCarthy LISP -> Scheme
+* https://research.ralfj.de/
+* http://wiki.c2.com/
+
 
