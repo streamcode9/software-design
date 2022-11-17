@@ -42,6 +42,7 @@
 * polyml (https://smlfamily.github.io/)
 * APL
 * https://research.ralfj.de/
+* https://kindelia.org/
 * http://wiki.c2.com/
 
 
