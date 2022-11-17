@@ -39,6 +39,7 @@
 # research
 * Lisp/Scheme
 * squeak
+* polyml
 * APL
 * https://research.ralfj.de/
 * http://wiki.c2.com/
