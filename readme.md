@@ -39,7 +39,7 @@
 # research
 * Lisp/Scheme
 * squeak
-* polyml
+* polyml (https://smlfamily.github.io/)
 * APL
 * https://research.ralfj.de/
 * http://wiki.c2.com/
