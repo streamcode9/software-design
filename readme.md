@@ -37,8 +37,9 @@
 * 🚨
 
 # research
-* APL
 * Lisp/Scheme
+* squeak
+* APL
 * https://research.ralfj.de/
 * http://wiki.c2.com/
 
