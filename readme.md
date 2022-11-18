@@ -37,9 +37,12 @@
 * 🚨
 
 # research
-* Lisp/Scheme
+* Lisp
+  * http://community.schemewiki.org/?scheme-faq-standards
+  * https://github.com/schemedoc/awesome-scheme
 * squeak
-* polyml (https://smlfamily.github.io/)
+* polyml
+  * https://smlfamily.github.io/
 * APL
 * https://research.ralfj.de/
 * http://wiki.c2.com/
