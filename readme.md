@@ -40,6 +40,7 @@
 * Lisp
   * http://community.schemewiki.org/?scheme-faq-standards
   * https://github.com/schemedoc/awesome-scheme
+  * https://github.com/dundalek/awesome-lisp-languages
 * squeak
 * polyml
   * https://smlfamily.github.io/
