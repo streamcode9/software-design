@@ -1,6 +1,10 @@
 ### System
 
-Node <--> Node
+Node <--> Node <~ User
+
+### Node
+
+Hardware -> Software
 
 Create free Azure account
 
