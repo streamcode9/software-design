@@ -4,7 +4,7 @@
 
 ### Node
 
-Hardware -> Software
+Hardware > Software
 
 ### Software
 
