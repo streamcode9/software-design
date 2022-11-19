@@ -1,6 +1,6 @@
 ### System
 
-( Node <--> Node ) <~ User
+( Node <- proto -> Node ) <~ proto ~ User
 
 ### Node
 
