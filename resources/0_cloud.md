@@ -10,6 +10,8 @@ Hardware -> Software
 
 OS > Platform > App
 
+### App
+
 Create free Azure account
 
 Build minimal asp.net core app with app service
