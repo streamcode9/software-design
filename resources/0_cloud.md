@@ -9,6 +9,7 @@ Hardware > Software
 ### Software
 
 OS > Platform > Framework > App
+ -> webSocket -> client
 
 ### App
 
