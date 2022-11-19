@@ -12,6 +12,10 @@ OS > Platform > App
 
 ### App
 
+Hexagonal architecture
+
+### Implementation
+
 Create free Azure account
 
 Build minimal asp.net core app with app service
