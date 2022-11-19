@@ -1,6 +1,6 @@
 ### System
 
-Node <--> Node <~ User
+( Node <--> Node ) <~ User
 
 ### Node
 
