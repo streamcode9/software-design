@@ -47,5 +47,6 @@
 * APL
 * https://research.ralfj.de/
 * http://wiki.c2.com/
+* Erlang
 
 
