@@ -13,7 +13,8 @@ OS > Platform > Framework > App
 
 ### App
 
-Hexagonal architecture
+* Hexagonal architecture
+* Storage > DA > BL > Controller > BFF > Front-end
 
 ### Implementation
 
