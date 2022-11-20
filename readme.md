@@ -39,7 +39,6 @@
 # research
 * Lisp
   * http://community.schemewiki.org/?scheme-faq-standards
-  * https://github.com/dundalek/awesome-lisp-languages
   * MAL
 * squeak
 * polyml
