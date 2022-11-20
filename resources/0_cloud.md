@@ -23,6 +23,21 @@ OS > Platform > Framework > App
   * frontEnd = React
   * backEnd: Razor | Blazor
   * backEnd = data -> page
+* Design front-end css
+  * common
+  * component
+  * admin
+* Web front-end
+  * static + dynamic routers
+  * url parameters parser
+  * session = client + server context
+  * controller = web page logic
+  * presentation = html
+  * domain models = forms
+* Data + logic back-end
+  * data models = sql c#
+  * business process engine = BPMN 2.0
+  * RBAC
 * Create free Azure account
 * Build minimal asp.net core app with app service
 * https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs
