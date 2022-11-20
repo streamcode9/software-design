@@ -37,7 +37,7 @@ OS > Platform > Framework > App
 * Data + logic back-end
   * data models = sql c#
   * business process engine = BPMN 2.0
-  * RBAC
+  * RBAC = NIST cyber security framework
 * Create free Azure account
 * Build minimal asp.net core app with app service
 * https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs
