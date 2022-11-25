@@ -40,7 +40,6 @@
 * Lisp
   * http://community.schemewiki.org/?scheme-faq-standards
   * MAL
-* https://smlfamily.github.io/
 * https://research.ralfj.de/
 * http://wiki.c2.com/
 * Erlang
