@@ -40,7 +40,6 @@
 * Lisp
   * http://community.schemewiki.org/?scheme-faq-standards
   * MAL
-* squeak
 * polyml
   * https://smlfamily.github.io/
 * https://research.ralfj.de/
