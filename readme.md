@@ -40,8 +40,7 @@
 * Lisp
   * http://community.schemewiki.org/?scheme-faq-standards
   * MAL
-* polyml
-  * https://smlfamily.github.io/
+* https://smlfamily.github.io/
 * https://research.ralfj.de/
 * http://wiki.c2.com/
 * Erlang
