@@ -39,7 +39,6 @@
 # research
 * Lisp
   * http://community.schemewiki.org/?scheme-faq-standards
-  * MAL
 * https://research.ralfj.de/
 * http://wiki.c2.com/
 * Erlang
