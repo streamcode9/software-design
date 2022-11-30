@@ -11,6 +11,7 @@
 # ide fu
 * vs 2022 (asp azure) + copilot
 * ?github codespace
+* https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
 * azure data studio
 * azure cli
 
