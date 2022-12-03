@@ -46,5 +46,8 @@
 * 12 factor app
 * agile manifesto
 * xp
-
+* Jupyter
+* C lang
+* K lang
+* SML
 
