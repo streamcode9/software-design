@@ -91,6 +91,9 @@ Good code is Easy to delete.
 
 ## Антипаттерны
 
+
+### https://en.m.wikipedia.org/wiki/Cargo_cult_programming
+
 ### Всё захардкожено и Всё параметризовано всем
 
 Слишком плохой или слишком хороший coupling соответственно
