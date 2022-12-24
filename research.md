@@ -8,7 +8,6 @@
 * http://wiki.c2.com/
 * Erlang
   * https://learnyousomeerlang.com/
-* 12 factor app
 * Jupyter
 * C lang
   * https://news.ycombinator.com/item?id=34105770
