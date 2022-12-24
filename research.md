@@ -6,6 +6,7 @@
 * https://research.ralfj.de/
 * http://wiki.c2.com/
 * Erlang
+  * https://learnyousomeerlang.com/
 * 12 factor app
 * agile manifesto
 * xp
@@ -15,3 +16,4 @@
 * K lang
   * http://www.math.bas.bg/bantchev/place/k.html
 * SML
+  * https://smlfamily.github.io/
