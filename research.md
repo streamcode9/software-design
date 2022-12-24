@@ -11,5 +11,6 @@
 * xp
 * Jupyter
 * C lang
+  * https://news.ycombinator.com/item?id=34105770
 * K lang
 * SML
