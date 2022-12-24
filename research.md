@@ -9,7 +9,6 @@
 * Erlang
   * https://learnyousomeerlang.com/
 * 12 factor app
-* xp
 * Jupyter
 * C lang
   * https://news.ycombinator.com/item?id=34105770
