@@ -9,7 +9,6 @@
 * Erlang
   * https://learnyousomeerlang.com/
 * 12 factor app
-* agile manifesto
 * xp
 * Jupyter
 * C lang
