@@ -23,4 +23,5 @@
 * lang
   * https://llvm.org/
 * state of js
+  * https://kit.svelte.dev 
   * https://www.solidjs.com
