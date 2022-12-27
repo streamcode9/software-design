@@ -16,3 +16,9 @@
   * http://www.math.bas.bg/bantchev/place/k.html
 * SML
   * https://smlfamily.github.io/
+  * https://github.com/esumii/min-caml
+* tools
+  * https://viewsourcecode.org/snaptoken/kilo/
+  * https://github.com/antirez/kilo
+* lang
+  * https://llvm.org/
