@@ -26,4 +26,5 @@
   * https://kit.svelte.dev 
   * https://www.solidjs.com
 * tech archeology (hard, os, lang, framework, editor/ide, game, cloud, security/crypto, ai)
-* 
+* https://cryptohack.org/
+
