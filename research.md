@@ -9,7 +9,6 @@
 * http://wiki.c2.com/
 * Erlang
   * https://learnyousomeerlang.com/
-* Jupyter
 * C lang
   * https://news.ycombinator.com/item?id=34105770
 * K lang
