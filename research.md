@@ -11,8 +11,6 @@
   * https://learnyousomeerlang.com/
 * C lang
   * https://news.ycombinator.com/item?id=34105770
-* K lang
-  * http://www.math.bas.bg/bantchev/place/k.html
 * tools
   * https://viewsourcecode.org/snaptoken/kilo/
   * https://github.com/antirez/kilo
