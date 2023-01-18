@@ -19,8 +19,6 @@
 * tools
   * https://viewsourcecode.org/snaptoken/kilo/
   * https://github.com/antirez/kilo
-* lang
-  * https://llvm.org/
 * state of js
   * https://kit.svelte.dev 
   * https://www.solidjs.com
