@@ -1,4 +1,5 @@
 # saas
+* azure
 * 12 factors app
 
 # manage
