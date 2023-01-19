@@ -13,7 +13,6 @@
   ## service bus
 # compute
   ## app service function
-# plantuml
 # storage
   ## blob
   ## relational (sql)
