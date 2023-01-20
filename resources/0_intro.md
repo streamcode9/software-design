@@ -39,8 +39,10 @@ OS > Platform > Framework > App
   * business process engine = BPMN 2.0
   * RBAC = NIST cyber security framework
 * Create free Azure account
-* Build minimal asp.net core app with app service
+* build minimal asp.net core app with app service
 * ci/cd with GitHub actions
+* db and db migrator
+* background service
 * https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs
 * https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-7.0
 * https://www.emqx.io/
