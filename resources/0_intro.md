@@ -40,6 +40,7 @@ OS > Platform > Framework > App
   * RBAC = NIST cyber security framework
 * Create free Azure account
 * Build minimal asp.net core app with app service
+* ci/cd with GitHub actions
 * https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs
 * https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-7.0
 * https://www.emqx.io/
