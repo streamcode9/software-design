@@ -1,43 +1,4 @@
-### System
 
-( Node <- proto -> Node ) <~ proto ~ User
-
-### Node
-
-Hardware > Software
-
-### Software
-
-OS > Platform > Framework > App
- -> webSocket -> client
-
-### App
-
-* Hexagonal architecture
-* Data > Logic > Presentation > Validation > BFF > Front-end
-
-### Implementation
-
-* Example
-  * frontEnd = data -> page
-  * frontEnd = React
-  * backEnd: Razor | Blazor
-  * backEnd = data -> page
-* Design front-end css
-  * common
-  * component
-  * admin
-* Web front-end
-  * static + dynamic routers
-  * url parameters parser
-  * session = client + server context
-  * controller = web page logic
-  * presentation = html
-  * domain models = forms
-* Data + logic back-end
-  * data models = sql c#
-  * business process engine = BPMN 2.0
-  * RBAC = NIST cyber security framework
 * Create free Azure account
 * build minimal asp.net core app with app service
 * ci/cd with GitHub actions
