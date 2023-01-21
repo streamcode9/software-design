@@ -1,39 +1,39 @@
 
 
 # .net
-  ## c#
-  ## asp
-  ## ado ef
-  ## signalR
-  ## blazor
+  * c#
+  * asp
+  * ado ef
+  * signalR
+  * blazor
 # js
-  ## react
-  ## typescript
+  * react
+  * typescript
 # eventual consistency
-  ## service bus
+  * service bus
 # compute
-  ## app service function
+  * app service function
 # storage
-  ## blob
-  ## relational (sql)
-  ## kv (cosmos)
-  ## graph (gremlin)
-  ## search index (tree)
-  ## migrations
-  ## indexes
-  ## partitioning
+  * blob
+  * relational (sql)
+  * kv (cosmos)
+  * graph (gremlin)
+  * search index (tree)
+  * migrations
+  * indexes
+  * partitioning
 # security
-  ## authentication
-  ## authorization
-  ## cors
-  ## sandboxing
-  ## keyVault keys rotation
+  * authentication
+  * authorization
+  * cors
+  * sandboxing
+  * keyVault keys rotation
 # benchmark.net
 # errors
-  ## data loss
-  ## data duplication
-  ## system unavailable
-  ## data corruption
+  * data loss
+  * data duplication
+  * system unavailable
+  * data corruption
 # distributed
-  ## retry (polly)
+  * retry (polly)
  
