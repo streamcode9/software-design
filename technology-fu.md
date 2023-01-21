@@ -11,8 +11,9 @@
   * typescript
 # eventual consistency
   * service bus
-# compute
-  * app service function
+# azure
+  * app service
+  * function
 # storage
   * blob
   * relational (sql)
