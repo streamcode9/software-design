@@ -17,6 +17,7 @@
   * https://github.com/antirez/kilo
 * state of js
   * https://kit.svelte.dev 
+  * tiobe index, StackOverflow 
   * https://www.solidjs.com
   * https://www.thoughtworks.com/radar
 * https://cryptohack.org/
