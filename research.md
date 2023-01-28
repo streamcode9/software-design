@@ -20,4 +20,3 @@
   * tiobe index, StackOverflow 
   * https://www.thoughtworks.com/radar
 * https://cryptohack.org/
-* https://www.nostr.net
