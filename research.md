@@ -2,7 +2,6 @@
 * https://research.ralfj.de/
   * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 * tools
-  * https://viewsourcecode.org/snaptoken/kilo/
   * https://github.com/antirez/kilo
 * state of js
   * https://kit.svelte.dev 
