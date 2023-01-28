@@ -6,7 +6,6 @@
 * https://research.ralfj.de/
   * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
   * https://zed.dev/
-* http://wiki.c2.com/
 * Erlang
   * https://learnyousomeerlang.com/
   * https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md
