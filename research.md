@@ -1,7 +1,6 @@
 
 * https://research.ralfj.de/
   * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
-  * https://zed.dev/
 * C lang
   * https://news.ycombinator.com/item?id=34105770
 * tools
