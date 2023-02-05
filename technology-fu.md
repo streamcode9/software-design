@@ -1,10 +1,4 @@
 
-
-# eventual consistency
-  * service bus
-# azure
-  * app service
-  * function
 # storage
   * blob
   * relational (sql)
