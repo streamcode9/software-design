@@ -1,7 +1,5 @@
 
-# js
-  * react
-  * typescript
+
 # eventual consistency
   * service bus
 # azure
