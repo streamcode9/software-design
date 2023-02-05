@@ -1,11 +1,4 @@
 
-
-# .net
-  * c#
-  * asp
-  * ado ef
-  * signalR
-  * blazor
 # js
   * react
   * typescript
