@@ -34,7 +34,7 @@ If a change in one module results in many changes in another module then they ar
 
 [wiki](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
-Улучшает Loose Coupling and High Cohesion.
+Improves Loose Coupling and High Cohesion.
 
 - "модуль парсинга не должен заниматься отчётами, а модуль отчётов - парсингом"
 - per feature folders structure in solution
