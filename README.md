@@ -36,7 +36,7 @@ If a change in one module results in many changes in another module then they ar
 
 Improves Loose Coupling and High Cohesion.
 
-- "модуль парсинга не должен заниматься отчётами, а модуль отчётов - парсингом"
+- parsing module should not generate reports, reports module should not perform parsing
 - per feature folders structure in solution
 
 ### Stable Dependencies
