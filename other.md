@@ -1,4 +1,8 @@
-# minimalism
+# deliberate practice
+
+## books
+* clean code
+* refactoring
 
 ## minimal dev env and web app
 * environment
