@@ -57,3 +57,5 @@ https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainab
 https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
 
 https://teachyourselfcs.com
+
+http://xahlee.info/UnixResource_dir/_fastfood_dir/fastfood.html
