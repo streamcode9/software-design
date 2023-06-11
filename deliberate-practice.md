@@ -26,7 +26,6 @@
   * https://jaykmody.com/blog/gpt-from-scratch/
   * https://research.ralfj.de/ 
   * https://www.thoughtworks.com/radar
-  * https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/
   * https://karpathy.medium.com/software-2-0-a64152b37c35
 
 Computer Architecture
