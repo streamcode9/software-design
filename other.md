@@ -20,7 +20,6 @@
 * NAMECHEAP hosting + domain config https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain?tabs=root%2Cazurecli
 
 ## investigate
-  * https://kit.svelte.dev/
   * https://github.com/synrc/n2o/blob/master/priv/n2o.js
   * iso bpmn quic mqtt erl
   * https://news.ycombinator.com/item?id=35207305
