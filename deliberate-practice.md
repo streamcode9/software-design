@@ -36,6 +36,7 @@ OS + Networking
 https://pages.cs.wisc.edu/~remzi/OSTEP/
 https://beej.us/guide/bgnet/
 http://gaia.cs.umass.edu/kurose_ross/index.php
+https://youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS
 
 Databases
 https://www.youtube.com/@CMUDatabaseGroup/playlists
