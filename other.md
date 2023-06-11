@@ -22,7 +22,6 @@
 ## investigate
   * https://github.com/synrc/n2o/blob/master/priv/n2o.js
   * iso bpmn quic mqtt erl
-  * https://news.ycombinator.com/item?id=35207305
   * https://mitpress.mit.edu/9780262546379/the-little-learner/
   * https://dicksonneoh.com/portfolio/pytorch_at_the_edge_timm_torchscript_flutter/
   * https://jaykmody.com/blog/gpt-from-scratch/
