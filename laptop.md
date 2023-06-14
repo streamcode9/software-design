@@ -8,4 +8,4 @@
   * 500 Gb hdd
   * dvdrom | 3 usb | 0.3mpx cam | 4x40 WHr
   * 380x23,7x260,4mm | 2,24 kg
-* 2023-06-13 Dell 2000 NOK
+* 2023-06-13 Dell ~2000NOK
