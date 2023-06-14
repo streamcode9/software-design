@@ -5,7 +5,7 @@
   * 2 cores Intel Core i5-6200U, 2,3-2,8 Hz
   * SO-DIMM Crucial DDR3 16GB 2x8GB 1600MHz (CT2KIT102464BF160B)
   * integrated Intel HD Graphics 520
-  * 500 Gb hdd | dvdrom
-  * 3 usb | 0.3mpx cam | 4x40 WHr
+  * 500 Gb hdd
+  * dvdrom | 3 usb | 0.3mpx cam | 4x40 WHr
   * 380x23,7x260,4mm | 2,24 kg
 * 2023-06-13 Dell 2000 NOK
