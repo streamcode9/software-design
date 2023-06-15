@@ -46,7 +46,7 @@ Improves Loose Coupling and High Cohesion.
 
 [deviq](http://deviq.com/stable-dependencies/)
 
-### Отделение интерфейса от реализации
+### Separate interface from implementation
 
 ### Information Hiding
 
