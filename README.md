@@ -50,8 +50,8 @@ Improves Loose Coupling and High Cohesion.
 
 ### Information Hiding
 
-- "Модуль парсинга не должен знать о том, что существует модуль отчётов"
-- "Модуль отчётов не должен знать о используемой модулем парсинга библиотеке парсинга"
+- "The parsing module must not know that a report module exists"
+- "The reporting module should not know about the parsing library used by the parsing module"
 
 ### SOLID
 
