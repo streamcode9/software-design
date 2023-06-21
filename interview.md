@@ -1,5 +1,7 @@
 * interview is hard
-* body language
+* personality
+  * body language
+* language and communication skills
 * tech
   * task
   * go thorough task and ask the questions  
