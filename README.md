@@ -59,7 +59,7 @@ Improves Loose Coupling and High Cohesion.
 
 A component should have only one reason to change
 
-#### Узкие интерфейсы
+#### Minimalist interfaces
 
 [deviq](http://deviq.com/interface-segregation-principle/)
 
@@ -74,39 +74,38 @@ Good code is Easy to delete.
 
 [deviq](http://deviq.com/yagni/)
 
-### Не чини то, что не поломано
+### Don't fix what isn't broken
 
 [c2](http://wiki.c2.com/?IfItIsWorkingDontChange)
 
 ### Minimal sample (to reproduce error or demo feature)
 
-## Разделение всего и вся
+## Separation of everything
 
-Достаточно много принципов крутится вокруг идеи Separation of Concerns:
+Quite a few principles revolve around the idea of Separation of Concerns:
 
-- Разделение интерфейса и реализациии
-- Разделение смыслового кода от утилит
-- Разделение часто модифицированного кода и стабильного
-- Разделение данных и представления (сюда же вариации MVC)
+- Separation of interface and implementation
+- Separation of semantic code from utilities
+- Separation of frequently modified code and stable
+- Separation of data and presentation (here are variations of MVC)
 
-## Антипаттерны
-
+## Anti patterns
 
 ### https://en.m.wikipedia.org/wiki/Cargo_cult_programming
 
-### Всё захардкожено и Всё параметризовано всем
+### Everything is hardcoded and everything is parametrized by everything
 
-Слишком плохой или слишком хороший coupling соответственно
+Too bad or too good coupling respectively
 
 ### God Object
 
-Антипаттерн High cohesion - много несвязанного функционала намешано в кучу
+Антипаттерн High cohesion - a lot of unrelated functionality jumbled together
 
 [wiki](https://en.wikipedia.org/wiki/God_object) [c2](http://wiki.c2.com/?GodClass)
 
 ### Overengineering and Underengineering
 
-При андеинжиниринге все принципы нарушены. При оверинжиниринге все принципы доведены до абсурда.
+During unengineering, all principles are violated. With overengineering, all principles are brought to the point of absurdity.
 
 ### Spaghetti code
 
@@ -120,17 +119,17 @@ Good code is Easy to delete.
 
 - code refers to code whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers
 
-### Выращиваение программ
+### Growing programs
 
 - anti-planing. Adding new features into empty or sample project step by step if needed
   without further planing of system evolution (architecture, features, etc) and building proper backbones of the system.
   Such code contains of workarounds and hacks.
 
-### Оно же работает
+### It does work!
 
 ### Pyramid of Doom
 
-Вложенные коллбеки. В стиле
+Nested callbacks:
 
 ```js
 f.foreach(function (g) {
@@ -140,9 +139,9 @@ f.foreach(function (g) {
 
 ### NIH - Not Invented Here
 
-- повторная реализация библиотечной функции
-- повторная реализация функциональности, уже имеющейся в проекте
-- использование плохого наколенного алгоритма вместо имеющегося хорошего
+- re-implementation of the library function
+- re-implementation of functionality already available in the project
+- using a bad knee algorithm instead of an existing good one (re-invent a wheel)
 
 ### Duplicate Code vs Compressed Code
 
@@ -164,24 +163,24 @@ f.foreach(function (g) {
 
 - any group of variables which are passed around together (in a clump) throughout various parts of the program
 
-## Поведенческие и методологические антипаттерны
+## Behavioral and methodological anti-patterns
 
-### Программирование по аналогии
+### Programming by analogy
 
-- выгуглить аналогичное решение на SO и поправить
-- скопировать аналогичный кусок из другого  места текущего проекта и поправить
+- google a similar solution on SO and fix it
+- copy a similar piece from another place in the current project and fix it
 
-### Беспомощный котёнок
+### Helpless kitten
 
 - developer does not know what he is doing and afraids everything
   He does not evolve because of lack of intellect or absence of environmental pressure (project or team interest, market needs, etc)
 
-## Принципы сорс-контрола
+## Source control principles
 
-- Единый стантарт именования коммитов
-- Один коммит = одна задача, в частности:
-  - разделение несвязанных изменений по разным коммитам
-  - разделение рефакторингов и реформатирований и смысловых изменений
+- A single standard for naming commits
+- One commit = one task, in particular:
+   - separating unrelated changes into different commits
+   - separation of refactorings and reformattings and semantic changes
 - Single repo instead of multiple ones to track contract changes across system nodes
 
 ## Testing
@@ -194,9 +193,9 @@ f.foreach(function (g) {
 
 ### Black box vs white box testing
 
-### Интеграционные тесты
+### Integration tests
 
-### Регрессионные тесты
+### Regression tests 
 
 ### TDD и Tests First
 
@@ -214,7 +213,7 @@ f.foreach(function (g) {
 
 ## Maintainence
 
-- заменять неправильное на правильное при обнаружении проблемы — это не наш метод. Все либы которые используешь — ты их и мейнтейнишь по факту. В результате больше уверенности в инструментах, и больше уверенности при написании кода, и больше навыков по разбирательствам с проблемами.
+- to replace the wrong with the right when a problem is detected is not our method. All dependencies that you use - you maintain them in fact. The result is more confidence in tools, and more confidence in coding, and more skill in dealing with problems.
 
 ## ?
 
