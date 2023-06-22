@@ -3,6 +3,6 @@
   * body language
 * language and communication skills
 * tech
-  * ecperience 
+  * experience 
   * task
   * go thorough task and ask the questions
