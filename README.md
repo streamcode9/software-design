@@ -99,7 +99,7 @@ Too bad or too good coupling respectively
 
 ### God Object
 
-Антипаттерн High cohesion - a lot of unrelated functionality jumbled together
+High cohesion - a lot of unrelated functionality jumbled together
 
 [wiki](https://en.wikipedia.org/wiki/God_object) [c2](http://wiki.c2.com/?GodClass)
 
