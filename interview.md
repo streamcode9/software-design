@@ -2,7 +2,7 @@
 * personality
   * body language
 * language and communication skills
-* cv, preferences
+* cv, preferences, hobby
 * tech
   * experience 
   * task
