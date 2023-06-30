@@ -18,5 +18,7 @@
   * C++ https://en.wikipedia.org/wiki/C%2B%2B
 * 1986
   * https://en.wikipedia.org/wiki/Erlang_(programming_language)
+* 1995
+  * https://en.wikipedia.org/wiki/JavaScript
 * 2000
   * https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
