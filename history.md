@@ -1,9 +1,14 @@
 * 1955
   * http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf 
+* 1960
+  * https://en.wikipedia.org/wiki/Lisp_(programming_language)
 * 1964
   * https://en.wikipedia.org/wiki/BASIC
 * 1972
   * https://en.wikipedia.org/wiki/C_(programming_language)
+  * https://en.wikipedia.org/wiki/Smalltalk
+* 1975
+  * https://en.wikipedia.org/wiki/Scheme_(programming_language)
 * 1983
   * https://en.wikipedia.org/wiki/Turbo_Pascal
 * 1985
