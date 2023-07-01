@@ -13,7 +13,6 @@
 * 1975
   * https://en.wikipedia.org/wiki/Scheme_(programming_language)
 * 1983
-  * https://en.wikipedia.org/wiki/Turbo_Pascal
 * 1985
   * C++ https://en.wikipedia.org/wiki/C%2B%2B
 * 1986
