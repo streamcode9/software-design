@@ -27,6 +27,7 @@
   * https://www.thoughtworks.com/radar
   * https://karpathy.medium.com/software-2-0-a64152b37c35
   * https://learn.microsoft.com/en-us/dotnet/machine-learning/
+  * https://soatok.blog/2021/11/17/understanding-hkdf/
 
 ## Computer Architecture
 * http://csapp.cs.cmu.edu/3e/home.html
