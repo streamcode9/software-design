@@ -4,14 +4,6 @@
 * clean code
 * refactoring
 
-## min min
-* create .net webapp
-  * deploy to azure manually
-  * https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vscode
-* deploy to azure automatically to github
-  * https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-net-to-azure-app-service
-* add signalr https://learn.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-7.0&tabs=visual-studio-code
-
 ## investigate
   * https://github.com/synrc/n2o/blob/master/priv/n2o.js
   * iso bpmn quic mqtt erl
