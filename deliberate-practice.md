@@ -4,13 +4,7 @@
 * clean code
 * refactoring
 
-## minimal dev env and web app
-* environment
-  * az cli
-  * vs code
-  * git bash
-  * windows for dev OR codespaces
-  * linux for host
+## min min
 * create .net webapp
   * deploy to azure manually
   * https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vscode
