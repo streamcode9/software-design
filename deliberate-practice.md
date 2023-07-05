@@ -7,7 +7,6 @@
 ## investigate
   * https://github.com/synrc/n2o/blob/master/priv/n2o.js
   * iso bpmn quic mqtt erl
-  * https://mitpress.mit.edu/9780262546379/the-little-learner/
   * https://jaykmody.com/blog/gpt-from-scratch/
   * https://research.ralfj.de/ 
   * https://www.thoughtworks.com/radar
