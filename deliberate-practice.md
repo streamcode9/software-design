@@ -6,7 +6,6 @@
 
 ## investigate
   * https://github.com/synrc/n2o/blob/master/priv/n2o.js
-  * iso bpmn quic mqtt erl
   * https://jaykmody.com/blog/gpt-from-scratch/
   * https://research.ralfj.de/ 
   * https://www.thoughtworks.com/radar
