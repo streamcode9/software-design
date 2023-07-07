@@ -8,8 +8,6 @@
   * https://github.com/synrc/n2o/blob/master/priv/n2o.js
   * https://jaykmody.com/blog/gpt-from-scratch/
   * https://research.ralfj.de/ 
-  * https://www.thoughtworks.com/radar
-  * https://karpathy.medium.com/software-2-0-a64152b37c35
 
 ## Computer Architecture
 * http://csapp.cs.cmu.edu/3e/home.html
