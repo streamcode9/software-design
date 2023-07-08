@@ -7,7 +7,6 @@
 ## investigate
   * https://github.com/synrc/n2o/blob/master/priv/n2o.js
   * https://jaykmody.com/blog/gpt-from-scratch/
-  * https://research.ralfj.de/ 
 
 ## Computer Architecture
 * http://csapp.cs.cmu.edu/3e/home.html
