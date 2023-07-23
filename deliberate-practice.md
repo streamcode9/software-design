@@ -35,6 +35,8 @@
 * https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?redirectFromSmile=1
 * https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
 
+## stanford online
+
 ## https://functionalcs.github.io/curriculum/
 
 ## https://teachyourselfcs.com
