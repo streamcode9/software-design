@@ -39,4 +39,3 @@
 
 ## https://functionalcs.github.io/curriculum/
 
-## https://teachyourselfcs.com
