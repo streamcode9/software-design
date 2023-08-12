@@ -4,6 +4,7 @@
 * clean code
 * refactoring
 * https://simonwillison.net/2023/Aug/3/weird-world-of-llms/
+* http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf
 
 ## investigate
   * https://github.com/synrc/n2o/blob/master/priv/n2o.js
