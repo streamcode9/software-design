@@ -28,31 +28,6 @@ If a change in one module results in many changes in another module then they ar
 
 ## Derived principles
 
-### SoC - Separation of Concerns
-
-[wiki](https://en.wikipedia.org/wiki/Separation_of_concerns)
-
-Improves Loose Coupling and High Cohesion.
-
-- parsing module should not generate reports, reports module should not perform parsing
-- per feature folders structure in solution
-
-### Stable Dependencies
-
-- The dependencies between software packages should be in the direction of the stability of the packages. That is, a given package should depend only on more stable packages.
-- Application Layer -> Domain layer
-
-[deviq](http://deviq.com/stable-dependencies/)
-
-### Separate interface from implementation
-
-### Information Hiding
-
-- "The parsing module must not know that a report module exists"
-- "The reporting module should not know about the parsing library used by the parsing module"
-
-## Minimalism
-
 ### KISS - Keep It Simple Stupid
 
 Explicit is Better Than Implicit.
