@@ -28,10 +28,6 @@ If a change in one module results in many changes in another module then they ar
 
 ## Derived principles
 
-### Pure function
-- return values are identical for identical arguments (no variation with local static variables, non-local variables, mutable reference arguments or input streams),
-- no side effects (no mutation of local static variables, non-local variables, mutable reference arguments or input/output streams).
-
 ### SoC - Separation of Concerns
 
 [wiki](https://en.wikipedia.org/wiki/Separation_of_concerns)
