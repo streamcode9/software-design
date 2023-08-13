@@ -51,16 +51,6 @@ Improves Loose Coupling and High Cohesion.
 - "The parsing module must not know that a report module exists"
 - "The reporting module should not know about the parsing library used by the parsing module"
 
-### SOLID
-
-#### Single Responsibility
-
-A component should have only one reason to change
-
-#### Minimalist interfaces
-
-[deviq](http://deviq.com/interface-segregation-principle/)
-
 ## Minimalism
 
 ### KISS - Keep It Simple Stupid
