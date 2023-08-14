@@ -33,10 +33,6 @@ If a change in one module results in many changes in another module then they ar
 Explicit is Better Than Implicit.
 Good code is Easy to delete.
 
-### YAGNI - You Ain’t Gonna Need It
-
-[deviq](http://deviq.com/yagni/)
-
 ### Don't fix what isn't broken
 
 [c2](http://wiki.c2.com/?IfItIsWorkingDontChange)
