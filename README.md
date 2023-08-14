@@ -177,10 +177,6 @@ f.foreach(function (g) {
 ## Maintainence
 
 - to replace the wrong with the right when a problem is detected is not our method. All dependencies that you use - you maintain them in fact. The result is more confidence in tools, and more confidence in coding, and more skill in dealing with problems.
-
-## ?
-
 - Shortening feedback loops is the most reliable way to improve any process. Identify which loop is the bottleneck, unclog it, rinse, repeat.
-- azure function solution per project/product with multiple projects
 
 
