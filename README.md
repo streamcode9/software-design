@@ -39,14 +39,6 @@ Good code is Easy to delete.
 
 ### Minimal sample (to reproduce error or demo feature)
 
-## Separation of everything
-
-Quite a few principles revolve around the idea of Separation of Concerns:
-
-- Separation of interface and implementation
-- Separation of semantic code from utilities
-- Separation of frequently modified code and stable
-- Separation of data and presentation (here are variations of MVC)
 
 ## Anti patterns
 
