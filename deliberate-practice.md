@@ -1,14 +1,11 @@
 # deliberate practice
 
-## books
-* clean code
-* refactoring
+## investigate
 * https://simonwillison.net/2023/Aug/3/weird-world-of-llms/
 * http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf
-
-## investigate
-  * https://github.com/synrc/n2o/blob/master/priv/n2o.js
-  * https://jaykmody.com/blog/gpt-from-scratch/
+* https://finbarr.ca/
+* https://github.com/synrc/n2o/blob/master/priv/n2o.js
+* https://jaykmody.com/blog/gpt-from-scratch/
 
 ## Computer Architecture
 * http://csapp.cs.cmu.edu/3e/home.html
