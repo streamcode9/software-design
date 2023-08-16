@@ -52,7 +52,7 @@ During unengineering, all principles are violated. With overengineering, all pri
 
 anti-planing. Adding new features into empty or sample project step by step if needed
   without further planing of system evolution (architecture, features, etc) and building proper backbones of the system.
-  Such code contains of workarounds and hacks.
+  Such code consist of workarounds and hacks.
 
 ### It does work!
 
@@ -82,15 +82,15 @@ f.foreach(function (g) {
 
 ### Technical Debt
 
-- the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer
+the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer
 
 ### Code Smell
 
-- any characteristic in the source code of a program that possibly indicates a deeper problem
+any characteristic in the source code of a program that possibly indicates a deeper problem
 
 #### Data Clump
 
-- any group of variables which are passed around together (in a clump) throughout various parts of the program
+any group of variables which are passed around together (in a clump) throughout various parts of the program
 
 ## Behavioral and methodological anti-patterns
 
@@ -101,7 +101,7 @@ f.foreach(function (g) {
 
 ### Helpless kitten
 
-- developer does not know what he is doing and afraids everything
+developer does not know what he is doing and afraids everything
   He does not evolve because of lack of intellect or absence of environmental pressure (project or team interest, market needs, etc)
 
 ## Source control principles
