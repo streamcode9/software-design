@@ -20,12 +20,7 @@ If a change in one module results in many changes in another module then they ar
 
 [SO](https://stackoverflow.com/q/14000762/805266)
 
-## Derived principles
-
-### KISS - Keep It Simple Stupid
-
-Explicit is Better Than Implicit.
-Good code is Easy to delete.
+### Explicit is Better Than Implicit
 
 ### Don't fix what isn't broken
 
