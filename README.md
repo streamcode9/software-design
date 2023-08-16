@@ -47,17 +47,6 @@ High cohesion - a lot of unrelated functionality jumbled together
 
 During unengineering, all principles are violated. With overengineering, all principles are brought to the point of absurdity.
 
-### Spaghetti code
-
-- unstructured and difficult-to-maintain source code caused by lack of programming style rules
-
-### Ravioli code
-
-- code that comprises well-structured classes that are easy to understand in isolation, but difficult to understand as a whole
-
-### Lasagna code
-
-- code refers to code whose layers are so complicated and intertwined that making a change in one layer would necessitate changes in all other layers
 
 ### Growing programs
 
