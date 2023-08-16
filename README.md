@@ -2,15 +2,11 @@
 
 # Principles
 
-## Principle of using principles
-
-- principles contradict each other
-
-## Base principles
+## Principles contradict each other
 
 ### Minimalism - use as less fetuses of the language/library/etc as possible
 
-* use defaul OS/editor/etc apps and setup without customizations
+use defaul OS/editor/etc apps and setup without customizations
 
 ### Loose Coupling and High Cohesion
 
