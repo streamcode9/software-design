@@ -50,7 +50,7 @@ During unengineering, all principles are violated. With overengineering, all pri
 
 ### Growing programs
 
-- anti-planing. Adding new features into empty or sample project step by step if needed
+anti-planing. Adding new features into empty or sample project step by step if needed
   without further planing of system evolution (architecture, features, etc) and building proper backbones of the system.
   Such code contains of workarounds and hacks.
 
