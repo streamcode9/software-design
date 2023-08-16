@@ -12,12 +12,6 @@
 
 * use defaul OS/editor/etc apps and setup without customizations
 
-### DRY - Don't Repeat Yourself
-
-[wiki](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-[c2](http://wiki.c2.com/?DontRepeatYourself)
-[deviq](http://deviq.com/don-t-repeat-yourself/)
-
 ### Loose Coupling and High Cohesion
 
 Cohesion in software engineering is the degree to which the elements of a certain module belong together. 
