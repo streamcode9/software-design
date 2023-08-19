@@ -108,33 +108,6 @@ developer does not know what he is doing and afraids everything
    - separation of refactorings and reformattings and semantic changes
 - Single repo instead of multiple ones to track contract changes across system nodes
 
-## Testing
-
-* Protection against regressions
-* Resistance to refactoring
-* Fast feedback
-* Maintainability
-* AAA
-
-### Black box vs white box testing
-
-### Integration tests
-
-### Regression tests 
-
-### TDD и Tests First
-
-- Arrange Act Assert (Given When Then)
-- obj.verify(o => o.fun(args)).ones()
-
-### Stubs and Mock Objects
-
-### Randomized Property Testing
-
-### BDD
-
-- specflow
-- [link](https://hiptest.com/blog/hiptest/getting-started-with-bdd-part-1/)
 
 ## Maintainence
 
