@@ -84,7 +84,7 @@ the implied cost of additional rework caused by choosing an easy solution now in
 
 any characteristic in the source code of a program that possibly indicates a deeper problem
 
-#### Data Clump
+### Data Clump
 
 any group of variables which are passed around together (in a clump) throughout various parts of the program
 
