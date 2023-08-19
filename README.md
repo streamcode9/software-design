@@ -2,7 +2,7 @@
 
 # Principles
 
-## Principles contradict each other
+### Principles contradict each other
 
 ### Minimalism - use as less fetuses of the language/library/etc as possible
 
