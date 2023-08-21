@@ -3,7 +3,9 @@
   * body language
 * language and communication skills
 * cv, preferences, hobby
-* tech
-  * experience 
-  * task
-  * go thorough task and ask the questions
+* experience 
+* tech task review
+* go thorough task and ask the questions
+* architecture
+* db
+* distributed systems
