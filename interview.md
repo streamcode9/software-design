@@ -6,8 +6,8 @@
 * cv, preferences, hobby
 * experience 
 * go thorough task and ask the questions
-* architecture
 * distributed systems
+* architecture
 * domain
 * application
 * storage
