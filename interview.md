@@ -4,7 +4,7 @@
   * body language
 * language and communication skills
 * cv, preferences, hobby
-* experience 
+* experience (dev flow)
 * go thorough task and ask the questions
 * distributed systems
 * architecture
