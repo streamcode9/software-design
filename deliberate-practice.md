@@ -9,7 +9,6 @@
 * http://csapp.cs.cmu.edu/3e/home.html
 * https://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html
 * https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
-* asm verilog
 
 ## OS + Networking
 * https://osblog.stephenmarz.com
