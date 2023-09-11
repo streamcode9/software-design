@@ -1,11 +1,9 @@
 # deliberate practice
 
 ## investigate
-* https://simonwillison.net/2023/Aug/3/weird-world-of-llms/
 * http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf
 * https://github.com/synrc/n2o/blob/master/priv/n2o.js
 * https://jaykmody.com/blog/gpt-from-scratch/
-* lambda calculus
 
 ## Computer Architecture
 * http://csapp.cs.cmu.edu/3e/home.html
