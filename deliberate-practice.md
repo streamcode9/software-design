@@ -18,7 +18,7 @@
   
 
 ## Databases
-* https://www.youtube.com/@CMUDatabaseGroup/playlists
+
 
 ## Security
 * https://pwn.college
