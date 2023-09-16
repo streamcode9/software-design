@@ -35,5 +35,8 @@
 ## History
 
 
+## Applications
+
+
 ## https://functionalcs.github.io/curriculum/
 
