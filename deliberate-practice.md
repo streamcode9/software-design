@@ -5,6 +5,9 @@
 * https://github.com/synrc/n2o/blob/master/priv/n2o.js
 * https://jaykmody.com/blog/gpt-from-scratch/
 
+## History
+
+
 ## Computer Architecture
 * http://csapp.cs.cmu.edu/3e/home.html
 * https://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html
