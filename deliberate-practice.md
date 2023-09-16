@@ -36,8 +36,11 @@
 ## History
 
 
-## Applications
+## Software development life cycle
 
 
-## /
+## Programming languages and paradigms
+
+
+## Soft skills and communications
 
