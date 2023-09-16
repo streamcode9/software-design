@@ -21,7 +21,6 @@
 
 
 ## Security
-* https://pwn.college
 * https://web.stanford.edu/class/cs253/
 
 ## Algo + Math
