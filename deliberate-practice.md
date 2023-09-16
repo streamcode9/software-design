@@ -42,5 +42,5 @@
 ## Programming languages and paradigms
 
 
-## Soft skills and communications
+## Soft skills
 
