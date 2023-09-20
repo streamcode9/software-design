@@ -1,6 +1,7 @@
 # deliberate practice
 
 ## investigate
+* xkcd
 * http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf
 * https://github.com/synrc/n2o/blob/master/priv/n2o.js
 * https://jaykmody.com/blog/gpt-from-scratch/
