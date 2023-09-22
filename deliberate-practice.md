@@ -41,7 +41,24 @@
 ## Software development life cycle
 
 
-## Programming languages and paradigms
+## Other
+• Lambda Calculus
+• Spectral Graph Theory
+• Programming Language Theory
+• Operating System Theory
+• Queueing Theory
+• Distributed Systems Theory
+• Real-Time Systems and Telemetry
+• Information Retrieval Systems
+• Modeling Complex Systems
+• Computer Data Storage
+• Computer Computing
+• Computer Graphics
+• Computer Networks
+• Web Programming
+• Functional Programming
+• Circuit Design
+• Microprocessor Architectures
 
 
 ## Soft skills
