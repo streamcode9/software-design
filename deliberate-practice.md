@@ -48,11 +48,11 @@
 * Programming Language Theory
 * Queueing Theory
 * Distributed Systems Theory
-• Real-Time Systems and Telemetry
-• Information Retrieval Systems
-• Modeling Complex Systems
-• Computer Computing
-• Computer Graphics
+* Real-Time Systems and Telemetry
+* Information Retrieval Systems
+* Modeling Complex Systems
+* Computer Computing
+* Computer Graphics
 * Web Programming
 * Functional Programming
 
