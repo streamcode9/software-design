@@ -1,11 +1,5 @@
 # deliberate practice
 
-## investigate
-* xkcd
-* 
-* 
-* https://jaykmody.com/blog/gpt-from-scratch/
-
 
 ## Computer Architecture
 * http://csapp.cs.cmu.edu/3e/home.html
@@ -41,7 +35,9 @@
 
 
 ## Software development life cycle
+* xkcd
 * http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf
+* engineering ISO ANSI IEEE
 
 
 ## Math
@@ -56,6 +52,7 @@
 * Computing
 * Computer Graphics
 * Functional Programming
+* https://jaykmody.com/blog/gpt-from-scratch/
 
 
 ## Soft skills
