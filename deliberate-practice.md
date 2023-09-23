@@ -25,6 +25,7 @@
 
 
 ## Network
+* Web Programming
 
 
 ## Security
@@ -53,7 +54,6 @@
 * Modeling Complex Systems
 * Computing
 * Computer Graphics
-* Web Programming
 * Functional Programming
 
 
