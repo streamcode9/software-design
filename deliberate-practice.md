@@ -48,3 +48,4 @@
 * https://jaykmody.com/blog/gpt-from-scratch/
 
 ## Soft skills
+* https://en.m.wikipedia.org/wiki/TRIZ
