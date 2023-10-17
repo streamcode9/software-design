@@ -13,7 +13,6 @@
 ## Data Storage
 
 ## Network
-* Web Programming
 * https://github.com/synrc/n2o/blob/master/priv/n2o.js
 
 ## Security
