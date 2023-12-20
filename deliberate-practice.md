@@ -4,7 +4,6 @@
 * http://csapp.cs.cmu.edu/3e/home.html
 
 ## OS
-* https://osblog.stephenmarz.com
 * https://pages.cs.wisc.edu/~remzi/OSTEP/
 * https://beej.us/guide/bgnet/
 * http://gaia.cs.umass.edu/kurose_ross/index.php
