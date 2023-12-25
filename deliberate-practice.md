@@ -14,7 +14,6 @@
 * https://github.com/synrc/n2o/blob/master/priv/n2o.js
 
 ## Security
-* https://web.stanford.edu/class/cs253/
 
 ## Algorithms
 * https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/
