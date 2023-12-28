@@ -30,18 +30,7 @@
 * http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf
 * ISO ANSI IEEE
 
-## Math
-* Lambda Calculus
-* Spectral Graph Theory
-* Programming Language Theory
-* Queueing Theory
-* Distributed Systems Theory
-* Real-Time Systems and Telemetry
-* Information Retrieval Systems
-* Modeling Complex Systems
-* Computing
-* Computer Graphics
-* Functional Programming
+## AI
 * https://jaykmody.com/blog/gpt-from-scratch/
 
 ## Soft skills
