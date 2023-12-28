@@ -2,6 +2,7 @@
 
 ## Computer Architecture
 * http://csapp.cs.cmu.edu/3e/home.html
+* zig
 
 ## OS
 * https://pages.cs.wisc.edu/~remzi/OSTEP/
@@ -21,6 +22,8 @@
 
 ## History
 * https://www.computerhistory.org/timeline/
+* smallTalk
+* lisp
 
 ## Software development life cycle and engineering culture
 * xkcd
