@@ -23,7 +23,9 @@
 ## History
 * https://www.computerhistory.org/timeline/
 * smallTalk
-* lisp
+* prolog
+* scheme miniKanren
+* lisp sicp clojure
 
 ## Software development life cycle and engineering culture
 * xkcd
