@@ -8,11 +8,6 @@
 * https://pages.cs.wisc.edu/~remzi/OSTEP/
 * https://beej.us/guide/bgnet/
 * http://gaia.cs.umass.edu/kurose_ross/index.php
- 
-## Data Storage
-
-## Network
-* https://github.com/synrc/n2o/blob/master/priv/n2o.js
 
 ## Security
 
