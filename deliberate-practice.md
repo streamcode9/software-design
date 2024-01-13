@@ -28,7 +28,6 @@
 * lisp sicp clojure
 
 ## Software development life cycle and engineering culture
-* xkcd
 * http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf
 * ISO ANSI IEEE
 
