@@ -25,7 +25,3 @@
 ## Software development life cycle and engineering culture
 * http://bitsavers.informatik.uni-stuttgart.de/pdf/univac/HopperAutoCodingPaper_1955.pdf
 * ISO ANSI IEEE
-
-
-## Soft skills
-* https://en.m.wikipedia.org/wiki/TRIZ
