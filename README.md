@@ -6,7 +6,7 @@
 
 ### Minimalism - use as less fetuses of the language/library/etc as possible
 
-use defaul OS/editor/etc apps and setup without customizations
+use defaul OS/editor/etc apps and setup without customizations aka vanilla style
 
 ### Loose Coupling and High Cohesion
 
