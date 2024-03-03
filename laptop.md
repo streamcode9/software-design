@@ -8,6 +8,15 @@
   * 500 Gb hdd
   * dvdrom | 3 usb | 0.3mpx cam | 4x40 WHr
   * 380x23,7x260,4mm | 2,24 kg
+* 2023-08-13 USED Dell 5480 ~1700
+  * 14" standard hd win10
+  * Intel Core i5 6200U
+  * 2x8GB DDR4
+  * Intel HD 520
+  * 256GB M.2 SATA Skhynix SSD med en M.2 Nvme Samsung SSD
+  * no dvd | ? usb | ? cam | ? battery
+  * ? size | ? kg
+  * Fingerprint leser som er kompatibel med Windows Hello. Smartkort leser. Docking Stasjon
 
 # other hardware
 * WD Elements portable usb (and Toshiba ones from the same serie) are good
