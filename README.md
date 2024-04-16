@@ -6,7 +6,8 @@
 
 ### Minimalism - use as less fetuses of the language/library/etc as possible
 
-use defaul OS/editor/etc apps and setup without customizations aka vanilla style
+* use defaul OS/editor/etc apps and setup without customizations aka vanilla style
+* minimal code, native API, minimal latency, ergonomics, zero deps
 
 ### Loose Coupling and High Cohesion
 
