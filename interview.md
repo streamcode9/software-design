@@ -11,3 +11,6 @@
 * domain
 * application
 * storage
+* auth: bff
+* security: OWASP
+* complience: ISO-27001
