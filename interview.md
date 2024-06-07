@@ -8,7 +8,7 @@
 * go thorough task and ask the questions
 * distributed systems
 * architecture
-* domain
+* domain: BPMN, camunda
 * application
 * storage
 * auth: bff
