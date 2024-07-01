@@ -9,10 +9,9 @@
 * cv, preferences, hobby
 * experience (dev flow, domain)
 * go thorough task and ask the questions
-* distributed systems
-* architecture
 * domain: BPMN, Camunda
-* application
+* system architecture
+* application architecture
 * storage
 * auth: bff
 * security: OWASP
