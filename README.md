@@ -2,6 +2,8 @@
 
 # Principles
 
+## Core principles
+
 ### Principles contradict each other
 
 ### Minimalism - use as less fetuses of the language/library/etc as possible
@@ -18,6 +20,8 @@ If a change in one module results in many changes in another module then they ar
 [SO](https://stackoverflow.com/q/14000762/805266)
 
 ### Explicit is Better Than Implicit
+
+### Easy code introspection
 
 ### Don't fix what isn't broken
 
