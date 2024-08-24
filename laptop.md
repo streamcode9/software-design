@@ -8,7 +8,7 @@
   * 500 Gb hdd
   * dvdrom | 3 usb | 0.3mpx cam | 4x40 WHr
   * 380x23,7x260,4mm | 2,24 kg
-* 2023-08-13 USED Dell 5480 ~1700
+* 2023-08-13 USED Dell5480 ~1700
   * 14" standard hd win10
   * Intel Core i5 6200U
   * 2x8GB DDR4
@@ -17,7 +17,7 @@
   * no dvd | ? usb | ? cam | ? battery
   * ? size | ? kg
   * Fingerprint leser som er kompatibel med Windows Hello. Smartkort leser. Docking Stasjon
-* 2024-08-14 USED Dell 7490 ~2300
+* 2024-08-14 USED Dell7490 ~2300
   * i5 8250U 4 kjerner og 8 tråder
   * 8GB RAM
   * 256 GB SSD.
