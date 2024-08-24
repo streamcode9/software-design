@@ -17,6 +17,12 @@
   * no dvd | ? usb | ? cam | ? battery
   * ? size | ? kg
   * Fingerprint leser som er kompatibel med Windows Hello. Smartkort leser. Docking Stasjon
+* 2024-08-14 USED Dell 7490 ~2300
+  * i5 8250U 4 kjerner og 8 tråder
+  * 8GB RAM
+  * 256 GB SSD.
+  * Full HD IPS 100% sRGB
+
 
 # other hardware
 * WD Elements portable usb (and Toshiba ones from the same serie) are good
