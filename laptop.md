@@ -20,7 +20,7 @@
 * 2024-08-14 USED Dell7490 ~2300
   * i5 8250U 4 kjerner og 8 tråder
   * 8GB RAM
-  * 256 GB SSD.
+  * 256 GB SSD
   * Full HD IPS 100% sRGB
 
 
