@@ -6,6 +6,8 @@
 
 ### Principles contradict each other
 
+### Memento mori/prioritize
+
 ### Deliberate practice
 
 ### Always keep artigacts after your study/research/work
