@@ -6,6 +6,12 @@
 
 ### Principles contradict each other
 
+### Deliberate practice
+
+### Always keep artigacts after your study/research/work
+
+### Craftsman/engineer mindset
+
 ### Minimalism - use as less fetuses of the language/library/etc as possible
 
 * use defaul OS/editor/etc apps and setup without customizations aka vanilla style
