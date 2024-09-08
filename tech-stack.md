@@ -11,3 +11,4 @@
 * c
 * asm
 * scheme
+* history of computers and programming languages
