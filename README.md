@@ -6,6 +6,8 @@
 
 ### Principles contradict each other
 
+### Doing something, even if it’s not perfect today, is better than doing something perfectly but never
+
 ### Memento mori/prioritize
 
 ### Deliberate practice
