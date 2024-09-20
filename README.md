@@ -9,6 +9,10 @@
 There needs to be some thoroughness in the approach. And if you did something hastily and it miraculously works, even though it shouldn't, then it needs to be documented, and you must understand that this is only a temporary solution.
 Imagine person made a few commits with typos that did something completely different from what was stated in the commit and change request descriptions, and neither the author nor the reviewer were bothered by it because build was green.
 
+### Risk-driven approach
+
+Systematically identify, assess, and mitigate risks to ensure project resilience, maintain information security, and achieve project objectives despite uncertainties in the external environment.
+
 ### Principles contradict each other
 
 ### Doing something, even if it’s not perfect today, is better than doing something perfectly but never
