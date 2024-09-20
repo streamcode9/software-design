@@ -21,7 +21,7 @@ Systematically identify, assess, and mitigate risks to ensure project resilience
 
 ### Deliberate practice
 
-### Always keep artigacts after your study/research/work
+### Always keep artitacts after your study/research/work
 
 ### Craftsman/engineer mindset
 
