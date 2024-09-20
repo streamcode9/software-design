@@ -23,8 +23,6 @@ Systematically identify, assess, and mitigate risks to ensure project resilience
 
 ### Always keep artitacts after your study/research/work
 
-### Craftsman/engineer mindset
-
 ### Minimalism - use as less fetuses of the language/library/etc as possible
 
 * use defaul OS/editor/etc apps and setup without customizations aka vanilla style
