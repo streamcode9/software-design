@@ -3,8 +3,6 @@
   * vs code
 * [nodejs](https://nodejs.org/en/download/package-manager)
   * https://www.serverless-dev.com/framework/docs/getting-started
-* .net
-  * blazor
 * http://vanilla-js.com/
 * zig
 * erlang
