@@ -18,6 +18,10 @@
 * auth: bff
 * security: OWASP
 * complience: ISO-27001
-* react
+* react, redux, redux-saga
 * blazor wasm
+* asp.net
+* ef
+* patterns: di, mediator, factory, proxy
+* duende
 * LLM
