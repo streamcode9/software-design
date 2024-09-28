@@ -21,6 +21,8 @@ Systematically identify, assess, and mitigate risks to ensure project resilience
 
 ### Deliberate practice
 
+Mass of information turns into essence — the large is condensed into the small.
+
 ### Always keep artitacts after your study/research/work
 
 ### Minimalism - use as less fetuses of the language/library/etc as possible
