@@ -23,6 +23,8 @@ Systematically identify, assess, and mitigate risks to ensure project resilience
 
 Mass of information turns into essence — the large is condensed into the small.
 
+Decisions log.
+
 ### Always keep artitacts after your study/research/work
 
 ### Minimalism - use as less fetuses of the language/library/etc as possible
