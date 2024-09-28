@@ -7,6 +7,8 @@
   * estimate
 * language and communication skills
 * cv, preferences, hobby
+* iso 21502, 42010, 27005
+* sysml, archimate, cmm 5
 * experience (dev flow, domain)
 * go through task and ask the questions
 * k8s doker
