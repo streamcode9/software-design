@@ -8,12 +8,15 @@
 * language and communication skills
 * cv, preferences, hobby
 * experience (dev flow, domain)
-* go thorough task and ask the questions
+* go through task and ask the questions
 * k8s doker
 * domain: BPMN, Camunda
 * system architecture
 * application architecture
-* storage
+* event-driven
+* domain-driven
+* message queue, pub sub, service bus, event grid, event hub
+* storage: sql, cosmos, blob, data lake
 * elastic search
 * auth: bff
 * security: OWASP
