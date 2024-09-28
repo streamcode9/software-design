@@ -10,6 +10,7 @@
 * experience (dev flow, domain)
 * go through task and ask the questions
 * k8s doker
+* ci/cd, slots swap
 * domain: BPMN, Camunda
 * system architecture
 * application architecture
@@ -17,6 +18,7 @@
 * domain-driven
 * message queue, pub sub, service bus, event grid, event hub
 * storage: sql, cosmos, blob, data lake
+* hot/cold storage
 * elastic search
 * auth: bff
 * security: OWASP
@@ -27,4 +29,5 @@
 * ef
 * patterns: di, mediator, factory, proxy
 * duende
+* feature management
 * LLM
