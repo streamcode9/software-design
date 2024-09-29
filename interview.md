@@ -1,5 +1,7 @@
 * interview is hard
+* experience (dev flow, domain)
 * tech task preview
+* go through task and ask the questions
 * soft skills
   * body language
   * conflict management
@@ -9,8 +11,6 @@
 * cv, preferences, hobby
 * iso 21502, 42010, 27005
 * sysml, archimate, cmm 5
-* experience (dev flow, domain)
-* go through task and ask the questions
 * k8s doker
 * ci/cd, slots swap
 * domain: BPMN, Camunda
@@ -23,13 +23,12 @@
 * hot/cold storage
 * elastic search
 * auth: bff
-* security: OWASP
+* security: OWASP, duende
 * complience: ISO-27001
 * react, redux, redux-saga
 * blazor wasm
 * asp.net
 * ef
 * patterns: di, mediator, factory, proxy
-* duende
 * feature management
 * LLM
