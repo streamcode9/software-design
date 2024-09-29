@@ -14,6 +14,7 @@
 * k8s doker
 * ci/cd, slots swap
 * domain: BPMN, Camunda
+* reference architecture
 * system architecture
 * application architecture
 * event-driven
