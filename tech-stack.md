@@ -3,6 +3,7 @@
   * git
   * vs code
 * [nodejs](https://nodejs.org/en/download/package-manager)
+  * nx
   * https://www.serverless-dev.com/framework/docs/getting-started
 * http://vanilla-js.com/
 * zig
