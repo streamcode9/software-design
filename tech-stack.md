@@ -1,4 +1,5 @@
-* winget
+* windows
+  * winget
   * git
   * vs code
 * [nodejs](https://nodejs.org/en/download/package-manager)
