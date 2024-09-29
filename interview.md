@@ -32,3 +32,6 @@
 * patterns: di, mediator, factory, proxy
 * feature management
 * LLM
+* ? aspire
+* ? orleans
+* ? akka
