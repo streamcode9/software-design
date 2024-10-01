@@ -10,6 +10,7 @@
 * erlang
 * haskell
 * c
+  * https://beej.us/guide/bgnet/ 
 * asm
 * scheme
 * history of computers and programming languages
