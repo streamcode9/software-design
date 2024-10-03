@@ -13,4 +13,11 @@
   * https://beej.us/guide/bgnet/ 
 * asm
 * scheme
+
+---
+
 * history of computers and programming languages
+* Commodore 64 (or other 8-bit computer Atari, ZX Spectrum, Apple-1)
+- Arduino Uno (ATMega328)
+- Raspberry Pi Pico
+- DOS-era PCs
