@@ -3,6 +3,8 @@
   * git
   * vs code
 * [nodejs](https://nodejs.org/en/download/package-manager)
+  * aws
+  * ts
   * nx
   * https://www.serverless-dev.com/framework/docs/getting-started
 * http://vanilla-js.com/
@@ -17,8 +19,8 @@
 ---
 
 * history of computers and programming languages
-* Commodore 64 (or other 8-bit computer Atari, ZX Spectrum, Apple-1)
-- Amiga
-- Arduino Uno (ATMega328)
-- Raspberry Pi Pico
-- DOS-era PCs
+  * Commodore 64 (or other 8-bit computer Atari, ZX Spectrum, Apple-1)
+  * Amiga
+  * Arduino Uno (ATMega328)
+  * Raspberry Pi Pico
+  * DOS-era PCs
