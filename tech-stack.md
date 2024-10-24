@@ -1,3 +1,5 @@
+## Stask
+
 * windows
   * winget
   * git
@@ -8,19 +10,31 @@
   * nx
   * https://www.serverless-dev.com/framework/docs/getting-started
 * http://vanilla-js.com/
-* zig
-* erlang
-* haskell
-* c
-  * https://beej.us/guide/bgnet/ 
-* asm
-* scheme
 
----
 
-* history of computers and programming languages
-  * Commodore 64 (or other 8-bit computer Atari, ZX Spectrum, Apple-1)
+## History of computers and programming languages
+
+* 1947
+  * asm
+* 1972
+  * c
+* 1975
+  * scheme
+* 1976
+  * Apple Computer 1
+* 1979
+  * Atari 8-bit computers
+* 1981
+  * MS-DOS
+* 1982
+  * Commodore 64
+  * ZX Spectrum
+* 1985
   * Amiga
-  * Arduino Uno (ATMega328)
-  * Raspberry Pi Pico
-  * DOS-era PCs
+* 1986
+  * erlang
+* 1990
+  * haskell
+* 2016
+  * zig
+ 
