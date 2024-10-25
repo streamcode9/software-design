@@ -9,7 +9,7 @@
   * estimate
 * cv, preferences, hobby
 * standards: iso, ieee, ansi, etc
-  * sysml, archimate, cmm 5
+  * sysml, archimate, cmmi 5
 * domain: BPMN
 * ci/cd
   * slots swap
