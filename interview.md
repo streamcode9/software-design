@@ -13,7 +13,7 @@
 * domain: BPMN
 * ci/cd
   * slots swap
-  * k8s doker
+  * k8s doker sail
   * feature management
 * reference architecture
 * system architecture
@@ -27,5 +27,5 @@
   * search index/indexers
   * EF
 * security: OWASP, duende, BFF
-* patterns: di, mediator, factory, proxy
-* LLM
+* patterns: di, mediator, factory, proxy, builder
+
