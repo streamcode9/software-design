@@ -20,6 +20,7 @@
   * event-driven
     * message queue, pub sub, service bus, event grid, event hub
   * domain-driven
+  * micro services
 * application architecture
   * ASP.net
 * storage: sql, cosmos, blob, data lake
