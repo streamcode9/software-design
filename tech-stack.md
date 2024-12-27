@@ -1,4 +1,4 @@
-## Stask
+## Stack
 
 * windows
   * winget
