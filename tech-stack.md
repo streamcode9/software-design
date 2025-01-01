@@ -1,5 +1,8 @@
 ## Stack
 
+* www
+  * wiki federated
+  * web archive
 * windows
   * winget
   * git
