@@ -8,6 +8,7 @@
   * git
   * vs code
 * [nodejs](https://nodejs.org/en/download/package-manager)
+  * `fnm env --use-on-cd | Out-String | Invoke-Expression`
   * aws
   * ts
   * nx
