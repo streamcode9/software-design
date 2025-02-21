@@ -4,6 +4,7 @@
   * git log --oneline
   * git commit --fixup
   * shortlog
+  * bisect
   * focus on why and how
   * focused commits - do one thing
   * write imperative subject (Add Remove Prune Handle ...) - (Fix usually useless)
