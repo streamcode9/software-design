@@ -33,12 +33,18 @@
 * 1982
   * Commodore 64
   * ZX Spectrum
+* 1983
+  * StandardML
 * 1985
   * Amiga
 * 1986
   * erlang
+* 1989
+  * Coq 
 * 1990
   * haskell
+* 1996
+  * OCaml
 * 2016
   * zig
 
