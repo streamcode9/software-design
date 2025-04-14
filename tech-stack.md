@@ -14,6 +14,7 @@
   * nx
   * https://www.serverless-dev.com/framework/docs/getting-started
 * http://vanilla-js.com/
+* vercel cloudflare kubectl
 
 
 ## History of computers and programming languages
