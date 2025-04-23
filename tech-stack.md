@@ -11,7 +11,6 @@
   * `fnm env --use-on-cd | Out-String | Invoke-Expression`
   * aws
   * ts
-  * nx
   * https://www.serverless-dev.com/framework/docs/getting-started
 * http://vanilla-js.com/
 * vercel cloudflare kubectl
