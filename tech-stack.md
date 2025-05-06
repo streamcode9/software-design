@@ -25,26 +25,37 @@
 * 1975
   * scheme
 * 1976
-  * Apple Computer 1
+  * apple computer 1
 * 1979
-  * Atari 8-bit computers
+  * atari 8-bit computers
 * 1981
-  * MS-DOS
+  * ms-dos
 * 1982
-  * Commodore 64
-  * ZX Spectrum
+  * commodore 64
+  * zx spectrum
 * 1983
-  * StandardML
+  * standardml
 * 1985
-  * Amiga
+  * amiga
 * 1986
   * erlang
+  * norton commander
 * 1989
-  * Coq 
+  * coq 
 * 1990
   * haskell
+* 1995
+  * js 
 * 1996
-  * OCaml
+  * ocaml
+* 1997
+  * visual studio 
+* 1998
+  * win 98 
+* 2001
+  * win xp
+* 2015
+  * visual studio code
 * 2016
   * zig
 
