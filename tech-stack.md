@@ -20,6 +20,8 @@
 
 * 1947
   * asm
+* 1960
+  * lisp 
 * 1972
   * c
 * 1975
@@ -37,6 +39,7 @@
   * standardml
 * 1985
   * amiga
+  * c++
 * 1986
   * erlang
   * norton commander
@@ -44,6 +47,8 @@
   * coq 
 * 1990
   * haskell
+* 1991
+  * linux
 * 1995
   * js 
 * 1996
@@ -54,10 +59,23 @@
   * win 98 
 * 2001
   * win xp
+* 2002
+  * .net framework
+* 2008
+  * azure
+* 2009
+  * go 
+* 2013
+  * doker
+* 2014
+  * kuernetes  
 * 2015
   * visual studio code
 * 2016
   * zig
+  * .net core
+* 2020
+  * .net 5 
 
 
 ## nand2tetris
