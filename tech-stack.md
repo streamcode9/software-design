@@ -37,6 +37,7 @@
   * zx spectrum
 * 1983
   * standardml
+  * nes
 * 1985
   * amiga
   * c++
@@ -47,8 +48,13 @@
   * coq 
 * 1990
   * haskell
+  * snes
 * 1991
   * linux
+* 1992
+  * dendy
+* 1994
+  * play station 1
 * 1995
   * js 
 * 1996
@@ -74,6 +80,8 @@
 * 2016
   * zig
   * .net core
+* 2017
+  * nintendo switch 1
 * 2020
   * .net 5 
 
