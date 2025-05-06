@@ -68,7 +68,7 @@
 * 2013
   * doker
 * 2014
-  * kuernetes  
+  * kubernetes  
 * 2015
   * visual studio code
 * 2016
