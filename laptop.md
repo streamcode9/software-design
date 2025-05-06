@@ -1,3 +1,6 @@
+* 1995 x484 -> pentium 70/90
+* 2000 athlon 800
+* 2005 celeron 333
 * 2009-2010? Asus basic laptop ~400
   * maybe Asus Eee PC 1001p-MU17
 * 2016-05-15 Dell Vostro 3559 Black (VAN15SKL1701_006_UBU) 16kuah ~650
