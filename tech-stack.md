@@ -45,7 +45,7 @@
   * erlang
   * norton commander
 * 1988
-  * Sega mega drive
+  * sega mega drive
 * 1989
   * coq 
 * 1990
