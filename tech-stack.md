@@ -51,18 +51,22 @@
 * 1990
   * haskell
   * snes
+  * ole
 * 1991
   * linux
+  * corba
 * 1992
   * dendy
 * 1993
   * panasonic 3do
+  * com
 * 1994
   * play station 1
 * 1995
   * js 
 * 1996
   * ocaml
+  * dcom
 * 1997
   * visual studio 
 * 1998
