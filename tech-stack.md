@@ -44,6 +44,8 @@
 * 1986
   * erlang
   * norton commander
+* 1988
+  * Sega mega drive
 * 1989
   * coq 
 * 1990
@@ -53,6 +55,8 @@
   * linux
 * 1992
   * dendy
+* 1993
+  * panasonic 3do
 * 1994
   * play station 1
 * 1995
