@@ -13,7 +13,7 @@
 * domain: BPMN
 * ci/cd
   * slots swap
-  * k8s doker sail
+  * k8s doker
   * feature management
 * reference architecture
 * system architecture
