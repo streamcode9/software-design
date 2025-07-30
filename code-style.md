@@ -1,4 +1,7 @@
+## Common
 * switch operator is anti pattern ~ god object/function. prefer multiple functions over switch with parameters.
+
+## Git
 * https://cbea.ms/git-commit/
 * 50/72 subject/line
   * log --oneline
@@ -12,3 +15,6 @@
 * subject: if applied this commit will ... (remove deprecated method) 
 * https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 * reset --patch
+
+## Dependencies
+* dotnet nuget why .\Tests\Clients.Tests.csproj xunit.assert
