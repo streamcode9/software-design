@@ -25,7 +25,7 @@ Mass of information turns into essence — the large is condensed into the small
 
 Decisions log.
 
-### Always keep artitacts after your study/research/work
+### Always keep artifacts after your study/research/work
 
 ### Minimalism - use as less fetuses of the language/library/etc as possible
 
@@ -76,8 +76,8 @@ During unengineering, all principles are violated. With overengineering, all pri
 
 ### Growing programs
 
-anti-planing. Adding new features into empty or sample project step by step if needed
-  without further planing of system evolution (architecture, features, etc) and building proper backbones of the system.
+anti-planning. Adding new features into empty or sample project step by step if needed
+  without further planning of system evolution (architecture, features, etc) and building proper backbones of the system.
   Such code consist of workarounds and hacks.
 
 ### It does work!
@@ -123,7 +123,7 @@ any group of variables which are passed around together (in a clump) throughout 
 
 ### Helpless kitten
 
-developer does not know what he is doing and afraids everything
+developer does not know what he is doing and is afraid of everything
   He does not evolve because of lack of intellect or absence of environmental pressure (project or team interest, market needs, etc)
 
 ## Source control principles
@@ -135,7 +135,7 @@ developer does not know what he is doing and afraids everything
 - Single repo instead of multiple ones to track contract changes across system nodes
 
 
-## Maintainence
+## Maintenance
 
 - to replace the wrong with the right when a problem is detected is not our method. All dependencies that you use - you maintain them in fact. The result is more confidence in tools, and more confidence in coding, and more skill in dealing with problems.
 - Shortening feedback loops is the most reliable way to improve any process. Identify which loop is the bottleneck, unclog it, rinse, repeat.
