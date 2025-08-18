@@ -15,6 +15,10 @@
 * subject: if applied this commit will ... (remove deprecated method) 
 * https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 * reset --patch
+* https://www.conventionalcommits.org/en/v1.0.0/
+
+## Versioning
+* https://semver.org/
 
 ## Dependencies
 * dotnet nuget why .\Tests\Clients.Tests.csproj xunit.assert
