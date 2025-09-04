@@ -16,6 +16,8 @@
 * https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 * reset --patch
 * https://www.conventionalcommits.org/en/v1.0.0/
+* https://git-scm.com/docs/gitattributes
+  * `* text=auto`
 
 ## Versioning
 * https://semver.org/
