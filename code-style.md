@@ -24,3 +24,10 @@
 
 ## Dependencies
 * dotnet nuget why .\Tests\Clients.Tests.csproj xunit.assert
+
+## Hallmarks of a mature ecosystem
+* Local dev and run loop
+* Rich tooling (IDE + debugger)
+* Strong logging support
+* Reflection/introspection for dynamic work
+* Ability to step into both 3rd-party and standard library code
