@@ -31,3 +31,6 @@
 * Strong logging support
 * Reflection/introspection for dynamic work
 * Ability to step into both 3rd-party and standard library code
+
+## Debugging
+* Endpoints tests are often дщыу original exception and miss stack trace. Replace/create simple middleware to debug tests related to API calls.
