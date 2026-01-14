@@ -15,6 +15,17 @@
   * https://www.serverless-dev.com/framework/docs/getting-started
 * http://vanilla-js.com/
 * vercel cloudflare kubectl
+* Windsurf/Aider/Antigravity/Gemini CLI/Codex/Claude Code/VS code
+* research
+  * https://en.wikipedia.org/wiki/George_P%C3%B3lya
+  * https://docs.together.ai/docs/nanochat-on-instant-clusters
+  * fast.ai
+  * https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers
+  * https://www.cs.princeton.edu/~appel/modern/
+  * https://contabo.com/en/
+  * https://norasandler.com/2017/11/29/Write-a-Compiler.html
+  * https://www.buildyourownlisp.com/
+  * https://dependablec.org/
 
 
 ## History of computers and programming languages
