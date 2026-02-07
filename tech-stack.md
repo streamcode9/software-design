@@ -67,6 +67,7 @@
 * 1991
   * linux
   * corba
+  * Grady Booch - OOAD
 * 1992
   * dendy
 * 1993
@@ -97,6 +98,7 @@
   * kubernetes  
 * 2015
   * visual studio code
+  * Andrej Karpathy - CS231n at Stanford
 * 2016
   * zig
   * .net core
@@ -104,6 +106,8 @@
   * nintendo switch 1
 * 2020
   * .net 5 
+* 2025
+  * Vibe Coding
 
 
 ## nand2tetris
