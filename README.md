@@ -74,6 +74,8 @@ High cohesion - a lot of unrelated functionality jumbled together
 During unengineering, all principles are violated. With overengineering, all principles are brought to the point of absurdity.
 
 
+If you can't "Go To Definition" on your handler, you've over-engineered it.
+
 ### Growing programs
 
 anti-planning. Adding new features into empty or sample project step by step if needed
