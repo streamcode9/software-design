@@ -31,6 +31,7 @@ Decisions log.
 
 * use defaul OS/editor/etc apps and setup without customizations aka vanilla style
 * minimal code, native API, minimal latency, ergonomics, zero deps
+* [MinimalistLanguage](https://wiki.c2.com/?MinimalistLanguage)
 
 ### Loose Coupling and High Cohesion
 
