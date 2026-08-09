@@ -12,7 +12,7 @@
   * https://www.serverless-dev.com/framework/docs/getting-started
 * http://vanilla-js.com/
 * vercel cloudflare kubectl
-* Windsurf/Aider/Antigravity/Gemini CLI/Codex/Claude Code/VS code
+* Claude Code/VS Code
 * research
   * https://en.wikipedia.org/wiki/George_P%C3%B3lya
   * https://docs.together.ai/docs/nanochat-on-instant-clusters
