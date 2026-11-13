@@ -50,10 +50,13 @@ If a change in one module results in many changes in another module then they ar
 ### Minimal sample (to reproduce error or demo feature)
 
 
+
 ## Architecture 
 * Medalion https://learn.microsoft.com/en-us/azure/databricks/lakehouse/medallion
 * Vertical Slice Architecture
 * ADR
+* Acceptance criteria must be mechanically verifiable
+
 
 
 ## Anti patterns
