@@ -4,6 +4,8 @@
 
 ## Core principles
 
+### Variety by W. Ross Ashby
+
 ### Thoroughness
 
 There needs to be some thoroughness in the approach. And if you did something hastily and it miraculously works, even though it shouldn't, then it needs to be documented, and you must understand that this is only a temporary solution.
