@@ -23,8 +23,6 @@ Systematically identify, assess, and mitigate risks to ensure project resilience
 
 Mass of information turns into essence — the large is condensed into the small.
 
-Decisions log.
-
 ### Always keep artifacts after your study/research/work
 
 ### Minimalism - use as less fetuses of the language/library/etc as possible
@@ -55,6 +53,7 @@ If a change in one module results in many changes in another module then they ar
 ## Architecture 
 * Medalion https://learn.microsoft.com/en-us/azure/databricks/lakehouse/medallion
 * Vertical Slice Architecture
+* ADR
 
 
 ## Anti patterns
