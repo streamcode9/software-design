@@ -54,6 +54,7 @@ If a change in one module results in many changes in another module then they ar
 
 ## Architecture 
 * Medalion https://learn.microsoft.com/en-us/azure/databricks/lakehouse/medallion
+* Vertical Slice Architecture
 
 
 ## Anti patterns
