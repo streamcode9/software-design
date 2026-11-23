@@ -35,21 +35,8 @@
   * c
 * 1975
   * scheme
-* 1976
-  * apple computer 1
-* 1979
-  * atari 8-bit computers
-* 1981
-  * ms-dos
-* 1982
-  * commodore 64
-  * zx spectrum
 * 1983
   * standardml
-  * nes
-* 1985
-  * amiga
-  * c++
 * 1986
   * erlang
   * norton commander
@@ -108,4 +95,6 @@
 
 
 ## nand2tetris
+
+https://www.thoughtworks.com/radar
  
